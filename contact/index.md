@@ -51,8 +51,8 @@ Aurora, CO 80045
 {% capture col1 %}
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="The Center for Wit and Sagacity"
+  image="images/Picture1.jpg"
+  caption="Anschutz Medical Campus"
 %}
 {% endcapture %}
 {% capture col2 %}

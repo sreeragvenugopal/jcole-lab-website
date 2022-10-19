@@ -7,8 +7,8 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Department of Metaphor](), at the school of [Whimsy and Caprice]().
-We are located on the 13th floor of the [Center for Wit and Sagacity]().
+Our lab is part of the [Department of Biomedical Informatics][https://medschool.cuanschutz.edu/dbmi] in the [University of Colorado School of Medicine](https://medschool.cuanschutz.edu/).
+We are located within the [Colorado Center for Personalized Medicine (CCPM)](https://medschool.cuanschutz.edu/ccpm) on the 7th floor of the [Anschutz Health Sciences Building](https://news.cuanschutz.edu/news-stories/what-should-i-know-about-the-anschutz-health-sciences-building).
 
 {%
   include link.html
@@ -23,9 +23,9 @@ We are located on the 13th floor of the [Center for Wit and Sagacity]().
   include link.html
   type="phone"
   icon=""
-  text="(555) 867-5309"
+  text="(555) 555-5555"
   tooltip=""
-  link="+1-555-867-5309"
+  link="+1-555-555-5555"
   style="button"
 %}
 {%
@@ -34,7 +34,7 @@ We are located on the 13th floor of the [Center for Wit and Sagacity]().
   icon=""
   text="Google Maps"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps/place/That+St+%26+The+Other+St,+Porters+Lake,+NS+B3E+1H3,+Canada/@44.7389237,-63.3033296,20.78z/data=!4m5!3m4!1s0x4b5a31023bb02565:0xb9505694e83a53d7!8m2!3d44.7389353!4d-63.3030828"
+  link="https://www.google.com/maps/place/Anschutz+Health+Sciences+Building/@39.7454721,-104.8418929,15z/data=!4m5!3m4!1s0x0:0x85f675e778fce18c!8m2!3d39.7454721!4d-104.8418929"
   style="button"
 %}
 {:.center}
@@ -43,9 +43,9 @@ We are located on the 13th floor of the [Center for Wit and Sagacity]().
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-That St & The Other St  
-Porters Lake, NS B3E 1H3  
-Canada
+1890 N Revere Ct
+P12-7083
+Aurora, CO 80045
 {:.center}
 
 {% capture col1 %}
@@ -63,3 +63,6 @@ Canada
 %}
 {% endcapture %}
 {% include two-col.html col1=col1 col2=col2 %}
+
+
+[https://medschool.cuanschutz.edu/dbmi]: https://medschool.cuanschutz.edu/dbmi

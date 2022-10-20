@@ -12,17 +12,8 @@ We are located within the [Colorado Center for Personalized Medicine](https://me
 
 {%
   include gallery.html
-  image1="images/contact/email_image.jpeg"
+  image1="images/contact/email_image_invert.jpg"
   style="rectangle"
-%}
-{%
-  include link.html
-  type="email"
-  icon=""
-  text="joanne.cole@cuanschutz.edu"
-  tooltip=""
-  link=""
-  style=""
 %}
 {%
   include link.html

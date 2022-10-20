@@ -10,15 +10,15 @@ nav:
 Our lab is part of the [Department of Biomedical Informatics][https://medschool.cuanschutz.edu/dbmi] at the [University of Colorado School of Medicine](https://medschool.cuanschutz.edu/).
 We are located within the [Colorado Center for Personalized Medicine](https://medschool.cuanschutz.edu/ccpm) on the 7th floor of the [Anschutz Health Sciences Building](https://news.cuanschutz.edu/news-stories/what-should-i-know-about-the-anschutz-health-sciences-building).
 
+
 {%
-  include link.html
-  type="email"
-  icon=""
-  text="joanne.cole@cuanschutz.edu"
-  tooltip="Email image to prevent spam"
+  include figure.html
+  image="images/contact/email_image.png"
+  caption=""
   link=""
-  style="button"
+  width="400px"
 %}
+
 {%
   include link.html
   type="phone"

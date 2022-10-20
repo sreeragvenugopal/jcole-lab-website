@@ -17,6 +17,15 @@ We are located within the [Colorado Center for Personalized Medicine](https://me
 %}
 {%
   include link.html
+  type="email"
+  icon=""
+  text="joanne.cole@cuanschutz.edu"
+  tooltip=""
+  link=""
+  style=""
+%}
+{%
+  include link.html
   type="phone"
   icon=""
   text="(555) 555-5555"

@@ -14,10 +14,10 @@ We are located within the [Colorado Center for Personalized Medicine](https://me
   include link.html
   type="email"
   icon=""
-  text="joanne.cole(at)cuanschutz.edu"
-  tooltip=""
+  text="joanne.cole@cuanschutz.edu"
+  tooltip="Email image to prevent spam"
   link=""
-  style=""
+  style="button"
 %}
 {%
   include link.html

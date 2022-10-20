@@ -10,13 +10,7 @@ nav:
 Our lab is part of the [Department of Biomedical Informatics][https://medschool.cuanschutz.edu/dbmi] at the [University of Colorado School of Medicine](https://medschool.cuanschutz.edu/).
 We are located next to the [Colorado Center for Personalized Medicine](https://medschool.cuanschutz.edu/ccpm) on the 7th floor of the [Anschutz Health Sciences Building](https://news.cuanschutz.edu/news-stories/what-should-i-know-about-the-anschutz-health-sciences-building).
 
-<! ---
-{%
-  include gallery.html
-  image1="images/contact/email_image_invert.jpg"
-  style="rectangle"
-%}
--->
+
 {%
   include link.html
   type="email"

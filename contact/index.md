@@ -16,8 +16,8 @@ We are located within the [Colorado Center for Personalized Medicine](https://me
   icon=""
   text="joanne.cole(at)cuanchutz.edu"
   tooltip=""
-  link="scrooge@mcduck.com"
-  style="button"
+  link=""
+  style=""
 %}
 {%
   include link.html
@@ -50,10 +50,8 @@ Aurora, CO 80045
 
 {%
   include gallery.html
-  image1="images/contact/AHSB_atrium.jpeg"
-  image2="images/contact/AHSB_2022.jpeg"
-  image3="images/contact/campus.jpg"
-  style="square"
+  image1="images/contact/CU_AHSB_collage.png"
+  style="rectangle"
 %}
 
 

@@ -7,17 +7,17 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Department of Biomedical Informatics][https://medschool.cuanschutz.edu/dbmi] in the [University of Colorado School of Medicine](https://medschool.cuanschutz.edu/).
-We are located within the [Colorado Center for Personalized Medicine (CCPM)](https://medschool.cuanschutz.edu/ccpm) on the 7th floor of the [Anschutz Health Sciences Building](https://news.cuanschutz.edu/news-stories/what-should-i-know-about-the-anschutz-health-sciences-building).
+Our lab is part of the [Department of Biomedical Informatics][https://medschool.cuanschutz.edu/dbmi] at the [University of Colorado School of Medicine](https://medschool.cuanschutz.edu/).
+We are located within the [Colorado Center for Personalized Medicine](https://medschool.cuanschutz.edu/ccpm) on the 7th floor of the [Anschutz Health Sciences Building](https://news.cuanschutz.edu/news-stories/what-should-i-know-about-the-anschutz-health-sciences-building).
 
 {%
   include link.html
   type="email"
   icon=""
-  text="scrooge@mcduck.com"
+  text="joanne.cole(at)cuanchutz.edu"
   tooltip=""
-  link="scrooge@mcduck.com"
-  style="button"
+  link=""
+  style=""
 %}
 {%
   include link.html
@@ -41,28 +41,18 @@ We are located within the [Colorado Center for Personalized Medicine (CCPM)](htt
 
 {% include section.html %}
 
-### <i class="fas fa-mail-bulk"></i>Mailing Address
+### <i class="fas fa-mail-bulk"></i>Physical Address
 
-1890 N Revere Ct
-P12-7083
+Office: P12-7083  
+1890 N Revere Ct   
 Aurora, CO 80045
 {:.center}
 
-{% capture col1 %}
 {%
-  include figure.html
-  image="images/Picture1.jpg"
-  caption="Anschutz Medical Campus"
+  include gallery.html
+  image1="images/contact/CU_AHSB_collage.png"
+  style="rectangle"
 %}
-{% endcapture %}
-{% capture col2 %}
-{%
-  include figure.html
-  image="images/AHSB_2022.jpeg"
-  caption="AHSB"
-%}
-{% endcapture %}
-{% include two-col.html col1=col1 col2=col2 %}
 
 
 [https://medschool.cuanschutz.edu/dbmi]: https://medschool.cuanschutz.edu/dbmi

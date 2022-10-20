@@ -43,35 +43,18 @@ We are located within the [Colorado Center for Personalized Medicine](https://me
 
 ### <i class="fas fa-mail-bulk"></i>Physical Address
 
-Office: P12-7083
-
-1890 N Revere Ct 
-
+Office: P12-7083  
+1890 N Revere Ct   
 Aurora, CO 80045
 {:.center}
 
-{% capture col1 %}
 {%
-  include figure.html
-  image="images/IMG_4257.jpeg"
-  caption=""
+  include gallery.html
+  image1="images/contact/AHSB_atrium.jpeg"
+  image2="images/contact/AHSB_2022.jpeg"
+  image3="images/contact/campus.jpg"
+  style="square"
 %}
-{% endcapture %}
-{% capture col2 %}
-{%
-  include figure.html
-  image="images/AHSB_2022.jpeg"
-  caption=""
-%}
-{% endcapture %}
-{% capture col3 %}
-{%
-  include figure.html
-  image="images/Picture1.jpg"
-  caption=""
-%}
-{% endcapture %}
-{% include two-col.html col1=col1 col2=col2 %}
 
 
 [https://medschool.cuanschutz.edu/dbmi]: https://medschool.cuanschutz.edu/dbmi

@@ -1,7 +1,7 @@
 ---
 name: Joanne Cole
 image: 
-description: Bark Ops Engineer
+description: PI
 role: pi
 aliases:
   - Joanne B. Cole

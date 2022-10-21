@@ -18,6 +18,8 @@ nav:
 
 {:.center}
 
+{% include section.html dark=true %}
+
 ## The Cole Lab is hiring!
 {:.center}
 Come join us as we launch our lab

@@ -1,6 +1,6 @@
 ---
 name: Postdoc 
-image: images/team/postdoc.jpg
+image: images/team/female_scientist.svg
 description: starting March 2023
 role: postdoc
 aliases:

@@ -18,22 +18,9 @@ nav:
 
 {:.center}
 
-# <i class="fas fa-users"></i>Colleagues
-
-{% include section.html %}
-
-{% include list.html data="colleagues" component="portrait" filters="role: pi, group: " %}
-{% include list.html data="colleagues" component="portrait" filters="role: postdoc, group: " %}
-{% include list.html data="colleagues" component="portrait" filters="role: phd, group: " %}
-{% include list.html data="colleagues" component="portrait" filters="role: undergrad, group: " %}
-{% include list.html data="colleagues" component="portrait" filters="role: programmer, group: " %}
-{% include list.html data="colleagues" component="portrait" filters="role: mascot, group: " %}
-
-{:.center}
-
-{% include section.html background="images/banner.jpg" dark=true%}
-
 ## The Cole Lab is hiring!
+{:.center}
+Come join us as we launch our lab
 {:.center}
 
 {%

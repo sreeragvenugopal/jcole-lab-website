@@ -24,9 +24,9 @@ We are located next to the [Colorado Center for Personalized Medicine](https://m
   include link.html
   type="phone"
   icon=""
-  text="(555) 555-5555"
+  text="303-724-2636"
   tooltip="Phone Number"
-  link="+1-555-555-5555"
+  link="+1-303-724-2636"
   style="button"
 %}
 {%

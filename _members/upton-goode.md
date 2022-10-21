@@ -1,18 +1,13 @@
 ---
-name: Upton O. Goode
-image: images/member.jpg
-description: Bone Investigator
-role: pi
+name: Postdoc 
+image: images/team/postdoc.jpg
+description: starting March 2023
+role: postdoc
 aliases:
-  - U. Goode
-  - U. O. Goode
-  - U Goode
 links:
-  orcid: 0000-0001-8713-9213
-  email: upton@ogoode.com
-  twitter: uptonogoode
+  orcid: 
+  email: 
+  twitter: 
 ---
 
-Upton is a good dog.
-He studied at the University of Good Dogs.
-He likes pets, walkies, and treats.
+TBN Postdoc starting in March 2023

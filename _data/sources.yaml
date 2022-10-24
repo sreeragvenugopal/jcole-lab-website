@@ -6,9 +6,7 @@
 - id: doi:10.1038/ng.2272
 
 - id: doi:10.1534/genetics.116.193185
-{% comment %}
-missing face shape review
-{% endcomment %}
+
 - id: doi:doi:10.1111/joa.12576
 
 - id: doi:10.1111/joa.12748
@@ -18,9 +16,6 @@ missing face shape review
 - id: doi:10.1371/journal.pmed.1002654
 
 - id: doi:10.1681/asn.2019030218
-{% comment %}
-missing laura brenner work
-{% endcomment %}
 
 - id: doi:10.1038/s41581-020-0278-5
 
@@ -33,9 +28,6 @@ missing laura brenner work
 - id: doi:10.1038/s41467-021-23556-4
 
 - id: doi:10.1038/s41467-021-21952-4
-{% comment %}
-missing haukka dkd
-{% endcomment %}
 
 - id: doi:10.1371/journal.pmed.1003553
 

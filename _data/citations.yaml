@@ -1,21 +1,6 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
-  authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-06-02'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/knowledge-graph-review/
-  tags:
-  - knowledge graphs
-  _cache: 2b8aa76c98be2f26481ab15dc135eb446fa9ef6f94af175c9639d1a45d538cf4
 - id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
   authors:
@@ -65,3 +50,1069 @@
     link: https://github.com/greenelab/scihub
     text: Analyses source
   _cache: 483a564e9ddf847e6372cafb31de4673771c3e4da664c0d86a7ea7c38c20318d
+- id: doi:10.1038/s41588-022-01200-1
+  title: A combined polygenic score of 21,293 rare and 22 common variants improves
+    diabetes diagnosis based on hemoglobin A1C levels
+  authors:
+  - Peter Dornbos
+  - Ryan Koesterer
+  - Andrew Ruttenburg
+  - Trang Nguyen
+  - Joanne B. Cole
+  - Aaron Leong
+  - James B. Meigs
+  - Jose C. Florez
+  - Jerome I. Rotter
+  - Miriam S. Udler
+  - Jason Flannick
+  - ' '
+  publisher: Nature Genetics
+  date: '2022-10-24'
+  link: https://doi.org/gq4f7s
+  orcid: 0000-0001-9520-2788
+  member: joanne-cole
+  _cache: 4c95917a3820ebb9b09df8bfb85f181c9dae26f3f73e6a1883dbc7302f4bdc00
+- id: doi:10.1038/s41586-022-05067-4
+  title: Post-translational control of beige fat biogenesis by PRDM16 stabilization
+  authors:
+  - Qiang Wang
+  - Huixia Li
+  - Kazuki Tajima
+  - Anthony R. P. Verkerke
+  - Zachary H. Taxin
+  - Zhishuai Hou
+  - Joanne B. Cole
+  - Fei Li
+  - Jake Wong
+  - Ichitaro Abe
+  - Rachana N. Pradhan
+  - Tadashi Yamamuro
+  - Takeshi Yoneshiro
+  - Joel N. Hirschhorn
+  - Shingo Kajimura
+  publisher: Nature
+  date: '2022-08-17'
+  link: https://doi.org/gqnxmq
+  orcid: 0000-0001-9520-2788
+  member: joanne-cole
+  _cache: 187d28d32aa78a5fec49836e6f4e4991838886b9b44bf4fea9f4aec6e20e2a40
+- id: doi:10.1007/s00125-022-05735-0
+  title: Genome-wide meta-analysis and omics integration identifies novel genes associated
+    with diabetic kidney disease
+  authors:
+  - Niina Sandholm
+  - Joanne B. Cole
+  - Viji Nair
+  - Xin Sheng
+  - Hongbo Liu
+  - Emma Ahlqvist
+  - Natalie van Zuydam
+  - "Emma H. Dahlstr\xF6m"
+  - Damian Fermin
+  - Laura J. Smyth
+  - Rany M. Salem
+  - Carol Forsblom
+  - Erkka Valo
+  - Valma Harjutsalo
+  - Eoin P. Brennan
+  - Gareth J. McKay
+  - Darrell Andrews
+  - Ross Doyle
+  - Helen C. Looker
+  - Robert G. Nelson
+  - Colin Palmer
+  - Amy Jayne McKnight
+  - Catherine Godson
+  - Alexander P. Maxwell
+  - Leif Groop
+  - Mark I. McCarthy
+  - Matthias Kretzler
+  - Katalin Susztak
+  - Joel N. Hirschhorn
+  - Jose C. Florez
+  - Per-Henrik Groop
+  - ' '
+  publisher: Diabetologia
+  date: '2022-06-28'
+  link: https://doi.org/gq4fzd
+  orcid: 0000-0001-9520-2788
+  member: joanne-cole
+  _cache: 9e59435cf671f57ad92f6c754f06cc9df329c7380c5c5768334e646d8fd958a0
+- id: doi:10.1101/2022.07.11.22277436
+  title: High-throughput Genetic Clustering of Type 2 Diabetes Loci Reveals Heterogeneous
+    Mechanistic Pathways of Metabolic Disease
+  authors:
+  - Hyunkyung Kim
+  - Kenneth E. Westerman
+  - Kirk Smith
+  - Joshua Chiou
+  - Joanne B. Cole
+  - Timothy Majarian
+  - Marcin von Grotthuss
+  - Josep M. Mercader
+  - Soo Heon Kwak
+  - Jaegil Kim
+  - Jose C. Florez
+  - Kyle Gaulton
+  - Alisa K. Manning
+  - Miriam S. Udler
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-07-12'
+  link: https://doi.org/gq4f7t
+  orcid: 0000-0001-9520-2788
+  member: joanne-cole
+  _cache: 5b2ae2bc129355308e4687df54d6673e9a9e201c3c36962438b17c331e967390
+- id: doi:10.1038/s41467-021-23556-4
+  title: Determinants of penetrance and variable expressivity in monogenic metabolic
+    conditions across 77,184 exomes
+  authors:
+  - Julia K. Goodrich
+  - Moriel Singer-Berk
+  - Rachel Son
+  - Abigail Sveden
+  - Jordan Wood
+  - Eleina England
+  - Joanne B. Cole
+  - Ben Weisburd
+  - Nick Watts
+  - Lizz Caulkins
+  - Peter Dornbos
+  - Ryan Koesterer
+  - Zachary Zappala
+  - Haichen Zhang
+  - Kristin A. Maloney
+  - Andy Dahl
+  - Carlos A. Aguilar-Salinas
+  - Gil Atzmon
+  - Francisco Barajas-Olmos
+  - Nir Barzilai
+  - John Blangero
+  - Eric Boerwinkle
+  - Lori L. Bonnycastle
+  - Erwin Bottinger
+  - Donald W. Bowden
+  - Federico Centeno-Cruz
+  - John C. Chambers
+  - Nathalie Chami
+  - Edmund Chan
+  - Juliana Chan
+  - Ching-Yu Cheng
+  - Yoon Shin Cho
+  - Cecilia Contreras-Cubas
+  - "Emilio C\xF3rdova"
+  - Adolfo Correa
+  - Ralph A. DeFronzo
+  - Ravindranath Duggirala
+  - "Jos\xE9e Dupuis"
+  - Ma Eugenia Garay-Sevilla
+  - "Humberto Garc\xEDa-Ortiz"
+  - Christian Gieger
+  - Benjamin Glaser
+  - "Clicerio Gonz\xE1lez-Villalpando"
+  - Ma Elena Gonzalez
+  - Niels Grarup
+  - Leif Groop
+  - Myron Gross
+  - Christopher Haiman
+  - Sohee Han
+  - Craig L. Hanis
+  - Torben Hansen
+  - Nancy L. Heard-Costa
+  - Brian E. Henderson
+  - Juan Manuel Malacara Hernandez
+  - Mi Yeong Hwang
+  - Sergio Islas-Andrade
+  - "Marit E. J\xF8rgensen"
+  - Hyun Min Kang
+  - Bong-Jo Kim
+  - Young Jin Kim
+  - Heikki A. Koistinen
+  - Jaspal Singh Kooner
+  - Johanna Kuusisto
+  - Soo-Heon Kwak
+  - Markku Laakso
+  - Leslie Lange
+  - Jong-Young Lee
+  - Juyoung Lee
+  - Donna M. Lehman
+  - Allan Linneberg
+  - Jianjun Liu
+  - Ruth J. F. Loos
+  - Valeriya Lyssenko
+  - Ronald C. W. Ma
+  - "Ang\xE9lica Mart\xEDnez-Hern\xE1ndez"
+  - James B. Meigs
+  - Thomas Meitinger
+  - Elvia Mendoza-Caamal
+  - Karen L. Mohlke
+  - Andrew D. Morris
+  - Alanna C. Morrison
+  - Maggie C. Y. Ng
+  - Peter M. Nilsson
+  - "Christopher J. O\u2019Donnell"
+  - Lorena Orozco
+  - Colin N. A. Palmer
+  - Kyong Soo Park
+  - Wendy S. Post
+  - Oluf Pedersen
+  - Michael Preuss
+  - Bruce M. Psaty
+  - Alexander P. Reiner
+  - Cristina Revilla-Monsalve
+  - Stephen S. Rich
+  - Jerome I. Rotter
+  - Danish Saleheen
+  - Claudia Schurmann
+  - Xueling Sim
+  - Rob Sladek
+  - Kerrin S. Small
+  - Wing Yee So
+  - Timothy D. Spector
+  - Konstantin Strauch
+  - Tim M. Strom
+  - E. Shyong Tai
+  - Claudia H. T. Tam
+  - Yik Ying Teo
+  - Farook Thameem
+  - Brian Tomlinson
+  - Russell P. Tracy
+  - Tiinamaija Tuomi
+  - Jaakko Tuomilehto
+  - "Teresa Tusi\xE9-Luna"
+  - Rob M. van Dam
+  - Ramachandran S. Vasan
+  - James G. Wilson
+  - Daniel R. Witte
+  - Tien-Yin Wong
+  - "No\xEBl P. Burtt"
+  - Noah Zaitlen
+  - Mark I. McCarthy
+  - Michael Boehnke
+  - Toni I. Pollin
+  - Jason Flannick
+  - Josep M. Mercader
+  - "Anne O\u2019Donnell-Luria"
+  - Samantha Baxter
+  - Jose C. Florez
+  - Daniel G. MacArthur
+  - Miriam S. Udler
+  - ' '
+  publisher: Nature Communications
+  date: '2021-06-09'
+  link: https://doi.org/gkhf26
+  orcid: 0000-0001-9520-2788
+  member: joanne-cole
+  _cache: b23922ef958140352ed6b7e3baf9fb73d4927b3a1f17b016e8a2a9c017403a4d
+- id: doi:10.1038/s41467-021-21952-4
+  title: The impact of non-additive genetic associations on age-related complex diseases
+  authors:
+  - "Marta Guindo-Mart\xEDnez"
+  - ' '
+  - Ramon Amela
+  - "Silvia Bon\xE0s-Guarch"
+  - "Montserrat Puiggr\xF2s"
+  - Cecilia Salvoro
+  - Irene Miguel-Escalada
+  - Caitlin E. Carey
+  - Joanne B. Cole
+  - "Sina R\xFCeger"
+  - Elizabeth Atkinson
+  - Aaron Leong
+  - Friman Sanchez
+  - Cristian Ramon-Cortes
+  - Jorge Ejarque
+  - Duncan S. Palmer
+  - Mitja Kurki
+  - Krishna Aragam
+  - Jose C. Florez
+  - Rosa M. Badia
+  - Josep M. Mercader
+  - David Torrents
+  publisher: Nature Communications
+  date: '2021-04-23'
+  link: https://doi.org/gq4f7v
+  orcid: 0000-0001-9520-2788
+  member: joanne-cole
+  _cache: a395536b5e67b6fced23fca96123981e7351d922d438a1960c77c02f388d64e8
+- id: doi:10.1101/2021.11.08.21265930
+  title: Variance-quantitative trait loci enable systematic discovery of gene-environment
+    interactions for cardiometabolic serum biomarkers
+  authors:
+  - Kenneth E. Westerman
+  - Timothy D. Majarian
+  - Franco Giulianini
+  - Dong-Keun Jang
+  - Jose C. Florez
+  - Han Chen
+  - Daniel I. Chasman
+  - Miriam S. Udler
+  - Alisa K. Manning
+  - Joanne B. Cole
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-11-10'
+  link: https://doi.org/gq4f7w
+  orcid: 0000-0001-9520-2788
+  member: joanne-cole
+  _cache: d5898a997f78be4faf6127bc180a578363166c15bf2edac3e6a818ca44074683
+- id: doi:10.1371/journal.pmed.1003553
+  title: 'Cardiometabolic risk factors for COVID-19 susceptibility and severity: A
+    Mendelian randomization analysis'
+  authors:
+  - Aaron Leong
+  - Joanne B. Cole
+  - Laura N. Brenner
+  - James B. Meigs
+  - Jose C. Florez
+  - Josep M. Mercader
+  publisher: PLOS Medicine
+  date: '2021-03-04'
+  link: https://doi.org/gkmrzg
+  orcid: 0000-0001-9520-2788
+  member: joanne-cole
+  _cache: 0855ace418673adf56aa08004b3fa8d54e105e5bae465d0518b1228509795630
+- id: doi:10.1038/s41591-020-01185-6
+  title: 'Author Correction: The effect of LRRK2 loss-of-function variants in humans'
+  authors:
+  - Nicola Whiffin
+  - ' '
+  - Irina M. Armean
+  - Aaron Kleinman
+  - Jamie L. Marshall
+  - Eric V. Minikel
+  - Julia K. Goodrich
+  - Nicholas M. Quaife
+  - Joanne B. Cole
+  - Qingbo Wang
+  - Konrad J. Karczewski
+  - Beryl B. Cummings
+  - Laurent Francioli
+  - Kristen Laricchia
+  - Anna Guan
+  - Babak Alipanahi
+  - Peter Morrison
+  - Marco A. S. Baptista
+  - Kalpana M. Merchant
+  - James S. Ware
+  - Aki S. Havulinna
+  - Bozenna Iliadou
+  - Jung-Jin Lee
+  - Girish N. Nadkarni
+  - Cole Whiteman
+  - Mark Daly
+  - "T\xF5nu Esko"
+  - Christina Hultman
+  - Ruth J. F. Loos
+  - Lili Milani
+  - Aarno Palotie
+  - Carlos Pato
+  - Michele Pato
+  - Danish Saleheen
+  - Patrick F. Sullivan
+  - "Jessica Alf\xF6ldi"
+  - Paul Cannon
+  - Daniel G. MacArthur
+  - ' '
+  - ' '
+  publisher: Nature Medicine
+  date: '2021-01-22'
+  link: https://doi.org/gpvj7j
+  orcid: 0000-0001-9520-2788
+  member: joanne-cole
+  _cache: f015dacca9b61204a05d2ba75aef0752bda3a20ad2988dc540446588099c1517
+- id: doi:10.1038/s41467-020-15193-0
+  title: Comprehensive genomic analysis of dietary habits in UK Biobank identifies
+    hundreds of genetic associations
+  authors:
+  - Joanne B. Cole
+  - Jose C. Florez
+  - Joel N. Hirschhorn
+  publisher: Nature Communications
+  date: '2020-03-19'
+  link: https://doi.org/ggpn69
+  orcid: 0000-0001-9520-2788
+  member: joanne-cole
+  _cache: acee790f18cb57fa3634dfdf391f1c7af80b50e44bf2d4429697cc4b5b5e97ed
+- id: doi:10.1101/2020.08.26.20182709
+  title: 'Cardiometabolic Risk Factors for COVID-19 Susceptibility and Severity: A
+    Mendelian Randomization Analysis'
+  authors:
+  - Aaron Leong
+  - Joanne Cole
+  - Laura N. Brenner
+  - James B. Meigs
+  - Jose C. Florez
+  - Josep M. Mercader
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-09-01'
+  link: https://doi.org/ghbwb4
+  orcid: 0000-0001-9520-2788
+  member: joanne-cole
+  _cache: fde5c65a4f40c9c9d1f41c3a072141cce37303c346f02bac8c334d11ff2abea1
+- id: doi:10.1038/s41366-020-0603-x
+  title: Integrating untargeted metabolomics, genetically informed causal inference,
+    and pathway enrichment to define the obesity metabolome
+  authors:
+  - Yu-Han H. Hsu
+  - Christina M. Astley
+  - Joanne B. Cole
+  - Sailaja Vedantam
+  - Josep M. Mercader
+  - Andres Metspalu
+  - Krista Fischer
+  - Kristen Fortney
+  - Eric K. Morgen
+  - Clicerio Gonzalez
+  - Maria E. Gonzalez
+  - Tonu Esko
+  - Joel N. Hirschhorn
+  publisher: International Journal of Obesity
+  date: '2020-05-28'
+  link: https://doi.org/gq4f7x
+  orcid: 0000-0001-9520-2788
+  member: joanne-cole
+  _cache: 9572baa90efff535f79c4122c64faf0a890a60d825f4b8e837bfddfb1f8685f1
+- id: doi:10.1038/s41581-020-0278-5
+  title: Genetics of diabetes mellitus and diabetes complications
+  authors:
+  - Joanne B. Cole
+  - Jose C. Florez
+  publisher: Nature Reviews Nephrology
+  date: '2020-05-12'
+  link: https://doi.org/gjptbf
+  orcid: 0000-0001-9520-2788
+  member: joanne-cole
+  _cache: 1cd8a6b14b22d06e7beb502a87c1255081f637308a0b63845c8d2446a738260d
+- id: doi:10.1038/s41591-020-0893-5
+  title: The effect of LRRK2 loss-of-function variants in humans
+  authors:
+  - Nicola Whiffin
+  - Irina M. Armean
+  - Aaron Kleinman
+  - Jamie L. Marshall
+  - Eric V. Minikel
+  - Julia K. Goodrich
+  - Nicholas M. Quaife
+  - Joanne B. Cole
+  - Qingbo Wang
+  - Konrad J. Karczewski
+  - Beryl B. Cummings
+  - Laurent Francioli
+  - Kristen Laricchia
+  - Anna Guan
+  - Babak Alipanahi
+  - Peter Morrison
+  - Marco A. S. Baptista
+  - Kalpana M. Merchant
+  - Irina M. Armean
+  - Eric Banks
+  - Louis Bergelson
+  - Kristian Cibulskis
+  - Ryan L. Collins
+  - Kristen M. Connolly
+  - Miguel Covarrubias
+  - Beryl Cummings
+  - Mark J. Daly
+  - Stacey Donnelly
+  - Yossi Farjoun
+  - Steven Ferriera
+  - Stacey Gabriel
+  - Laura D. Gauthier
+  - Jeff Gentry
+  - Namrata Gupta
+  - Thibault Jeandet
+  - Diane Kaplan
+  - Kristen M. Laricchia
+  - Christopher Llanwarne
+  - Ruchi Munshi
+  - Benjamin M. Neale
+  - Sam Novod
+  - "Anne H. O\u2019Donnell-Luria"
+  - Nikelle Petrillo
+  - Timothy Poterba
+  - David Roazen
+  - Valentin Ruano-Rubio
+  - Andrea Saltzman
+  - Kaitlin E. Samocha
+  - Molly Schleicher
+  - Cotton Seed
+  - Matthew Solomonson
+  - Jose Soto
+  - Grace Tiao
+  - Kathleen Tibbetts
+  - Charlotte Tolonen
+  - Christopher Vittal
+  - Gordon Wade
+  - Arcturus Wang
+  - Nicholas A. Watts
+  - Ben Weisburd
+  - Carlos A. Aguilar-Salinas
+  - Tariq Ahmad
+  - Christine M. Albert
+  - Diego Ardissino
+  - Gil Atzmon
+  - John Barnard
+  - Laurent Beaugerie
+  - Emelia J. Benjamin
+  - Michael Boehnke
+  - Lori L. Bonnycastle
+  - Erwin P. Bottinger
+  - Donald W. Bowden
+  - Matthew J. Bown
+  - John C. Chambers
+  - Juliana C. Chan
+  - Daniel Chasman
+  - Judy Cho
+  - Mina K. Chung
+  - Bruce Cohen
+  - Adolfo Correa
+  - Dana Dabelea
+  - Dawood Darbar
+  - Ravindranath Duggirala
+  - "Jos\xE9e Dupuis"
+  - Patrick T. Ellinor
+  - Roberto Elosua
+  - Jeanette Erdmann
+  - "Martti F\xE4rkkil\xE4"
+  - Jose Florez
+  - Andre Franke
+  - Gad Getz
+  - Benjamin Glaser
+  - Stephen J. Glatt
+  - David Goldstein
+  - Clicerio Gonzalez
+  - Leif Groop
+  - Christopher Haiman
+  - Craig Hanis
+  - Matthew Harms
+  - Mikko Hiltunen
+  - Matti M. Holi
+  - Christina M. Hultman
+  - Mikko Kallela
+  - Jaakko Kaprio
+  - Sekar Kathiresan
+  - Bong-Jo Kim
+  - Young Jin Kim
+  - George Kirov
+  - Jaspal Kooner
+  - Seppo Koskinen
+  - Harlan M. Krumholz
+  - Subra Kugathasan
+  - Soo Heon Kwak
+  - Markku Laakso
+  - "Terho Lehtim\xE4ki"
+  - Ruth J. F. Loos
+  - Steven A. Lubitz
+  - Ronald C. W. Ma
+  - Daniel G. MacArthur
+  - Jaume Marrugat
+  - Kari M. Mattila
+  - Steven McCarroll
+  - Mark I. McCarthy
+  - Dermot McGovern
+  - Ruth McPherson
+  - James B. Meigs
+  - Olle Melander
+  - Andres Metspalu
+  - Peter M. Nilsson
+  - "Michael C. O\u2019Donovan"
+  - Dost Ongur
+  - Lorena Orozco
+  - Michael J. Owen
+  - Colin N. A. Palmer
+  - Aarno Palotie
+  - Kyong Soo Park
+  - Carlos Pato
+  - Ann E. Pulver
+  - Nazneen Rahman
+  - Anne M. Remes
+  - John D. Riou
+  - Samuli Ripatti
+  - Dan M. Roden
+  - Danish Saleheen
+  - Veikko Salomaa
+  - Nilesh J. Samani
+  - Jeremiah Scharf
+  - Heribert Schunkert
+  - Moore B. Shoemaker
+  - Pamela Sklar
+  - Hilkka Soininen
+  - Harry Sokol
+  - Tim Spector
+  - Patrick F. Sullivan
+  - Jaana Suvisaari
+  - E. Shyong Tai
+  - Yik Ying Teo
+  - Tuomi Tiinamaija
+  - Ming Tsuang
+  - Dan Turner
+  - Teresa Tusie-Luna
+  - Erkki Vartiainen
+  - Marquis P. Vawter
+  - James S. Ware
+  - Hugh Watkins
+  - Rinse K. Weersma
+  - Maija Wessman
+  - James G. Wilson
+  - Ramnik J. Xavier
+  - James S. Ware
+  - Aki S. Havulinna
+  - Bozenna Iliadou
+  - Jung-Jin Lee
+  - Girish N. Nadkarni
+  - Cole Whiteman
+  - Michelle Agee
+  - Adam Auton
+  - Robert K. Bell
+  - Katarzyna Bryc
+  - Sarah L. Elson
+  - Pierre Fontanillas
+  - Nicholas A. Furlotte
+  - Barry Hicks
+  - David A. Hinds
+  - Karen E. Huber
+  - Ethan M. Jewett
+  - Yunxuan Jiang
+  - Keng-Han Lin
+  - Nadia K. Litterman
+  - Matthew H. McIntyre
+  - Kimberly F. McManus
+  - Joanna L. Mountain
+  - Elizabeth S. Noblin
+  - Carrie A. M. Northover
+  - Steven J. Pitts
+  - G. David Poznik
+  - J. Fah Sathirapongsasuti
+  - Janie F. Shelton
+  - Suyash Shringarpure
+  - Chao Tian
+  - Joyce Y. Tung
+  - Vladimir Vacic
+  - Xin Wang
+  - Catherine H. Wilson
+  - Mark Daly
+  - "T\xF5nu Esko"
+  - Christina Hultman
+  - Ruth J. F. Loos
+  - Lili Milani
+  - Aarno Palotie
+  - Carlos Pato
+  - Michele Pato
+  - Danish Saleheen
+  - Patrick F. Sullivan
+  - "Jessica Alf\xF6ldi"
+  - Paul Cannon
+  - Daniel G. MacArthur
+  - ' '
+  - ' '
+  - ' '
+  publisher: Nature Medicine
+  date: '2020-05-27'
+  link: https://doi.org/ggztxb
+  orcid: 0000-0001-9520-2788
+  member: joanne-cole
+  _cache: e5c07e3591f1ca02867ca92fb2238a46b65b2e336cf8d9d25a851175d948a5f9
+- id: doi:10.1101/2020.05.12.084608
+  title: The impact of non-additive genetic associations on age-related complex diseases
+  authors:
+  - "Marta Guindo-Mart\xEDnez"
+  - Ramon Amela
+  - "Silvia Bon\xE0s-Guarch"
+  - "Montserrat Puiggr\xF2s"
+  - Cecilia Salvoro
+  - Irene Miguel-Escalada
+  - Caitlin E Carey
+  - Joanne B. Cole
+  - "Sina R\xFCeger"
+  - Elizabeth Atkinson
+  - Aaron Leong
+  - Friman Sanchez
+  - Cristian Ramon-Cortes
+  - Jorge Ejarque
+  - Duncan S Palmer
+  - Mitja Kurki
+  - Krishna Aragam
+  - Jose C Florez
+  - Rosa M. Badia
+  - Josep M. Mercader
+  - David Torrents
+  - ' '
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-05-14'
+  link: https://doi.org/ghfd6v
+  orcid: 0000-0001-9520-2788
+  member: joanne-cole
+  _cache: 02d26b8a910e56e3f99b2a764eced8e790906e42ec39559f79cf2d3d6a8d0c46
+- id: doi:10.1681/ASN.2019030218
+  title: Genome-Wide Association Study of Diabetic Kidney Disease Highlights Biology
+    Involved in Glomerular Basement Membrane Collagen
+  authors:
+  - Rany M. Salem
+  - Jennifer N. Todd
+  - Niina Sandholm
+  - Joanne B. Cole
+  - Wei-Min Chen
+  - Darrell Andrews
+  - Marcus G. Pezzolesi
+  - Paul M. McKeigue
+  - Linda T. Hiraki
+  - Chengxiang Qiu
+  - Viji Nair
+  - Chen Di Liao
+  - Jing Jing Cao
+  - Erkka Valo
+  - Suna Onengut-Gumuscu
+  - Adam M. Smiles
+  - Stuart J. McGurnaghan
+  - Jani K. Haukka
+  - Valma Harjutsalo
+  - Eoin P. Brennan
+  - Natalie van Zuydam
+  - Emma Ahlqvist
+  - Ross Doyle
+  - Tarunveer S. Ahluwalia
+  - Maria Lajer
+  - Maria F. Hughes
+  - Jihwan Park
+  - Jan Skupien
+  - Athina Spiliopoulou
+  - Andrew Liu
+  - Rajasree Menon
+  - Carine M. Boustany-Kari
+  - Hyun M. Kang
+  - Robert G. Nelson
+  - Ronald Klein
+  - Barbara E. Klein
+  - Kristine E. Lee
+  - Xiaoyu Gao
+  - Michael Mauer
+  - Silvia Maestroni
+  - Maria Luiza Caramori
+  - Ian H. de Boer
+  - Rachel G. Miller
+  - Jingchuan Guo
+  - Andrew P. Boright
+  - David Tregouet
+  - Beata Gyorgy
+  - Janet K. Snell-Bergeon
+  - David M. Maahs
+  - Shelley B. Bull
+  - Angelo J. Canty
+  - Colin N.A. Palmer
+  - Lars Stechemesser
+  - Bernhard Paulweber
+  - Raimund Weitgasser
+  - Jelizaveta Sokolovska
+  - "Vita Rov\u012Bte"
+  - "Valdis P\u012Br\u0101gs"
+  - Edita Prakapiene
+  - Lina Radzeviciene
+  - Rasa Verkauskiene
+  - Nicolae Mircea Panduru
+  - Leif C. Groop
+  - Mark I. McCarthy
+  - Harvest F. Gu
+  - "Anna M\xF6llsten"
+  - Henrik Falhammar
+  - Kerstin Brismar
+  - Finian Martin
+  - Peter Rossing
+  - Tina Costacou
+  - Gianpaolo Zerbini
+  - Michel Marre
+  - Samy Hadjadj
+  - Amy J. McKnight
+  - Carol Forsblom
+  - Gareth McKay
+  - Catherine Godson
+  - A. Peter Maxwell
+  - Matthias Kretzler
+  - Katalin Susztak
+  - Helen M. Colhoun
+  - Andrzej Krolewski
+  - Andrew D. Paterson
+  - Per-Henrik Groop
+  - Stephen S. Rich
+  - Joel N. Hirschhorn
+  - Jose C. Florez
+  - ' '
+  publisher: Journal of the American Society of Nephrology
+  date: '2019-09-19'
+  link: https://doi.org/gh89cd
+  orcid: 0000-0001-9520-2788
+  member: joanne-cole
+  _cache: 7421dedc2fb58d7e92c1334ae3569cb53d8eb3420c600c2089b3b2df820f7d7f
+- id: doi:10.1101/734707
+  title: Integrating untargeted metabolomics, genetically informed causal inference,
+    and pathway enrichment to define the obesity metabolome
+  authors:
+  - Yu-Han H. Hsu
+  - Christina M. Astley
+  - Joanne B. Cole
+  - Sailaja Vedantam
+  - Josep M. Mercader
+  - Andres Metspalu
+  - Krista Fischer
+  - Kristen Fortney
+  - Eric K. Morgen
+  - Clicerio Gonzalez
+  - Maria E. Gonzalez
+  - Tonu Esko
+  - Joel N. Hirschhorn
+  publisher: Cold Spring Harbor Laboratory
+  date: '2019-08-13'
+  link: https://doi.org/gk2stt
+  orcid: 0000-0001-9520-2788
+  member: joanne-cole
+  _cache: 6f79e42e7ac7bd9c86c164cf2dbf989c6fa7b0cf570f63a52291b81b5ba8f7b7
+- id: doi:10.1101/662239
+  title: Comprehensive genomic analysis of dietary habits in UK Biobank identifies
+    hundreds of genetic loci and establishes causal relationships between educational
+    attainment and healthy eating
+  authors:
+  - Joanne B. Cole
+  - Jose C. Florez
+  - Joel N. Hirschhorn
+  publisher: Cold Spring Harbor Laboratory
+  date: '2019-06-06'
+  link: https://doi.org/ggr8x7
+  orcid: 0000-0001-9520-2788
+  member: joanne-cole
+  _cache: d41f887e2b944fe0dfd8e67f7f5eee02926242f0725e5ee21d4e814fe6251a52
+- id: doi:10.1371/journal.pmed.1002654
+  title: 'Type 2 diabetes genetic loci informed by multi-trait associations point
+    to disease mechanisms and subtypes: A soft clustering analysis'
+  authors:
+  - Miriam S. Udler
+  - Jaegil Kim
+  - Marcin von Grotthuss
+  - "S\xEDlvia Bon\xE0s-Guarch"
+  - Joanne B. Cole
+  - Joshua Chiou
+  - Michael Boehnke
+  - Markku Laakso
+  - Gil Atzmon
+  - Benjamin Glaser
+  - Josep M. Mercader
+  - Kyle Gaulton
+  - Jason Flannick
+  - Gad Getz
+  - Jose C. Florez
+  - ' '
+  publisher: PLOS Medicine
+  date: '2018-09-21'
+  link: https://doi.org/gfbg38
+  orcid: 0000-0001-9520-2788
+  member: joanne-cole
+  _cache: bccd4bd4b0b9a4461be91525992b60c3670f5491dde50a4df16f6ceb491276af
+- id: doi:10.1002/ajpa.23356
+  title: Body size and allometric variation in facial shape in children
+  authors:
+  - Jacinda R. Larson
+  - Mange F. Manyama
+  - Joanne B. Cole
+  - Paula N. Gonzalez
+  - Christopher J. Percival
+  - Denise K. Liberton
+  - Tracey M. Ferrara
+  - Sheri L. Riccardi
+  - Emmanuel A. Kimwaga
+  - Joshua Mathayo
+  - Jared A. Spitzmacher
+  - Campbell Rolian
+  - Heather A. Jamniczky
+  - Seth M. Weinberg
+  - Charles C. Roseman
+  - Ophir Klein
+  - Ken Lukowiak
+  - Richard A. Spritz
+  - Benedikt Hallgrimsson
+  publisher: American Journal of Physical Anthropology
+  date: '2017-11-27'
+  link: https://doi.org/gcwk6p
+  orcid: 0000-0001-9520-2788
+  member: joanne-cole
+  _cache: 097e34d88f615494189713fa2142c15a65bd6cc769e94b21c4d61f44039e02a1
+- id: doi:10.1111/joa.12748
+  title: Facial shape manifestations of growth faltering in Tanzanian children
+  authors:
+  - Joanne B. Cole
+  - Mange F. Manyama
+  - Dejana Nikitovic
+  - Paula N. Gonzalez
+  - Denise K. Liberton
+  - Warren M. Wilson
+  - Campbell Rolian
+  - Jacinda R. Larson
+  - Emmanuel Kimwaga
+  - Joshua Mathayo
+  - Charles C. Roseman
+  - Stephanie A. Santorico
+  - Ken Lukowiak
+  - Richard A. Spritz
+  - Benedikt Hallgrimsson
+  publisher: Journal of Anatomy
+  date: '2017-11-28'
+  link: https://doi.org/gq4f7z
+  orcid: 0000-0001-9520-2788
+  member: joanne-cole
+  _cache: 01479071b9fa33d7a5d42ad99498ed7d3e8e1ac9d97014bb4b223ddad6105835
+- id: doi:10.1002/9780470015902.a0027240
+  title: The Genetics of Facial Morphology
+  authors:
+  - Joanne B Cole
+  - Richard A Spritz
+  publisher: eLS
+  date: '2017-09-15'
+  link: https://doi.org/gq4f72
+  orcid: 0000-0001-9520-2788
+  member: joanne-cole
+  _cache: d156d4510cb04753eafa25f55d831904e51409738108d6ec7a6abebea8f41de8
+- id: doi:10.1111/joa.12576
+  title: Rapid automated landmarking for morphometric analysis of three-dimensional
+    facial scans
+  authors:
+  - Mao Li
+  - Joanne B. Cole
+  - Mange Manyama
+  - Jacinda R. Larson
+  - Denise K. Liberton
+  - Sheri L. Riccardi
+  - Tracey M. Ferrara
+  - Stephanie A. Santorico
+  - Jordan J. Bannister
+  - Nils D. Forkert
+  - Richard A. Spritz
+  - Washington Mio
+  - Benedikt Hallgrimsson
+  publisher: Journal of Anatomy
+  date: '2017-01-12'
+  link: https://doi.org/f9kjkj
+  orcid: 0000-0001-9520-2788
+  member: joanne-cole
+  _cache: 45975310691495814e7b93a814baf2d799003644ff141bb7f21b511082dd3f3a
+- id: doi:10.1371/journal.pgen.1006174
+  title: Genomewide Association Study of African Children Identifies Association of
+    SCHIP1 and PDE8A with Facial Size and Shape
+  authors:
+  - Joanne B. Cole
+  - Mange Manyama
+  - Emmanuel Kimwaga
+  - Joshua Mathayo
+  - Jacinda R. Larson
+  - Denise K. Liberton
+  - Ken Lukowiak
+  - Tracey M. Ferrara
+  - Sheri L. Riccardi
+  - Mao Li
+  - Washington Mio
+  - Michaela Prochazkova
+  - Trevor Williams
+  - Hong Li
+  - Kenneth L. Jones
+  - Ophir D. Klein
+  - Stephanie A. Santorico
+  - Benedikt Hallgrimsson
+  - Richard A. Spritz
+  publisher: PLOS Genetics
+  date: '2016-08-25'
+  link: https://doi.org/f82mt6
+  orcid: 0000-0001-9520-2788
+  member: joanne-cole
+  _cache: d145a92094773cf5661641d0bea3dee61667b502ebbecb52e14a5da905916114
+- id: doi:10.1371/journal.pgen.1006149
+  title: Genome-Wide Association Study Reveals Multiple Loci Influencing Normal Human
+    Facial Morphology
+  authors:
+  - John R. Shaffer
+  - Ekaterina Orlova
+  - Myoung Keun Lee
+  - Elizabeth J. Leslie
+  - Zachary D. Raffensperger
+  - Carrie L. Heike
+  - Michael L. Cunningham
+  - Jacqueline T. Hecht
+  - Chung How Kau
+  - Nichole L. Nidey
+  - Lina M. Moreno
+  - George L. Wehby
+  - Jeffrey C. Murray
+  - Cecelia A. Laurie
+  - Cathy C. Laurie
+  - Joanne Cole
+  - Tracey Ferrara
+  - Stephanie Santorico
+  - Ophir Klein
+  - Washington Mio
+  - Eleanor Feingold
+  - Benedikt Hallgrimsson
+  - Richard A. Spritz
+  - Mary L. Marazita
+  - Seth M. Weinberg
+  publisher: PLOS Genetics
+  date: '2016-08-25'
+  link: https://doi.org/f82c8t
+  orcid: 0000-0001-9520-2788
+  member: joanne-cole
+  _cache: 3237d7c409c0912cf4f1384e867ff31b4202a9e00ee88d9442dbf00fc9809707
+- id: doi:10.1534/genetics.116.193185
+  title: Human Facial Shape and Size Heritability and Genetic Correlations
+  authors:
+  - Joanne B Cole
+  - Mange Manyama
+  - Jacinda R Larson
+  - Denise K Liberton
+  - Tracey M Ferrara
+  - Sheri L Riccardi
+  - Mao Li
+  - Washington Mio
+  - Ophir D Klein
+  - Stephanie A Santorico
+  - "Benedikt Hallgr\xEDmsson"
+  - Richard A Spritz
+  publisher: Genetics
+  date: '2017-02-01'
+  link: https://doi.org/f9v4c4
+  orcid: 0000-0001-9520-2788
+  member: joanne-cole
+  _cache: c36e5c081743ebc90eac3642d7a423a1216b5c4e86755fa0353f03ebfda67a71
+- id: doi:10.1038/ng.2272
+  title: Genome-wide association analyses identify 13 new susceptibility loci for
+    generalized vitiligo
+  authors:
+  - Ying Jin
+  - Stanca A Birlea
+  - Pamela R Fain
+  - Tracey M Ferrara
+  - Songtao Ben
+  - Sheri L Riccardi
+  - Joanne B Cole
+  - Katherine Gowan
+  - Paulene J Holland
+  - Dorothy C Bennett
+  - Rosalie M Luiten
+  - Albert Wolkerstorfer
+  - J P Wietze van der Veen
+  - Anke Hartmann
+  - Saskia Eichner
+  - Gerold Schuler
+  - Nanja van Geel
+  - Jo Lambert
+  - E Helen Kemp
+  - David J Gawkrodger
+  - Anthony P Weetman
+  - "Alain Ta\xEFeb"
+  - Thomas Jouary
+  - Khaled Ezzedine
+  - Margaret R Wallace
+  - Wayne T McCormack
+  - Mauro Picardo
+  - Giovanni Leone
+  - Andreas Overbeck
+  - Nanette B Silverberg
+  - Richard A Spritz
+  publisher: Nature Genetics
+  date: '2012-05-06'
+  link: https://doi.org/f3z6tv
+  orcid: 0000-0001-9520-2788
+  member: joanne-cole
+  _cache: 5750513fd769ecf1a0b5a9fe8428b588aa8d921b165737fbf24c4516285bd6f8

@@ -1,66 +1,6 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
-- id: doi:10.1371/journal.pgen.1006149
-  title: Genome-Wide Association Study Reveals Multiple Loci Influencing Normal Human
-    Facial Morphology
-  authors:
-  - John R. Shaffer
-  - Ekaterina Orlova
-  - Myoung Keun Lee
-  - Elizabeth J. Leslie
-  - Zachary D. Raffensperger
-  - Carrie L. Heike
-  - Michael L. Cunningham
-  - Jacqueline T. Hecht
-  - Chung How Kau
-  - Nichole L. Nidey
-  - Lina M. Moreno
-  - George L. Wehby
-  - Jeffrey C. Murray
-  - Cecelia A. Laurie
-  - Cathy C. Laurie
-  - Joanne Cole
-  - Tracey Ferrara
-  - Stephanie Santorico
-  - Ophir Klein
-  - Washington Mio
-  - Eleanor Feingold
-  - Benedikt Hallgrimsson
-  - Richard A. Spritz
-  - Mary L. Marazita
-  - Seth M. Weinberg
-  publisher: PLOS Genetics
-  date: '2016-08-25'
-  link: https://doi.org/f82c8t
-  _cache: 2aadf106494f13dded41dd71cbfefd28ce35ed2150d7ec0fcc94e7937c6d187f
-- id: doi:10.1371/journal.pgen.1006174
-  title: Genomewide Association Study of African Children Identifies Association of
-    SCHIP1 and PDE8A with Facial Size and Shape
-  authors:
-  - Joanne B. Cole
-  - Mange Manyama
-  - Emmanuel Kimwaga
-  - Joshua Mathayo
-  - Jacinda R. Larson
-  - Denise K. Liberton
-  - Ken Lukowiak
-  - Tracey M. Ferrara
-  - Sheri L. Riccardi
-  - Mao Li
-  - Washington Mio
-  - Michaela Prochazkova
-  - Trevor Williams
-  - Hong Li
-  - Kenneth L. Jones
-  - Ophir D. Klein
-  - Stephanie A. Santorico
-  - Benedikt Hallgrimsson
-  - Richard A. Spritz
-  publisher: PLOS Genetics
-  date: '2016-08-25'
-  link: https://doi.org/f82mt6
-  _cache: b47b7df94fc9f6728c203bfc7eb7b66b45dbfa6efd637e2b03e8601e50fdd015
 - id: doi:10.1038/ng.2272
   title: Genome-wide association analyses identify 13 new susceptibility loci for
     generalized vitiligo
@@ -99,7 +39,71 @@
   publisher: Nature Genetics
   date: '2012-05-06'
   link: https://doi.org/f3z6tv
-  _cache: 68df6872a3660468d299623f172c9bc228e4254b7c1625f28bcb964b4806bd7c
+  image: https://www.nature.com/articles/ng.2272/figures/1
+  tags:
+  - vitiligo
+  - GWAS
+  _cache: a2fa9dcb99e012b1ef1537d5e833bae254184516ad885784df691c7a19263928
+- id: doi:10.1371/journal.pgen.1006174
+  title: Genomewide Association Study of African Children Identifies Association of
+    SCHIP1 and PDE8A with Facial Size and Shape
+  authors:
+  - Joanne B. Cole
+  - Mange Manyama
+  - Emmanuel Kimwaga
+  - Joshua Mathayo
+  - Jacinda R. Larson
+  - Denise K. Liberton
+  - Ken Lukowiak
+  - Tracey M. Ferrara
+  - Sheri L. Riccardi
+  - Mao Li
+  - Washington Mio
+  - Michaela Prochazkova
+  - Trevor Williams
+  - Hong Li
+  - Kenneth L. Jones
+  - Ophir D. Klein
+  - Stephanie A. Santorico
+  - Benedikt Hallgrimsson
+  - Richard A. Spritz
+  publisher: PLOS Genetics
+  date: '2016-08-25'
+  link: https://doi.org/f82mt6
+  _cache: b47b7df94fc9f6728c203bfc7eb7b66b45dbfa6efd637e2b03e8601e50fdd015
+- id: doi:10.1371/journal.pgen.1006149
+  title: Genome-Wide Association Study Reveals Multiple Loci Influencing Normal Human
+    Facial Morphology
+  authors:
+  - John R. Shaffer
+  - Ekaterina Orlova
+  - Myoung Keun Lee
+  - Elizabeth J. Leslie
+  - Zachary D. Raffensperger
+  - Carrie L. Heike
+  - Michael L. Cunningham
+  - Jacqueline T. Hecht
+  - Chung How Kau
+  - Nichole L. Nidey
+  - Lina M. Moreno
+  - George L. Wehby
+  - Jeffrey C. Murray
+  - Cecelia A. Laurie
+  - Cathy C. Laurie
+  - Joanne Cole
+  - Tracey Ferrara
+  - Stephanie Santorico
+  - Ophir Klein
+  - Washington Mio
+  - Eleanor Feingold
+  - Benedikt Hallgrimsson
+  - Richard A. Spritz
+  - Mary L. Marazita
+  - Seth M. Weinberg
+  publisher: PLOS Genetics
+  date: '2016-08-25'
+  link: https://doi.org/f82c8t
+  _cache: 2aadf106494f13dded41dd71cbfefd28ce35ed2150d7ec0fcc94e7937c6d187f
 - id: doi:10.1534/genetics.116.193185
   title: Human Facial Shape and Size Heritability and Genetic Correlations
   authors:

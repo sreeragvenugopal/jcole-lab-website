@@ -1,11 +1,9 @@
-<!--
 ---
 title: Tools
 nav:
   order: 2
   tooltip: Software, datasets, and more
 ---
--->
 
 # <i class="fas fa-tools"></i>Tools
 

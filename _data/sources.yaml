@@ -5,6 +5,14 @@
     - vitiligo
     
 - id: doi:10.1371/journal.pgen.1006174
+  image: https://journals.plos.org/plosgenetics/article/figure/image?size=large&id=10.1371/journal.pgen.1006174.g002
+  tags:
+    - GWAS
+    - facial shape
+  extra-links:
+    - type: website
+      text: FaceBase Consortium
+      link: https://www.facebase.org/
 
 - id: doi:10.1371/journal.pgen.1006149
 

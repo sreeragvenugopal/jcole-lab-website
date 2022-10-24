@@ -4,7 +4,7 @@ title: Home
 
 # Welcome to the Cole Lab 
 
-We are a computational group at the [University of Colorado school of Medicine](https://medschool.cuanschutz.edu/) using large-scale human genetics and genomics as a tool to learn more about diet's role in the body and in human health, with a focus on cardiometabolic disease. 
+We are a computational group at the [University of Colorado School of Medicine](https://medschool.cuanschutz.edu/) using large-scale genetics and genomics as a tool to learn more about diet's role in the body and in human health, with a focus on cardiometabolic disease. 
 
 {% include section.html full=true %}
 

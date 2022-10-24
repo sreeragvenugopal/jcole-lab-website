@@ -2,28 +2,9 @@
 title: Home
 ---
 
-# Your Lab Slogan
+# Welcome to the Cole Lab 
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
-
-{%
-  include link.html
-  type="github"
-  icon=""
-  text="See the template on GitHub"
-  link="greenelab/lab-website-template"
-  style="button"
-%}
-{%
-  include link.html
-  type="docs"
-  icon=""
-  text="See the documentation"
-  link="https://github.com/greenelab/lab-website-template/wiki"
-  style="button"
-%}
-{:.center}
+We are a computational group at the [University of Colorado school of Medicine](https://medschool.cuanschutz.edu/) using large-scale human genetics and genomics as a tool to learn more about diet's role in the body and in human health, with a focus on cardiometabolic disease. 
 
 {% include section.html full=true %}
 

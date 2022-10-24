@@ -55,6 +55,7 @@ nutrition, epidemiology, and/or metabolism? Come join our team.
   link="team"
   title="Our Team"
   text=text
+  flip=true
 %}
 
 

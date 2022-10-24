@@ -70,7 +70,15 @@
   publisher: PLOS Genetics
   date: '2016-08-25'
   link: https://doi.org/f82mt6
-  _cache: b47b7df94fc9f6728c203bfc7eb7b66b45dbfa6efd637e2b03e8601e50fdd015
+  image: https://journals.plos.org/plosgenetics/article/figure/image?size=large&id=10.1371/journal.pgen.1006174.g002
+  tags:
+  - GWAS
+  - facial shape
+  extra-links:
+  - type: website
+    text: FaceBase Consortium
+    link: https://www.facebase.org/
+  _cache: b135fb11430b40ab1b942f35eb78bed9e26eb3e478b061c1874aabfbadbac6d7
 - id: doi:10.1371/journal.pgen.1006149
   title: Genome-Wide Association Study Reveals Multiple Loci Influencing Normal Human
     Facial Morphology

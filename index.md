@@ -15,8 +15,7 @@ We are a computational group at the [University of Colorado School of Medicine](
 # Highlights
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+How do our genes influence our dietary intake? What are the underlying environmental and biological mechanisms? Which aspects of dietary intake causally influence disease? How can we extract more or new information from dietary assessments?
 
 {%
   include link.html
@@ -32,7 +31,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
   include feature.html
   image="images/photo.jpg"
   link="research"
-  title="Our Research"
+  title="Our Research Focus"
   text=text
 %}
 

@@ -1,32 +1,105 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+- id: doi:10.1371/journal.pgen.1006149
+  title: Genome-Wide Association Study Reveals Multiple Loci Influencing Normal Human
+    Facial Morphology
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  extra-links:
-  - type: preprint
-    link: https://doi.org/10.7287/peerj.preprints.3100v1
-  - type: manubot
-    link: https://greenelab.github.io/scihub-manuscript/
-  - type: source
-    link: https://github.com/greenelab/scihub-manuscript
-    text: Manuscript source
-  - type: source
-    link: https://github.com/greenelab/scihub
-    text: Analyses source
-  _cache: 483a564e9ddf847e6372cafb31de4673771c3e4da664c0d86a7ea7c38c20318d
+  - John R. Shaffer
+  - Ekaterina Orlova
+  - Myoung Keun Lee
+  - Elizabeth J. Leslie
+  - Zachary D. Raffensperger
+  - Carrie L. Heike
+  - Michael L. Cunningham
+  - Jacqueline T. Hecht
+  - Chung How Kau
+  - Nichole L. Nidey
+  - Lina M. Moreno
+  - George L. Wehby
+  - Jeffrey C. Murray
+  - Cecelia A. Laurie
+  - Cathy C. Laurie
+  - Joanne Cole
+  - Tracey Ferrara
+  - Stephanie Santorico
+  - Ophir Klein
+  - Washington Mio
+  - Eleanor Feingold
+  - Benedikt Hallgrimsson
+  - Richard A. Spritz
+  - Mary L. Marazita
+  - Seth M. Weinberg
+  publisher: PLOS Genetics
+  date: '2016-08-25'
+  link: https://doi.org/f82c8t
+  _cache: 2aadf106494f13dded41dd71cbfefd28ce35ed2150d7ec0fcc94e7937c6d187f
+- id: doi:10.1371/journal.pgen.1006174
+  title: Genomewide Association Study of African Children Identifies Association of
+    SCHIP1 and PDE8A with Facial Size and Shape
+  authors:
+  - Joanne B. Cole
+  - Mange Manyama
+  - Emmanuel Kimwaga
+  - Joshua Mathayo
+  - Jacinda R. Larson
+  - Denise K. Liberton
+  - Ken Lukowiak
+  - Tracey M. Ferrara
+  - Sheri L. Riccardi
+  - Mao Li
+  - Washington Mio
+  - Michaela Prochazkova
+  - Trevor Williams
+  - Hong Li
+  - Kenneth L. Jones
+  - Ophir D. Klein
+  - Stephanie A. Santorico
+  - Benedikt Hallgrimsson
+  - Richard A. Spritz
+  publisher: PLOS Genetics
+  date: '2016-08-25'
+  link: https://doi.org/f82mt6
+  _cache: b47b7df94fc9f6728c203bfc7eb7b66b45dbfa6efd637e2b03e8601e50fdd015
+- id: doi:10.1038/ng.2272
+  title: Genome-wide association analyses identify 13 new susceptibility loci for
+    generalized vitiligo
+  authors:
+  - Ying Jin
+  - Stanca A Birlea
+  - Pamela R Fain
+  - Tracey M Ferrara
+  - Songtao Ben
+  - Sheri L Riccardi
+  - Joanne B Cole
+  - Katherine Gowan
+  - Paulene J Holland
+  - Dorothy C Bennett
+  - Rosalie M Luiten
+  - Albert Wolkerstorfer
+  - J P Wietze van der Veen
+  - Anke Hartmann
+  - Saskia Eichner
+  - Gerold Schuler
+  - Nanja van Geel
+  - Jo Lambert
+  - E Helen Kemp
+  - David J Gawkrodger
+  - Anthony P Weetman
+  - "Alain Ta\xEFeb"
+  - Thomas Jouary
+  - Khaled Ezzedine
+  - Margaret R Wallace
+  - Wayne T McCormack
+  - Mauro Picardo
+  - Giovanni Leone
+  - Andreas Overbeck
+  - Nanette B Silverberg
+  - Richard A Spritz
+  publisher: Nature Genetics
+  date: '2012-05-06'
+  link: https://doi.org/f3z6tv
+  _cache: 68df6872a3660468d299623f172c9bc228e4254b7c1625f28bcb964b4806bd7c
 - id: doi:10.1038/s41588-022-01200-1
   title: A combined polygenic score of 21,293 rare and 22 common variants improves
     diabetes diagnosis based on hemoglobin A1C levels

@@ -39,11 +39,11 @@
   publisher: Nature Genetics
   date: '2012-05-06'
   link: https://doi.org/f3z6tv
-  image: https://www.nature.com/articles/ng.2272/figures/1
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fng.2272/MediaObjects/41588_2012_Article_BFng2272_Fig1_HTML.jpg?as=webp
   tags:
-  - vitiligo
   - GWAS
-  _cache: a2fa9dcb99e012b1ef1537d5e833bae254184516ad885784df691c7a19263928
+  - vitiligo
+  _cache: c2f463ef062e9ec605db6660ba97355a7e0ddf5f08a72d1461a73ff94ee40178
 - id: doi:10.1371/journal.pgen.1006174
   title: Genomewide Association Study of African Children Identifies Association of
     SCHIP1 and PDE8A with Facial Size and Shape

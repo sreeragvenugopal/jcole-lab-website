@@ -1,5 +1,7 @@
 ---
+<!--
 title: Tools
+-->
 nav:
   order: 2
   tooltip: Software, datasets, and more

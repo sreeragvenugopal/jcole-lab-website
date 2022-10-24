@@ -1,9 +1,20 @@
-    
-- id: doi:10.1371/journal.pgen.1006149
-
-- id: doi:10.1371/journal.pgen.1006174
-
 - id: doi:10.1038/ng.2272
+image: https://www.nature.com/articles/ng.2272/figures/1
+  tags:
+    - vitiligo
+    - GWAS
+    
+- id: doi:10.1371/journal.pgen.1006174
+image: https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006174
+  tags:
+    - facial shape
+    - GWAS
+  extra-links:
+    - type: website
+      text: FaceBase Consortium
+      link: https://www.facebase.org/
+
+- id: doi:10.1371/journal.pgen.1006149
 
 - id: doi:10.1534/genetics.116.193185
 

@@ -60,7 +60,8 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 %}
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Do you have a background or interest in genetics and genomics, computational biology, 
+nutrition, epidemiology, and/or metabolism? Come join our team.
 
 {%
   include link.html
@@ -80,5 +81,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   text=text
 %}
 
-Do you have a background or interest in genetics and genomics, computational biology, 
-nutrition, epidemiology, and/or metabolism? Come join our team.
+

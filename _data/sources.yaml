@@ -1,5 +1,5 @@
 - id: doi:10.1038/ng.2272
-image: https://www.nature.com/articles/ng.2272/figures/1
+  image: https://www.nature.com/articles/ng.2272/figures/1
   tags:
     - vitiligo
     - GWAS

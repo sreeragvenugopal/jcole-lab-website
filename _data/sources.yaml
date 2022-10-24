@@ -1,8 +1,8 @@
 - id: doi:10.1038/ng.2272
-  image: https://www.nature.com/articles/ng.2272/figures/1
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fng.2272/MediaObjects/41588_2012_Article_BFng2272_Fig1_HTML.jpg?as=webp
   tags:
-    - vitiligo
     - GWAS
+    - vitiligo
     
 - id: doi:10.1371/journal.pgen.1006174
 

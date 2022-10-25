@@ -42,8 +42,8 @@
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fng.2272/MediaObjects/41588_2012_Article_BFng2272_Fig1_HTML.jpg?as=webp
   tags:
   - GWAS
-  - vitiligo
-  _cache: c2f463ef062e9ec605db6660ba97355a7e0ddf5f08a72d1461a73ff94ee40178
+  - Vitiligo
+  _cache: 1a0b7ae54212a6062c08de74d3809307d3f8800c46030fc27afc499df95b4f1d
 - id: doi:10.1371/journal.pgen.1006174
   title: Genomewide Association Study of African Children Identifies Association of
     SCHIP1 and PDE8A with Facial Size and Shape
@@ -171,8 +171,8 @@
   image: https://onlinelibrary.wiley.com/cms/asset/a1369356-f816-42e9-b5d9-65a64daaaf1d/joa12576-fig-0002-m.jpg
   tags:
   - Software
-  - Facial Shape
   - Phenotyping
+  - Facial Shape
   extra-links:
   - type: external
     text: FaceBase Consortium
@@ -180,7 +180,7 @@
   - type: source
     text: Software
     link: https://www.facebase.org/facial_landmarking/
-  _cache: 53ce988728e66ee8a1324241e74396fa95d0334d813b85c5cb9f6ff47fee33d0
+  _cache: ae644ae7b280b69f1f325a7df7c692b4524278ccdc3cb2bbb6e4d7622bb7db20
 - id: doi:10.1111/joa.12748
   title: Facial shape manifestations of growth faltering in Tanzanian children
   authors:
@@ -272,14 +272,15 @@
   link: https://doi.org/gfbg38
   image: https://journals.plos.org/plosmedicine/article/figure/image?size=large&id=10.1371/journal.pmed.1002654.g001
   tags:
-  - Type 2 Diabetes
-  - Genetic Clustering
+  - Method
+  - Genetic Subtyping
   - Polygenic Scores
+  - Type 2 Diabetes
   extra-links:
   - type: source
     text: Code
     link: https://github.com/gwas-partitioning/bnmf-clustering
-  _cache: 735aa1e461628a03ae73264c90e9aec78aa292830f42055345a9693978745a05
+  _cache: 64f0fad6756cb48fcf9b16c451eba0a0577cbac22b3906c585b593c349df003e
 - id: doi:10.1681/asn.2019030218
   title: Genome-Wide Association Study of Diabetic Kidney Disease Highlights Biology
     Involved in Glomerular Basement Membrane Collagen

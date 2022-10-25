@@ -81,7 +81,7 @@
   image: https://journals.plos.org/plosmedicine/article/figure/image?size=large&id=10.1371/journal.pmed.1002654.g001
   tags:
     - Method
-    - Genetic Subtyping
+    - Genetic Subtypes
     - Polygenic Scores
     - Type 2 Diabetes
   extra-links:
@@ -178,21 +178,64 @@
     - Dietary Intake
 
 - id: doi:10.1186/s12920-021-00978-z
-
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12920-021-00978-z/MediaObjects/12920_2021_978_Fig3_HTML.png?as=webp
+  tags:
+    - Structural Variation
+    - Penetrance
+    
 - id: doi:10.3389/fgene.2022.997266
+  image: https://d2csxpduxe849s.cloudfront.net/media/E32629C6-9347-4F84-81FEAEF7BFA342B3/736B937B-CCA4-4440-B731C5C595C623EA/WebsiteWebP_XL-shutterstock_1895343883.webp
+  tags:
+    - Editorial
+    - Nutrigenomics
 
 - id: doi:10.2337/dc21-1395
+  image: https://ada.silverchair-cdn.com/ada/content_public/journal/care/45/3/10.2337_dc21-1395/4/m_dc211395f1.png?Expires=1669277275&Signature=cZgj2n1yFSjFQBhh4zZJ6A-LKf9LZDRvskchz6br9CHAjgvjg-so2iwvsHpzJfQPU6Buwa~h1-OcGkv5N80NZmc~wopJioRFJ8QPQXP4o9Wl1J30pG8-OK1DyROFWWLzAy6kqXNL7tiEm2LsCihc7tWVE7FVbSifAkdmRj86R~xOEgStUySKM~BpZslbvc8g9mzIfeBUZ~k-l-MVciAEIAT4zl2TbtuRtX24zeVlXLU0zl05zA6OaH0oO5bzYNLCNUsifhj0UR~MkFvU9n~IOIZb4yrNh7fRCTpMAILuYbpYPxXSxtdrYGZbOWgoh8UPzmjOLhwk1UqabTsfxYiuQA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  tags:
+    - Genetic Subtypes
+    - Polygenic Scores
+    - Type 2 Diabetes
 
 - id: doi:10.1016/j.xhgg.2021.100082
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2666247721000634-gr3.jpg
+  tags:
+    - CNV GWAS
+    - Structural Variation
+    - Facial Shape
 
 - id: doi:10.2337/db21-0545
+  image: https://ada.silverchair-cdn.com/ada/content_public/journal/diabetes/71/3/10.2337_db21-0545/4/m_db210545f1.png?Expires=1668890139&Signature=dp-A~emp~u7eHppLpmufBtBijhQUfRPoP~2UfQ5g~m8zCZGElrq6X-v2rLN11ToG9isOgn9UrveoAENt-6AWkrBV~UKc3YD1UyseoOiUBaeUm4A1cpyVLMLJK~ugpJfShLTS~Oe1ss-Gw1dZQfxg2M1inLBrdJ31B1owN2M3rUUF1xcaTmprHjkyViu3SlF7Lssym-7WQkPAW1Jdg7Bqi4kXct5POu21sTOkfmKYzc5aw0bAnbje5OSgNABySiMcA3GkKW25QlCPbtGVNmsSDWRs~Yd9swihISJRmjkNP9Ztuu-NQMjbKrmL9~Z7uWOWlXPId2B~f6fz5kktVI56Uw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  tags:
+    - GWAS
+    - Recessive
+    - Type 2 Diabetes
 
 - id: doi:10.1007/s00125-022-05735-0
-
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00125-022-05735-0/MediaObjects/125_2022_5735_Figa_HTML.png?as=webp
+  tags:
+    - GWAS
+    - Multi-omics
+    - Diabetic Kidney Disease
+    
 - id: doi:10.1038/s41586-022-05067-4
-
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41586-022-05067-4/MediaObjects/41586_2022_5067_Fig5_HTML.png?as=webp
+  tags:
+    - Functional Characterization
+    
 - id: doi:10.1038/s41467-022-31625-5
-
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-022-31625-5/MediaObjects/41467_2022_31625_Fig3_HTML.png?as=webp
+  tags:
+    - Method
+    - Gene-Environment Interactions
+    - Biomarkers
+  extra-links:
+    - type: source
+      text: Software
+      link: https://github.com/kwesterman/vqtl-gxe
+    - type: data
+      text: Data
+      link: https://hugeamp.org/research.html?pageid=UKB-vQTL-GxE
+    
 - id: doi:10.1038/s41588-022-01200-1
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-022-01200-1/MediaObjects/41588_2022_1200_Fig3_HTML.png?as=webp
     tags:

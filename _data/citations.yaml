@@ -148,6 +148,19 @@
     text: FaceBase Consortium
     link: https://facebase.org/
   _cache: e3ddfe3268162b0d36e6337c7813e12364a27610ccbef6f587665560059da1e2
+- id: doi:10.1002/9780470015902.a0027240
+  title: The Genetics of Facial Morphology
+  authors:
+  - Joanne B Cole
+  - Richard A Spritz
+  publisher: eLS
+  date: '2017-09-15'
+  link: https://doi.org/gq4f72
+  image: https://onlinelibrary.wiley.com/cms/asset/6a6dbae1-b69c-45b5-8bd3-cc464ee00bd3/047001590x.cover.jpg
+  tags:
+  - Review
+  - Facial Shape
+  _cache: dfe7fa8cbe2e9d35e9e02e265b40df6e56dfdc05cc429c268630b16c484dc232
 - id: doi:doi:10.1111/joa.12576
   title: Rapid automated landmarking for morphometric analysis of three-dimensional
     facial scans
@@ -674,7 +687,11 @@
   publisher: Nature Medicine
   date: '2020-05-27'
   link: https://doi.org/ggztxb
-  _cache: 28276a735f7bd561d56a634d4af6b218669d7cee6dde1aa45951e730b49e683b
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41591-020-0893-5/MediaObjects/41591_2020_893_Fig2_HTML.png?as=webp
+  tags:
+  - Variant-to-Function (V2F)
+  - "Parkinson\u2019s Disease"
+  _cache: dfabe598ae8a985f851e93a37a47bf128c3be0003df6f308e0bf388823abf554
 - id: doi:10.1038/s41467-021-23556-4
   title: Determinants of penetrance and variable expressivity in monogenic metabolic
     conditions across 77,184 exomes
@@ -813,7 +830,11 @@
   publisher: Nature Communications
   date: '2021-06-09'
   link: https://doi.org/gkhf26
-  _cache: d9dace71b7a614ee526cd6ac91513a2777fbfd45cd8a747897adae360ef1bbb9
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41591-020-0893-5/MediaObjects/41591_2020_893_Fig2_HTML.png?as=webp
+  tags:
+  - Variant-to-Function (V2F)
+  - "Parkinson\u2019s Disease"
+  _cache: 2dcf23e0a7040df628fc47d9379ea062ff19ecf7ee3a3b064495849d3bc5ae44
 - id: doi:10.1038/s41467-021-21952-4
   title: The impact of non-additive genetic associations on age-related complex diseases
   authors:
@@ -842,7 +863,12 @@
   publisher: Nature Communications
   date: '2021-04-23'
   link: https://doi.org/gq4f7v
-  _cache: e7a90c60a468d2eaaef179452dc22b3c022bb27772c552e43b83c76316ada5d7
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-021-23556-4/MediaObjects/41467_2021_23556_Fig3_HTML.png?as=webp
+  tags:
+  - Penetrance
+  - Polygenic Scores
+  - Monogenic Diabetes
+  _cache: e2c1fa5593193a5bf6295078671c1e0aca41b9560497f06e59ffe5f14e8073a8
 - id: doi:10.1371/journal.pmed.1003553
   title: 'Cardiometabolic risk factors for COVID-19 susceptibility and severity: A
     Mendelian randomization analysis'
@@ -856,7 +882,12 @@
   publisher: PLOS Medicine
   date: '2021-03-04'
   link: https://doi.org/gkmrzg
-  _cache: bc8709a7335b8580398cfc9eed52065f83377860ab4bb453b98b7e2bca659aba
+  image: https://journals.plos.org/resource/img/logo-plos.png
+  tags:
+  - Mendelian Randomization
+  - COVID-19
+  - Obesity
+  _cache: 358cab276d263375f6e183b2878658ff4212348a189fd70d531acc334167402a
 - id: doi:10.1186/s13148-021-01081-x
   title: 'Assessment of differentially methylated loci in individuals with end-stage
     kidney disease attributed to diabetic kidney disease: an exploratory study'

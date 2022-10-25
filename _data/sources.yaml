@@ -63,7 +63,7 @@
 
       
 - id: doi:10.1002/ajpa.23356
-  image: https://www.ncbi.nlm.nih.gov/corecgi/tileshop/tileshop.fcgi?p=PMC3&id=353377&s=74&r=1&c=3
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5777898/bin/nihms916793f6.jpg
   tags:
     - Facial Shape
     - Body Size
@@ -72,8 +72,16 @@
       text: FaceBase Consortium
       link: https://facebase.org/  
 
-      
 - id: doi:10.1371/journal.pmed.1002654
+  image: https://journals.plos.org/plosmedicine/article/figure/image?size=large&id=10.1371/journal.pmed.1002654.g001
+  tags:
+    - Type 2 Diabetes
+    - Genetic Clustering
+    - Polygenic Scores
+  extra-links:
+    - type: source
+      text: Code
+      link: https://github.com/gwas-partitioning/bnmf-clustering
 
 - id: doi:10.1681/asn.2019030218
 

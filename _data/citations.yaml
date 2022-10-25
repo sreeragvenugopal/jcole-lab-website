@@ -111,7 +111,15 @@
   publisher: PLOS Genetics
   date: '2016-08-25'
   link: https://doi.org/f82c8t
-  _cache: 2aadf106494f13dded41dd71cbfefd28ce35ed2150d7ec0fcc94e7937c6d187f
+  image: https://journals.plos.org/plosgenetics/article/figure/image?size=large&id=10.1371/journal.pgen.1006149.g001
+  tags:
+  - GWAS
+  - facial shape
+  extra-links:
+  - type: website
+    text: FaceBase Consortium
+    link: https://www.facebase.org/
+  _cache: e20ed5312cf39af3b0135c4362691ebc61af40f0cf3d7a883b5f8a480947bd3e
 - id: doi:10.1534/genetics.116.193185
   title: Human Facial Shape and Size Heritability and Genetic Correlations
   authors:
@@ -130,7 +138,11 @@
   publisher: Genetics
   date: '2017-02-01'
   link: https://doi.org/f9v4c4
-  _cache: a8c079f8abb52270ceda4e1075b7cee3f1a65d9051aa8c762ca4d3d8acc97567
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/genetics/205/2/10.1534_genetics.116.193185/8/967fig3.jpeg?Expires=1669683544&Signature=RVg8qJLVh6Y7gojv9PkbawA0ZiOXhYwDKdWoy1hS6c7-FUDfWgifEDAgPj8AUQGEIv1ngNo3qhiMlyWuhLDbHEqJvzp-p8xWfOB7MVnbErVhxkwXu56E1yjVhMIvobPtlK1iMy3LgpWGu02oYsWgfD2KyB3uxXEaxoPfwx~og3PUvQT76ZUEix~78NiPC11UPQhHFExNhIMTExc-MiH3nlTcvcTMbLH2vJqLxZ2w2t~5Q5nCNx01-Rq8p~gS6EPawlPp6C1Z2NK8lofhPbcIQNtoWRdwSNkgUznP93~pLAonmkBXl9Vr0s~8DVvLhtgqsceNxJ~5BPLGUl~uMN1g7g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  tags:
+  - heritability
+  - facial shape
+  _cache: 3b65a14b63cb168d64fff86ea5dc462f04c650ee3e53fa2bc6b33b86611614b3
 - id: doi:doi:10.1111/joa.12576
   title: Rapid automated landmarking for morphometric analysis of three-dimensional
     facial scans

@@ -176,11 +176,11 @@
   extra-links:
   - type: external
     text: FaceBase Consortium
-    link: https://www.facebase.org/facial_landmarking/
+    link: https://facebase.org/
   - type: source
     text: Software
     link: https://www.facebase.org/facial_landmarking/
-  _cache: 949b5966991cd6fa8a7663ced6b53f484b5decfea10dea0c48f8c5d0b588b149
+  _cache: 53ce988728e66ee8a1324241e74396fa95d0334d813b85c5cb9f6ff47fee33d0
 - id: doi:10.1111/joa.12748
   title: Facial shape manifestations of growth faltering in Tanzanian children
   authors:

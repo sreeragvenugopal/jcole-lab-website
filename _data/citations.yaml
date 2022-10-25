@@ -170,17 +170,17 @@
   link: https://doi.org/f9kjkj
   image: https://onlinelibrary.wiley.com/cms/asset/a1369356-f816-42e9-b5d9-65a64daaaf1d/joa12576-fig-0002-m.jpg
   tags:
-  - Method
+  - Software
   - Facial Shape
   - Phenotyping
   extra-links:
-  - type: website
+  - type: external
     text: FaceBase Consortium
     link: https://facebase.org/
   - type: source
     text: Landmarking Software
     link: https://www.facebase.org/facial_landmarking/
-  _cache: 5ce13cbc7a5d68b2831f2c7407d25d9e56ede7e19cd55431a56426ee93c6e532
+  _cache: 2d01decfd68f654bd07b34aafb93c94d07b7c42e4a8cb8240656a3ce79bf1b2a
 - id: doi:10.1111/joa.12748
   title: Facial shape manifestations of growth faltering in Tanzanian children
   authors:

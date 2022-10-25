@@ -38,11 +38,11 @@
 - id: doi:doi:10.1111/joa.12576
   image: https://onlinelibrary.wiley.com/cms/asset/a1369356-f816-42e9-b5d9-65a64daaaf1d/joa12576-fig-0002-m.jpg
   tags:
-    - Method
+    - Software
     - Facial Shape
     - Phenotyping
   extra-links:
-    - type: website
+    - type: external
       text: FaceBase Consortium
       link: https://facebase.org/  
     - type: source

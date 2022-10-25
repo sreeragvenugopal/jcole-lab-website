@@ -1,6 +1,6 @@
 ---
 name: Joanne Cole
-image: images/team/jcole_2016.jpg
+image: images/team/Cole_headshot_2022Oct19_v2_small.JPG
 description: PI
 role: pi
 aliases:

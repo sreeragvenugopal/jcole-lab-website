@@ -153,10 +153,24 @@
     - Obesity
     
 - id: doi:10.1186/s13148-021-01081-x
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13148-021-01081-x/MediaObjects/13148_2021_1081_Fig1_HTML.png?as=webp
+  tags:
+    - DNA Methylation
+    - Diabetic Kidney Disease
 
 - id: doi:10.1186/s13075-021-02444-8
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13075-021-02444-8/MediaObjects/13075_2021_2444_Fig2_HTML.png?as=webp
+  tags:
+    - Mendelian Randomization
+    - Hyperuricemia
+    - Dietary Intake
 
-- id: doi::10.1093/hmg/ddab109
+- id: doi:10.1093/hmg/ddab109
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8411984/bin/ddab109f3.jpg
+  tags:
+    - Gene-Environment Interactions
+    - Type 2 Diabetes
+    - Dietary Intake
 
 - id: doi:10.1186/s12920-021-00978-z
 
@@ -173,3 +187,9 @@
 - id: doi:10.1038/s41586-022-05067-4
 
 - id: doi:10.1038/s41467-022-31625-5
+
+- id: doi:10.1038/s41588-022-01200-1
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-022-01200-1/MediaObjects/41588_2022_1200_Fig3_HTML.png?as=webp
+    tags:
+    - Polygenic Scores
+    - Type 2 Diabetes

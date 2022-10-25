@@ -34,7 +34,13 @@
     - type: external
       text: FaceBase Consortium
       link: https://facebase.org/ 
-    
+
+- id: doi:10.1002/9780470015902.a0027240
+  image: https://onlinelibrary.wiley.com/cms/asset/6a6dbae1-b69c-45b5-8bd3-cc464ee00bd3/047001590x.cover.jpg
+  tags:
+    - Review
+    - Facial Shape
+
 - id: doi:doi:10.1111/joa.12576
   image: https://onlinelibrary.wiley.com/cms/asset/a1369356-f816-42e9-b5d9-65a64daaaf1d/joa12576-fig-0002-m.jpg
   tags:
@@ -61,7 +67,6 @@
       text: FaceBase Consortium
       link: https://facebase.org/  
 
-      
 - id: doi:10.1002/ajpa.23356
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5777898/bin/nihms916793f6.jpg
   tags:
@@ -122,13 +127,31 @@
       link: https://github.com/yuhanhsu/PAIRUP-MS
 
 - id: doi:10.1038/s41591-020-0893-5
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41591-020-0893-5/MediaObjects/41591_2020_893_Fig2_HTML.png?as=webp
+  tags:
+    - Variant-to-Function (V2F)
+    - Parkinson’s Disease
 
 - id: doi:10.1038/s41467-021-23556-4
-
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41591-020-0893-5/MediaObjects/41591_2020_893_Fig2_HTML.png?as=webp
+  tags:
+    - Variant-to-Function (V2F)
+    - Parkinson’s Disease
+    
 - id: doi:10.1038/s41467-021-21952-4
-
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-021-23556-4/MediaObjects/41467_2021_23556_Fig3_HTML.png?as=webp
+  tags:
+    - Penetrance
+    - Polygenic Scores
+    - Monogenic Diabetes
+    
 - id: doi:10.1371/journal.pmed.1003553
-
+  image: https://journals.plos.org/resource/img/logo-plos.png
+  tags:
+    - Mendelian Randomization
+    - COVID-19
+    - Obesity
+    
 - id: doi:10.1186/s13148-021-01081-x
 
 - id: doi:10.1186/s13075-021-02444-8

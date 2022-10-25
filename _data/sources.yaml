@@ -133,16 +133,17 @@
     - Parkinson’s Disease
 
 - id: doi:10.1038/s41467-021-23556-4
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41591-020-0893-5/MediaObjects/41591_2020_893_Fig2_HTML.png?as=webp
-  tags:
-    - Variant-to-Function (V2F)
-    - Parkinson’s Disease
-    
-- id: doi:10.1038/s41467-021-21952-4
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-021-23556-4/MediaObjects/41467_2021_23556_Fig3_HTML.png?as=webp
   tags:
     - Penetrance
     - Polygenic Scores
+    - Monogenic Diabetes
+    
+- id: doi:10.1038/s41467-021-21952-4
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-021-21952-4/MediaObjects/41467_2021_21952_Fig3_HTML.png?as=webp
+  tags:
+    - GWAS
+    - Type 2 Diabetes
     - Monogenic Diabetes
     
 - id: doi:10.1371/journal.pmed.1003553

@@ -238,7 +238,7 @@
   publisher: American Journal of Physical Anthropology
   date: '2017-11-27'
   link: https://doi.org/gcwk6p
-  image: https://www.ncbi.nlm.nih.gov/corecgi/tileshop/tileshop.fcgi?p=PMC3&id=353377&s=74&r=1&c=3
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5777898/bin/nihms916793f6.jpg
   tags:
   - Facial Shape
   - Body Size
@@ -246,7 +246,7 @@
   - type: website
     text: FaceBase Consortium
     link: https://facebase.org/
-  _cache: e2ba6c104cfa8e7b25d9e54d62540f4b43060b52f771ec253accf9afddde45e4
+  _cache: 7138ab33c1a6e205566a70433bd16e0f9d2da77de438580fa959d70403051a5e
 - id: doi:10.1371/journal.pmed.1002654
   title: 'Type 2 diabetes genetic loci informed by multi-trait associations point
     to disease mechanisms and subtypes: A soft clustering analysis'
@@ -270,7 +270,16 @@
   publisher: PLOS Medicine
   date: '2018-09-21'
   link: https://doi.org/gfbg38
-  _cache: c61d8121765ff6f3ce8c975538a3e13b12d4e08a7d82366bb2872c5d660272a1
+  image: https://journals.plos.org/plosmedicine/article/figure/image?size=large&id=10.1371/journal.pmed.1002654.g001
+  tags:
+  - Type 2 Diabetes
+  - Genetic Clustering
+  - Polygenic Scores
+  extra-links:
+  - type: source
+    text: Code
+    link: https://github.com/gwas-partitioning/bnmf-clustering
+  _cache: 735aa1e461628a03ae73264c90e9aec78aa292830f42055345a9693978745a05
 - id: doi:10.1681/asn.2019030218
   title: Genome-Wide Association Study of Diabetic Kidney Disease Highlights Biology
     Involved in Glomerular Basement Membrane Collagen

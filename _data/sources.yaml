@@ -2,7 +2,7 @@
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fng.2272/MediaObjects/41588_2012_Article_BFng2272_Fig1_HTML.jpg?as=webp
   tags:
     - GWAS
-    - vitiligo
+    - Vitiligo
     
 - id: doi:10.1371/journal.pgen.1006174
   image: https://journals.plos.org/plosgenetics/article/figure/image?size=large&id=10.1371/journal.pgen.1006174.g002
@@ -39,8 +39,8 @@
   image: https://onlinelibrary.wiley.com/cms/asset/a1369356-f816-42e9-b5d9-65a64daaaf1d/joa12576-fig-0002-m.jpg
   tags:
     - Software
-    - Facial Shape
     - Phenotyping
+    - Facial Shape
   extra-links:
     - type: external
       text: FaceBase Consortium
@@ -75,9 +75,10 @@
 - id: doi:10.1371/journal.pmed.1002654
   image: https://journals.plos.org/plosmedicine/article/figure/image?size=large&id=10.1371/journal.pmed.1002654.g001
   tags:
-    - Type 2 Diabetes
-    - Genetic Clustering
+    - Method
+    - Genetic Subtyping
     - Polygenic Scores
+    - Type 2 Diabetes
   extra-links:
     - type: source
       text: Code

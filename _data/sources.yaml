@@ -10,7 +10,7 @@
     - GWAS
     - Facial Shape
   extra-links:
-    - type: website
+    - type: external
       text: FaceBase Consortium
       link: https://facebase.org/
 
@@ -20,7 +20,7 @@
     - GWAS
     - Facial Shape
   extra-links:
-    - type: website
+    - type: external
       text: FaceBase Consortium
       link: https://facebase.org/  
 
@@ -31,9 +31,9 @@
     - Facial Shape
     - Body Size
   extra-links:
-    - type: website
+    - type: external
       text: FaceBase Consortium
-      link: https://facebase.org/  
+      link: https://facebase.org/ 
     
 - id: doi:doi:10.1111/joa.12576
   image: https://onlinelibrary.wiley.com/cms/asset/a1369356-f816-42e9-b5d9-65a64daaaf1d/joa12576-fig-0002-m.jpg
@@ -84,12 +84,41 @@
       link: https://github.com/gwas-partitioning/bnmf-clustering
 
 - id: doi:10.1681/asn.2019030218
-
+  image: https://jasn.asnjournals.org/content/jnephrol/30/10/2000/F1.large.jpg?width=800&height=600&carousel=1
+  tags:
+    - GWAS
+    - Diabetic Kidney Disease
+  extra-links:
+    - type: data
+      text: Summary Statistics
+      link: http://www.type2diabetesgenetics.org/informational/data
+      
 - id: doi:10.1038/s41581-020-0278-5
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41581-020-0278-5/MediaObjects/41581_2020_278_Fig1_HTML.png?as=webp
+  tags:
+    - Review
+    - Diabetic Kidney Disease
 
 - id: doi:10.1038/s41467-020-15193-0
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-020-15193-0/MediaObjects/41467_2020_15193_Fig1_HTML.png?as=webp
+  tags:
+    - GWAS
+    - Dietary Intake
+  extra-links:
+    - type: data
+      text: Summary Statistics
+      link: https://www.kp4cd.org/dataset_downloads/t2d
 
 - id: doi:10.1038/s41366-020-0603-x
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41366-020-0603-x/MediaObjects/41366_2020_603_Fig3_HTML.png?as=webp
+  tags:
+    - Software
+    - Metabolomics
+    - Obesity
+  extra-links:
+    - type: source
+      text: Software
+      link: https://github.com/yuhanhsu/PAIRUP-MS
 
 - id: doi:10.1038/s41591-020-0893-5
 

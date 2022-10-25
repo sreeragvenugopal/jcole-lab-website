@@ -286,14 +286,14 @@
   image: https://journals.plos.org/plosmedicine/article/figure/image?size=large&id=10.1371/journal.pmed.1002654.g001
   tags:
   - Method
-  - Genetic Subtyping
+  - Genetic Subtypes
   - Polygenic Scores
   - Type 2 Diabetes
   extra-links:
   - type: source
     text: Code
     link: https://github.com/gwas-partitioning/bnmf-clustering
-  _cache: 64f0fad6756cb48fcf9b16c451eba0a0577cbac22b3906c585b593c349df003e
+  _cache: 20139b623f491dd165a83f3427c5a6fabc02591c27b6cc10d89caeb28d8ec990
 - id: doi:10.1681/asn.2019030218
   title: Genome-Wide Association Study of Diabetic Kidney Disease Highlights Biology
     Involved in Glomerular Basement Membrane Collagen
@@ -830,11 +830,12 @@
   publisher: Nature Communications
   date: '2021-06-09'
   link: https://doi.org/gkhf26
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41591-020-0893-5/MediaObjects/41591_2020_893_Fig2_HTML.png?as=webp
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-021-23556-4/MediaObjects/41467_2021_23556_Fig3_HTML.png?as=webp
   tags:
-  - Variant-to-Function (V2F)
-  - "Parkinson\u2019s Disease"
-  _cache: 2dcf23e0a7040df628fc47d9379ea062ff19ecf7ee3a3b064495849d3bc5ae44
+  - Penetrance
+  - Polygenic Scores
+  - Monogenic Diabetes
+  _cache: 3578b2a5585ff5f5fcc048e330cdcd2f83902966e0a0dd17151e500e98379095
 - id: doi:10.1038/s41467-021-21952-4
   title: The impact of non-additive genetic associations on age-related complex diseases
   authors:
@@ -863,12 +864,16 @@
   publisher: Nature Communications
   date: '2021-04-23'
   link: https://doi.org/gq4f7v
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-021-23556-4/MediaObjects/41467_2021_23556_Fig3_HTML.png?as=webp
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-021-21952-4/MediaObjects/41467_2021_21952_Fig3_HTML.png?as=webp
   tags:
-  - Penetrance
-  - Polygenic Scores
-  - Monogenic Diabetes
-  _cache: e2c1fa5593193a5bf6295078671c1e0aca41b9560497f06e59ffe5f14e8073a8
+  - Software
+  - GWAS
+  - Recessive
+  extra-links:
+  - type: source
+    text: Software
+    link: https://gitlab.bsc.es/computational-genomics/guidance
+  _cache: d4848efe1a4cee41ed95d610ce29d318e74096dd213935055adae3ee3ff940ef
 - id: doi:10.1371/journal.pmed.1003553
   title: 'Cardiometabolic risk factors for COVID-19 susceptibility and severity: A
     Mendelian randomization analysis'
@@ -923,7 +928,11 @@
   publisher: Clinical Epigenetics
   date: '2021-05-01'
   link: https://doi.org/gq4f8c
-  _cache: 06fd4c30cf939d21fae723b8cadc100e3f2c026c7ba88b8e27847c46a3b17b11
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13148-021-01081-x/MediaObjects/13148_2021_1081_Fig1_HTML.png?as=webp
+  tags:
+  - DNA Methylation
+  - Diabetic Kidney Disease
+  _cache: 0fbfe54663b7936dcab52bb9898df1ff4e57a6037f46ac94da7cf24d14b86837
 - id: doi:10.1186/s13075-021-02444-8
   title: 'The comparative effect of exposure to various risk factors on the risk of
     hyperuricaemia: diet has a weak causal effect'
@@ -942,8 +951,13 @@
   publisher: Arthritis Research &amp; Therapy
   date: '2021-03-04'
   link: https://doi.org/gmdpqk
-  _cache: 22e9a7c6b80ce6c804d7a23378df8fb51d7e506fe93cc2e07f0579ef28e77d75
-- id: doi::10.1093/hmg/ddab109
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13075-021-02444-8/MediaObjects/13075_2021_2444_Fig2_HTML.png?as=webp
+  tags:
+  - Mendelian Randomization
+  - Hyperuricemia
+  - Dietary Intake
+  _cache: 5f9d15389988e57e2e2c520c1eee6a3ef413309359612e0a0f4c0cf6746275c5
+- id: doi:10.1093/hmg/ddab109
   title: "Genome-wide gene\u2013diet interaction analysis in the UK Biobank identifies\
     \ novel effects on hemoglobin A1c"
   authors:
@@ -955,9 +969,14 @@
   - Alisa K Manning
   - Joanne B Cole
   publisher: Human Molecular Genetics
-  date: '2021-08-28'
-  link: https://doi.org/:10.1093/hmg/ddab109
-  _cache: 106f2272ea19dd88e78984dfc420eef87f921d930dca1d261ab6b5948601190b
+  date: '2021-04-16'
+  link: https://doi.org/gq4h2m
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8411984/bin/ddab109f3.jpg
+  tags:
+  - Gene-Environment Interactions
+  - Type 2 Diabetes
+  - Dietary Intake
+  _cache: 555c0a5f66c961be110941d63295e3f6135197768c9d0fb2547677de06009ef5
 - id: doi:10.1186/s12920-021-00978-z
   title: Genome-wide copy number variations in a large cohort of bantu African children
   authors:
@@ -975,7 +994,11 @@
   publisher: BMC Medical Genomics
   date: '2021-05-17'
   link: https://doi.org/gq4f8d
-  _cache: 58edd1035d6752a392af3b251bc32d2bd0b861d5cb2eb3deb7588a4232d6c347
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12920-021-00978-z/MediaObjects/12920_2021_978_Fig3_HTML.png?as=webp
+  tags:
+  - Structural Variation
+  - Penetrance
+  _cache: e3d019120f290187e137d3dc91bdd05800db125d2e2270ea009e95f107160553
 - id: doi:10.3389/fgene.2022.997266
   title: 'Editorial: Recent advances in nutrigenomics: Making strides towards precision
     nutrition'
@@ -985,7 +1008,11 @@
   publisher: Frontiers in Genetics
   date: '2022-09-20'
   link: https://doi.org/gq4f8f
-  _cache: d261bb87497f13360ab7a0977b50f4a1327129fa0202da82c9b84b51a75e3ca9
+  image: https://d2csxpduxe849s.cloudfront.net/media/E32629C6-9347-4F84-81FEAEF7BFA342B3/736B937B-CCA4-4440-B731C5C595C623EA/WebsiteWebP_XL-shutterstock_1895343883.webp
+  tags:
+  - Editorial
+  - Nutrigenomics
+  _cache: 7d3db40f271bf5b8dde2cdd5b268a8ab4c1f6ac0bbf69edc300ec4910b6c7afe
 - id: doi:10.2337/dc21-1395
   title: Type 2 Diabetes Partitioned Polygenic Scores Associate With Disease Outcomes
     in 454,193 Individuals Across 13 Cohorts
@@ -1046,7 +1073,12 @@
   publisher: Diabetes Care
   date: '2022-01-27'
   link: https://doi.org/gq4f8g
-  _cache: 060dc6779b9711f72f11bb4003022bef8d16960f33b70e61f68a4d1c4c28cebb
+  image: https://ada.silverchair-cdn.com/ada/content_public/journal/care/45/3/10.2337_dc21-1395/4/m_dc211395f1.png?Expires=1669277275&Signature=cZgj2n1yFSjFQBhh4zZJ6A-LKf9LZDRvskchz6br9CHAjgvjg-so2iwvsHpzJfQPU6Buwa~h1-OcGkv5N80NZmc~wopJioRFJ8QPQXP4o9Wl1J30pG8-OK1DyROFWWLzAy6kqXNL7tiEm2LsCihc7tWVE7FVbSifAkdmRj86R~xOEgStUySKM~BpZslbvc8g9mzIfeBUZ~k-l-MVciAEIAT4zl2TbtuRtX24zeVlXLU0zl05zA6OaH0oO5bzYNLCNUsifhj0UR~MkFvU9n~IOIZb4yrNh7fRCTpMAILuYbpYPxXSxtdrYGZbOWgoh8UPzmjOLhwk1UqabTsfxYiuQA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  tags:
+  - Genetic Subtypes
+  - Polygenic Scores
+  - Type 2 Diabetes
+  _cache: b3e35e54f7918dacf7e8efbd74ed17137063339d09000984fc88ed6770515cf1
 - id: doi:10.1016/j.xhgg.2021.100082
   title: Genome-wide analysis of copy number variants and normal facial variation
     in a large cohort of Bantu Africans
@@ -1064,7 +1096,12 @@
   publisher: Human Genetics and Genomics Advances
   date: '2022-01-01'
   link: https://doi.org/gq4f8h
-  _cache: 4a43046e6c5ef51138d664e95470863e8fb19daff03d8af78b7a066aa8be6172
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2666247721000634-gr3.jpg
+  tags:
+  - CNV GWAS
+  - Structural Variation
+  - Facial Shape
+  _cache: a69eab16237a5e842fa158e0ae316fa84e147862cb9debad38a210e9eb1cc8f5
 - id: doi:10.2337/db21-0545
   title: Recessive Genome-Wide Meta-analysis Illuminates Genetic Architecture of Type
     2 Diabetes
@@ -1092,7 +1129,12 @@
   publisher: Diabetes
   date: '2021-12-03'
   link: https://doi.org/gq4f8j
-  _cache: 817e1625d924aa162fc913cbf9395f2c7d8352ff7f292a0134fc6b0b913e352f
+  image: https://ada.silverchair-cdn.com/ada/content_public/journal/diabetes/71/3/10.2337_db21-0545/4/m_db210545f1.png?Expires=1668890139&Signature=dp-A~emp~u7eHppLpmufBtBijhQUfRPoP~2UfQ5g~m8zCZGElrq6X-v2rLN11ToG9isOgn9UrveoAENt-6AWkrBV~UKc3YD1UyseoOiUBaeUm4A1cpyVLMLJK~ugpJfShLTS~Oe1ss-Gw1dZQfxg2M1inLBrdJ31B1owN2M3rUUF1xcaTmprHjkyViu3SlF7Lssym-7WQkPAW1Jdg7Bqi4kXct5POu21sTOkfmKYzc5aw0bAnbje5OSgNABySiMcA3GkKW25QlCPbtGVNmsSDWRs~Yd9swihISJRmjkNP9Ztuu-NQMjbKrmL9~Z7uWOWlXPId2B~f6fz5kktVI56Uw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  tags:
+  - GWAS
+  - Recessive
+  - Type 2 Diabetes
+  _cache: c96ba805cf9b80c82211fcee2e49593623e8229e04de1c3f6bec527b850d44e3
 - id: doi:10.1007/s00125-022-05735-0
   title: Genome-wide meta-analysis and omics integration identifies novel genes associated
     with diabetic kidney disease
@@ -1132,7 +1174,12 @@
   publisher: Diabetologia
   date: '2022-06-28'
   link: https://doi.org/gq4fzd
-  _cache: 0735d30de4dbb2ad209ca736502df907c28d1fd2f89941915a6f825851e5a3f5
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00125-022-05735-0/MediaObjects/125_2022_5735_Figa_HTML.png?as=webp
+  tags:
+  - GWAS
+  - Multi-omics
+  - Diabetic Kidney Disease
+  _cache: cc61af230d61dfdc841129d25b28d9a4276d7e273cfa9fd2cf67c2c82d15745b
 - id: doi:10.1038/s41586-022-05067-4
   title: Post-translational control of beige fat biogenesis by PRDM16 stabilization
   authors:
@@ -1154,7 +1201,10 @@
   publisher: Nature
   date: '2022-08-17'
   link: https://doi.org/gqnxmq
-  _cache: c6577eb05160b2699545cbf5f7d0970dc03d772916ebc5622f9ef3eb35c391bd
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41586-022-05067-4/MediaObjects/41586_2022_5067_Fig5_HTML.png?as=webp
+  tags:
+  - Functional Characterization
+  _cache: 176922c4b3f3fa2378130660cf4c36f62fa72bf2ab4c0cb8b338a91627a0576e
 - id: doi:10.1038/s41467-022-31625-5
   title: Variance-quantitative trait loci enable systematic discovery of gene-environment
     interactions for cardiometabolic serum biomarkers
@@ -1173,7 +1223,43 @@
   publisher: Nature Communications
   date: '2022-07-09'
   link: https://doi.org/gq4f8k
-  _cache: f7e0ee1581a40b8c0f4b9cd9e64292fb6a2c2b575812d64cc5435a690a312a02
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-022-31625-5/MediaObjects/41467_2022_31625_Fig3_HTML.png?as=webp
+  tags:
+  - Method
+  - Gene-Environment Interactions
+  - Biomarkers
+  extra-links:
+  - type: source
+    text: Software
+    link: https://github.com/kwesterman/vqtl-gxe
+  - type: data
+    text: Data
+    link: https://hugeamp.org/research.html?pageid=UKB-vQTL-GxE
+  _cache: 4b6071cf3d88892856786876a5ae06efdeedb260d6eaa9fb2c5b4975458a83d6
+- id: doi:10.1038/s41588-022-01200-1
+  title: A combined polygenic score of 21,293 rare and 22 common variants improves
+    diabetes diagnosis based on hemoglobin A1C levels
+  authors:
+  - Peter Dornbos
+  - Ryan Koesterer
+  - Andrew Ruttenburg
+  - Trang Nguyen
+  - Joanne B. Cole
+  - Aaron Leong
+  - James B. Meigs
+  - Jose C. Florez
+  - Jerome I. Rotter
+  - Miriam S. Udler
+  - Jason Flannick
+  - ' '
+  publisher: Nature Genetics
+  date: '2022-10-24'
+  link: https://doi.org/gq4f7s
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-022-01200-1/MediaObjects/41588_2022_1200_Fig3_HTML.png?as=webp
+  tags:
+  - Polygenic Scores
+  - Type 2 Diabetes
+  _cache: c53952e80cfa9aaeb88d52491f3e70c5bbe5e9b7d70ae4707ff73c20bd6c04da
 - id: doi:10.1038/s41588-022-01200-1
   title: A combined polygenic score of 21,293 rare and 22 common variants improves
     diabetes diagnosis based on hemoglobin A1C levels

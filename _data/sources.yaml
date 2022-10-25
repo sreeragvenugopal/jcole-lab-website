@@ -15,9 +15,21 @@
       link: https://www.facebase.org/
 
 - id: doi:10.1371/journal.pgen.1006149
+  image: https://journals.plos.org/plosgenetics/article/figure/image?size=large&id=10.1371/journal.pgen.1006149.g001
+  tags:
+    - GWAS
+    - facial shape
+  extra-links:
+    - type: website
+      text: FaceBase Consortium
+      link: https://www.facebase.org/  
 
 - id: doi:10.1534/genetics.116.193185
-
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/genetics/205/2/10.1534_genetics.116.193185/8/967fig3.jpeg?Expires=1669683544&Signature=RVg8qJLVh6Y7gojv9PkbawA0ZiOXhYwDKdWoy1hS6c7-FUDfWgifEDAgPj8AUQGEIv1ngNo3qhiMlyWuhLDbHEqJvzp-p8xWfOB7MVnbErVhxkwXu56E1yjVhMIvobPtlK1iMy3LgpWGu02oYsWgfD2KyB3uxXEaxoPfwx~og3PUvQT76ZUEix~78NiPC11UPQhHFExNhIMTExc-MiH3nlTcvcTMbLH2vJqLxZ2w2t~5Q5nCNx01-Rq8p~gS6EPawlPp6C1Z2NK8lofhPbcIQNtoWRdwSNkgUznP93~pLAonmkBXl9Vr0s~8DVvLhtgqsceNxJ~5BPLGUl~uMN1g7g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  tags:
+    - heritability
+    - facial shape
+    
 - id: doi:doi:10.1111/joa.12576
 
 - id: doi:10.1111/joa.12748

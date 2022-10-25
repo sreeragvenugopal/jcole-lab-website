@@ -73,12 +73,12 @@
   image: https://journals.plos.org/plosgenetics/article/figure/image?size=large&id=10.1371/journal.pgen.1006174.g002
   tags:
   - GWAS
-  - facial shape
+  - Facial Shape
   extra-links:
   - type: website
     text: FaceBase Consortium
-    link: https://www.facebase.org/
-  _cache: b135fb11430b40ab1b942f35eb78bed9e26eb3e478b061c1874aabfbadbac6d7
+    link: https://facebase.org/
+  _cache: 5fb9323e7fb462d13be1f5338e8580392cfba864e9d208f3d53c55abcc1f7a7e
 - id: doi:10.1371/journal.pgen.1006149
   title: Genome-Wide Association Study Reveals Multiple Loci Influencing Normal Human
     Facial Morphology
@@ -114,12 +114,12 @@
   image: https://journals.plos.org/plosgenetics/article/figure/image?size=large&id=10.1371/journal.pgen.1006149.g001
   tags:
   - GWAS
-  - facial shape
+  - Facial Shape
   extra-links:
   - type: website
     text: FaceBase Consortium
-    link: https://www.facebase.org/
-  _cache: e20ed5312cf39af3b0135c4362691ebc61af40f0cf3d7a883b5f8a480947bd3e
+    link: https://facebase.org/
+  _cache: 959c281a85a7c5e24c4f84fd6a99a8195c6d5b286dcdff8aa79a5e244ff84aea
 - id: doi:10.1534/genetics.116.193185
   title: Human Facial Shape and Size Heritability and Genetic Correlations
   authors:
@@ -140,9 +140,14 @@
   link: https://doi.org/f9v4c4
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/genetics/205/2/10.1534_genetics.116.193185/8/967fig3.jpeg?Expires=1669683544&Signature=RVg8qJLVh6Y7gojv9PkbawA0ZiOXhYwDKdWoy1hS6c7-FUDfWgifEDAgPj8AUQGEIv1ngNo3qhiMlyWuhLDbHEqJvzp-p8xWfOB7MVnbErVhxkwXu56E1yjVhMIvobPtlK1iMy3LgpWGu02oYsWgfD2KyB3uxXEaxoPfwx~og3PUvQT76ZUEix~78NiPC11UPQhHFExNhIMTExc-MiH3nlTcvcTMbLH2vJqLxZ2w2t~5Q5nCNx01-Rq8p~gS6EPawlPp6C1Z2NK8lofhPbcIQNtoWRdwSNkgUznP93~pLAonmkBXl9Vr0s~8DVvLhtgqsceNxJ~5BPLGUl~uMN1g7g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   tags:
-  - heritability
-  - facial shape
-  _cache: 3b65a14b63cb168d64fff86ea5dc462f04c650ee3e53fa2bc6b33b86611614b3
+  - Heritability
+  - Facial Shape
+  - Body Size
+  extra-links:
+  - type: website
+    text: FaceBase Consortium
+    link: https://facebase.org/
+  _cache: 7b9f2ee5bbd8f832730929604d7374f572d9a7fd89f3d54a900a9638c075d007
 - id: doi:doi:10.1111/joa.12576
   title: Rapid automated landmarking for morphometric analysis of three-dimensional
     facial scans
@@ -163,7 +168,19 @@
   publisher: Journal of Anatomy
   date: '2017-01-12'
   link: https://doi.org/f9kjkj
-  _cache: fab95af2aa2bcfdb6b1d0155abb3c5540ba87d5fa5ba733724257d98e1ab4d9c
+  image: https://onlinelibrary.wiley.com/cms/asset/a1369356-f816-42e9-b5d9-65a64daaaf1d/joa12576-fig-0002-m.jpg
+  tags:
+  - Method
+  - Facial Shape
+  - Phenotyping
+  extra-links:
+  - type: website
+    text: FaceBase Consortium
+    link: https://facebase.org/
+  - type: source
+    text: Landmarking Software
+    link: https://www.facebase.org/facial_landmarking/
+  _cache: 5ce13cbc7a5d68b2831f2c7407d25d9e56ede7e19cd55431a56426ee93c6e532
 - id: doi:10.1111/joa.12748
   title: Facial shape manifestations of growth faltering in Tanzanian children
   authors:
@@ -185,7 +202,17 @@
   publisher: Journal of Anatomy
   date: '2017-11-28'
   link: https://doi.org/gq4f7z
-  _cache: 73ae9eb2d516b3742df27cf7cb1220ca9ab2956ef7448732428e0f165a235f26
+  image: https://onlinelibrary.wiley.com/cms/asset/b33f654c-8d32-42e0-9fae-8e93b8fabb8e/joa12748-fig-0007-m.jpg
+  tags:
+  - Genetic and Environmental Variance
+  - Facial Shape
+  - Body Size
+  - Growth Faltering
+  extra-links:
+  - type: website
+    text: FaceBase Consortium
+    link: https://facebase.org/
+  _cache: a5500f6750a2a5ce88c7b4ec52fbf48ed342c4f5b170ffc4ce6f8c5378339ba8
 - id: doi:10.1002/ajpa.23356
   title: Body size and allometric variation in facial shape in children
   authors:
@@ -211,7 +238,15 @@
   publisher: American Journal of Physical Anthropology
   date: '2017-11-27'
   link: https://doi.org/gcwk6p
-  _cache: 4a8ac1b58278dc830f40203e1035de00c95bdee3e4c2abb00347c6f7da2ee448
+  image: https://www.ncbi.nlm.nih.gov/corecgi/tileshop/tileshop.fcgi?p=PMC3&id=353377&s=74&r=1&c=3
+  tags:
+  - Facial Shape
+  - Body Size
+  extra-links:
+  - type: website
+    text: FaceBase Consortium
+    link: https://facebase.org/
+  _cache: e2ba6c104cfa8e7b25d9e54d62540f4b43060b52f771ec253accf9afddde45e4
 - id: doi:10.1371/journal.pmed.1002654
   title: 'Type 2 diabetes genetic loci informed by multi-trait associations point
     to disease mechanisms and subtypes: A soft clustering analysis'

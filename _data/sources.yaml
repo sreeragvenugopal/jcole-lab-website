@@ -8,34 +8,71 @@
   image: https://journals.plos.org/plosgenetics/article/figure/image?size=large&id=10.1371/journal.pgen.1006174.g002
   tags:
     - GWAS
-    - facial shape
+    - Facial Shape
   extra-links:
     - type: website
       text: FaceBase Consortium
-      link: https://www.facebase.org/
+      link: https://facebase.org/
 
 - id: doi:10.1371/journal.pgen.1006149
   image: https://journals.plos.org/plosgenetics/article/figure/image?size=large&id=10.1371/journal.pgen.1006149.g001
   tags:
     - GWAS
-    - facial shape
+    - Facial Shape
   extra-links:
     - type: website
       text: FaceBase Consortium
-      link: https://www.facebase.org/  
+      link: https://facebase.org/  
 
 - id: doi:10.1534/genetics.116.193185
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/genetics/205/2/10.1534_genetics.116.193185/8/967fig3.jpeg?Expires=1669683544&Signature=RVg8qJLVh6Y7gojv9PkbawA0ZiOXhYwDKdWoy1hS6c7-FUDfWgifEDAgPj8AUQGEIv1ngNo3qhiMlyWuhLDbHEqJvzp-p8xWfOB7MVnbErVhxkwXu56E1yjVhMIvobPtlK1iMy3LgpWGu02oYsWgfD2KyB3uxXEaxoPfwx~og3PUvQT76ZUEix~78NiPC11UPQhHFExNhIMTExc-MiH3nlTcvcTMbLH2vJqLxZ2w2t~5Q5nCNx01-Rq8p~gS6EPawlPp6C1Z2NK8lofhPbcIQNtoWRdwSNkgUznP93~pLAonmkBXl9Vr0s~8DVvLhtgqsceNxJ~5BPLGUl~uMN1g7g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   tags:
-    - heritability
-    - facial shape
+    - Heritability
+    - Facial Shape
+    - Body Size
+  extra-links:
+    - type: website
+      text: FaceBase Consortium
+      link: https://facebase.org/  
     
 - id: doi:doi:10.1111/joa.12576
-
+  image: https://onlinelibrary.wiley.com/cms/asset/a1369356-f816-42e9-b5d9-65a64daaaf1d/joa12576-fig-0002-m.jpg
+  tags:
+    - Method
+    - Facial Shape
+    - Phenotyping
+  extra-links:
+    - type: website
+      text: FaceBase Consortium
+      link: https://facebase.org/  
+    - type: source
+      text: Landmarking Software
+      link: https://www.facebase.org/facial_landmarking/
+      
 - id: doi:10.1111/joa.12748
+  image: https://onlinelibrary.wiley.com/cms/asset/b33f654c-8d32-42e0-9fae-8e93b8fabb8e/joa12748-fig-0007-m.jpg
+  tags:
+    - Genetic and Environmental Variance
+    - Facial Shape
+    - Body Size
+    - Growth Faltering
+  extra-links:
+    - type: website
+      text: FaceBase Consortium
+      link: https://facebase.org/  
 
+      
 - id: doi:10.1002/ajpa.23356
+  image: https://www.ncbi.nlm.nih.gov/corecgi/tileshop/tileshop.fcgi?p=PMC3&id=353377&s=74&r=1&c=3
+  tags:
+    - Facial Shape
+    - Body Size
+  extra-links:
+    - type: website
+      text: FaceBase Consortium
+      link: https://facebase.org/  
 
+      
 - id: doi:10.1371/journal.pmed.1002654
 
 - id: doi:10.1681/asn.2019030218

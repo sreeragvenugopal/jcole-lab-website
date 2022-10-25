@@ -44,7 +44,7 @@
   extra-links:
     - type: external
       text: FaceBase Consortium
-      link: https://facebase.org/  
+      link: https://www.facebase.org/facial_landmarking/
     - type: source
       text: Software
       link: https://www.facebase.org/facial_landmarking/

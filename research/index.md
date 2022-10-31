@@ -5,10 +5,7 @@ nav:
   tooltip: Published works
 ---
 
-# <i class="fas fa-microscope"></i>Research
-
-## Coming Soon!!
-Bear with me... the lab just launched October 1st, 2022.
+# <i class="fas fa-microscope"></i>Publications
 
 {% include section.html %}
 

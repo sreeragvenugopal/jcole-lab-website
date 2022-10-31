@@ -8,7 +8,7 @@ We are a computational group at the [University of Colorado School of Medicine](
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/generic/dna_1_banner.jpg" %}
+{% include banner.html image="images/generic/dna_1_banner" %}
 
 {% include section.html %}
 

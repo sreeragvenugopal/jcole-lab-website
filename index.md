@@ -30,7 +30,7 @@ How do our genes influence our dietary intake? What are the underlying environme
 {%
   include feature.html
   image="images/photo.jpg"
-  link="research"
+  link="publications"
   title="Our Research Focus"
   text=text
 %}

@@ -8,7 +8,6 @@ aliases:
   - J. Cole
   - J Cole
   - Joanne B Cole
-  - Joanne Cole Mezini
 links:
   orcid: 0000-0001-9520-2788
   home-page: https://jcolelab.com

@@ -1,0 +1,1262 @@
+# DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
+# See https://github.com/greenelab/lab-website-template/wiki/Citations
+
+- id: doi:10.1038/ng.2272
+  title: Genome-wide association analyses identify 13 new susceptibility loci for
+    generalized vitiligo
+  authors:
+  - Ying Jin
+  - Stanca A Birlea
+  - Pamela R Fain
+  - Tracey M Ferrara
+  - Songtao Ben
+  - Sheri L Riccardi
+  - Joanne B Cole
+  - Katherine Gowan
+  - Paulene J Holland
+  - Dorothy C Bennett
+  - Rosalie M Luiten
+  - Albert Wolkerstorfer
+  - J P Wietze van der Veen
+  - Anke Hartmann
+  - Saskia Eichner
+  - Gerold Schuler
+  - Nanja van Geel
+  - Jo Lambert
+  - E Helen Kemp
+  - David J Gawkrodger
+  - Anthony P Weetman
+  - "Alain Ta\xEFeb"
+  - Thomas Jouary
+  - Khaled Ezzedine
+  - Margaret R Wallace
+  - Wayne T McCormack
+  - Mauro Picardo
+  - Giovanni Leone
+  - Andreas Overbeck
+  - Nanette B Silverberg
+  - Richard A Spritz
+  publisher: Nature Genetics
+  date: '2012-05-06'
+  link: https://doi.org/f3z6tv
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fng.2272/MediaObjects/41588_2012_Article_BFng2272_Fig1_HTML.jpg?as=webp
+  tags:
+  - GWAS
+  - Vitiligo
+  _cache: 1a0b7ae54212a6062c08de74d3809307d3f8800c46030fc27afc499df95b4f1d
+- id: doi:10.1371/journal.pgen.1006174
+  title: Genomewide Association Study of African Children Identifies Association of
+    SCHIP1 and PDE8A with Facial Size and Shape
+  authors:
+  - Joanne B. Cole
+  - Mange Manyama
+  - Emmanuel Kimwaga
+  - Joshua Mathayo
+  - Jacinda R. Larson
+  - Denise K. Liberton
+  - Ken Lukowiak
+  - Tracey M. Ferrara
+  - Sheri L. Riccardi
+  - Mao Li
+  - Washington Mio
+  - Michaela Prochazkova
+  - Trevor Williams
+  - Hong Li
+  - Kenneth L. Jones
+  - Ophir D. Klein
+  - Stephanie A. Santorico
+  - Benedikt Hallgrimsson
+  - Richard A. Spritz
+  publisher: PLOS Genetics
+  date: '2016-08-25'
+  link: https://doi.org/f82mt6
+  image: https://journals.plos.org/plosgenetics/article/figure/image?size=large&id=10.1371/journal.pgen.1006174.g002
+  tags:
+  - GWAS
+  - Facial Shape
+  extra-links:
+  - type: external
+    text: FaceBase Consortium
+    link: https://facebase.org/
+  _cache: 27f21c30936a0a75a2d5ba2a471a36b434c571c40095ed90051dddddfc74bd00
+- id: doi:10.1371/journal.pgen.1006149
+  title: Genome-Wide Association Study Reveals Multiple Loci Influencing Normal Human
+    Facial Morphology
+  authors:
+  - John R. Shaffer
+  - Ekaterina Orlova
+  - Myoung Keun Lee
+  - Elizabeth J. Leslie
+  - Zachary D. Raffensperger
+  - Carrie L. Heike
+  - Michael L. Cunningham
+  - Jacqueline T. Hecht
+  - Chung How Kau
+  - Nichole L. Nidey
+  - Lina M. Moreno
+  - George L. Wehby
+  - Jeffrey C. Murray
+  - Cecelia A. Laurie
+  - Cathy C. Laurie
+  - Joanne Cole
+  - Tracey Ferrara
+  - Stephanie Santorico
+  - Ophir Klein
+  - Washington Mio
+  - Eleanor Feingold
+  - Benedikt Hallgrimsson
+  - Richard A. Spritz
+  - Mary L. Marazita
+  - Seth M. Weinberg
+  publisher: PLOS Genetics
+  date: '2016-08-25'
+  link: https://doi.org/f82c8t
+  image: https://journals.plos.org/plosgenetics/article/figure/image?size=large&id=10.1371/journal.pgen.1006149.g001
+  tags:
+  - GWAS
+  - Facial Shape
+  extra-links:
+  - type: external
+    text: FaceBase Consortium
+    link: https://facebase.org/
+  _cache: bc139014b2c6e345b3447b1a52a4cc148fa36770d0e5157e4a50a5c6c89e04aa
+- id: doi:10.1534/genetics.116.193185
+  title: Human Facial Shape and Size Heritability and Genetic Correlations
+  authors:
+  - Joanne B Cole
+  - Mange Manyama
+  - Jacinda R Larson
+  - Denise K Liberton
+  - Tracey M Ferrara
+  - Sheri L Riccardi
+  - Mao Li
+  - Washington Mio
+  - Ophir D Klein
+  - Stephanie A Santorico
+  - "Benedikt Hallgr\xEDmsson"
+  - Richard A Spritz
+  publisher: Genetics
+  date: '2017-02-01'
+  link: https://doi.org/f9v4c4
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/genetics/205/2/10.1534_genetics.116.193185/8/967fig3.jpeg?Expires=1669683544&Signature=RVg8qJLVh6Y7gojv9PkbawA0ZiOXhYwDKdWoy1hS6c7-FUDfWgifEDAgPj8AUQGEIv1ngNo3qhiMlyWuhLDbHEqJvzp-p8xWfOB7MVnbErVhxkwXu56E1yjVhMIvobPtlK1iMy3LgpWGu02oYsWgfD2KyB3uxXEaxoPfwx~og3PUvQT76ZUEix~78NiPC11UPQhHFExNhIMTExc-MiH3nlTcvcTMbLH2vJqLxZ2w2t~5Q5nCNx01-Rq8p~gS6EPawlPp6C1Z2NK8lofhPbcIQNtoWRdwSNkgUznP93~pLAonmkBXl9Vr0s~8DVvLhtgqsceNxJ~5BPLGUl~uMN1g7g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  tags:
+  - Heritability
+  - Facial Shape
+  - Body Size
+  extra-links:
+  - type: external
+    text: FaceBase Consortium
+    link: https://facebase.org/
+  _cache: e3ddfe3268162b0d36e6337c7813e12364a27610ccbef6f587665560059da1e2
+- id: doi:10.1002/9780470015902.a0027240
+  title: The Genetics of Facial Morphology
+  authors:
+  - Joanne B Cole
+  - Richard A Spritz
+  publisher: eLS
+  date: '2017-09-15'
+  link: https://doi.org/gq4f72
+  image: https://onlinelibrary.wiley.com/cms/asset/6a6dbae1-b69c-45b5-8bd3-cc464ee00bd3/047001590x.cover.jpg
+  tags:
+  - Review
+  - Facial Shape
+  _cache: dfe7fa8cbe2e9d35e9e02e265b40df6e56dfdc05cc429c268630b16c484dc232
+- id: doi:doi:10.1111/joa.12576
+  title: Rapid automated landmarking for morphometric analysis of three-dimensional
+    facial scans
+  authors:
+  - Mao Li
+  - Joanne B. Cole
+  - Mange Manyama
+  - Jacinda R. Larson
+  - Denise K. Liberton
+  - Sheri L. Riccardi
+  - Tracey M. Ferrara
+  - Stephanie A. Santorico
+  - Jordan J. Bannister
+  - Nils D. Forkert
+  - Richard A. Spritz
+  - Washington Mio
+  - Benedikt Hallgrimsson
+  publisher: Journal of Anatomy
+  date: '2017-01-12'
+  link: https://doi.org/f9kjkj
+  image: https://onlinelibrary.wiley.com/cms/asset/a1369356-f816-42e9-b5d9-65a64daaaf1d/joa12576-fig-0002-m.jpg
+  tags:
+  - Software
+  - Phenotyping
+  - Facial Shape
+  extra-links:
+  - type: external
+    text: FaceBase Consortium
+    link: https://facebase.org/
+  - type: source
+    text: Software
+    link: https://www.facebase.org/facial_landmarking/
+  _cache: ae644ae7b280b69f1f325a7df7c692b4524278ccdc3cb2bbb6e4d7622bb7db20
+- id: doi:10.1111/joa.12748
+  title: Facial shape manifestations of growth faltering in Tanzanian children
+  authors:
+  - Joanne B. Cole
+  - Mange F. Manyama
+  - Dejana Nikitovic
+  - Paula N. Gonzalez
+  - Denise K. Liberton
+  - Warren M. Wilson
+  - Campbell Rolian
+  - Jacinda R. Larson
+  - Emmanuel Kimwaga
+  - Joshua Mathayo
+  - Charles C. Roseman
+  - Stephanie A. Santorico
+  - Ken Lukowiak
+  - Richard A. Spritz
+  - Benedikt Hallgrimsson
+  publisher: Journal of Anatomy
+  date: '2017-11-28'
+  link: https://doi.org/gq4f7z
+  image: https://onlinelibrary.wiley.com/cms/asset/b33f654c-8d32-42e0-9fae-8e93b8fabb8e/joa12748-fig-0007-m.jpg
+  tags:
+  - Genetic and Environmental Variance
+  - Facial Shape
+  - Body Size
+  - Growth Faltering
+  extra-links:
+  - type: website
+    text: FaceBase Consortium
+    link: https://facebase.org/
+  _cache: a5500f6750a2a5ce88c7b4ec52fbf48ed342c4f5b170ffc4ce6f8c5378339ba8
+- id: doi:10.1002/ajpa.23356
+  title: Body size and allometric variation in facial shape in children
+  authors:
+  - Jacinda R. Larson
+  - Mange F. Manyama
+  - Joanne B. Cole
+  - Paula N. Gonzalez
+  - Christopher J. Percival
+  - Denise K. Liberton
+  - Tracey M. Ferrara
+  - Sheri L. Riccardi
+  - Emmanuel A. Kimwaga
+  - Joshua Mathayo
+  - Jared A. Spitzmacher
+  - Campbell Rolian
+  - Heather A. Jamniczky
+  - Seth M. Weinberg
+  - Charles C. Roseman
+  - Ophir Klein
+  - Ken Lukowiak
+  - Richard A. Spritz
+  - Benedikt Hallgrimsson
+  publisher: American Journal of Physical Anthropology
+  date: '2017-11-27'
+  link: https://doi.org/gcwk6p
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5777898/bin/nihms916793f6.jpg
+  tags:
+  - Facial Shape
+  - Body Size
+  extra-links:
+  - type: website
+    text: FaceBase Consortium
+    link: https://facebase.org/
+  _cache: 7138ab33c1a6e205566a70433bd16e0f9d2da77de438580fa959d70403051a5e
+- id: doi:10.1371/journal.pmed.1002654
+  title: 'Type 2 diabetes genetic loci informed by multi-trait associations point
+    to disease mechanisms and subtypes: A soft clustering analysis'
+  authors:
+  - Miriam S. Udler
+  - Jaegil Kim
+  - Marcin von Grotthuss
+  - "S\xEDlvia Bon\xE0s-Guarch"
+  - Joanne B. Cole
+  - Joshua Chiou
+  - Michael Boehnke
+  - Markku Laakso
+  - Gil Atzmon
+  - Benjamin Glaser
+  - Josep M. Mercader
+  - Kyle Gaulton
+  - Jason Flannick
+  - Gad Getz
+  - Jose C. Florez
+  - ' '
+  publisher: PLOS Medicine
+  date: '2018-09-21'
+  link: https://doi.org/gfbg38
+  image: https://journals.plos.org/plosmedicine/article/figure/image?size=large&id=10.1371/journal.pmed.1002654.g001
+  tags:
+  - Method
+  - Genetic Subtypes
+  - Polygenic Scores
+  - Type 2 Diabetes
+  extra-links:
+  - type: source
+    text: Code
+    link: https://github.com/gwas-partitioning/bnmf-clustering
+  _cache: 20139b623f491dd165a83f3427c5a6fabc02591c27b6cc10d89caeb28d8ec990
+- id: doi:10.1681/asn.2019030218
+  title: Genome-Wide Association Study of Diabetic Kidney Disease Highlights Biology
+    Involved in Glomerular Basement Membrane Collagen
+  authors:
+  - Rany M. Salem
+  - Jennifer N. Todd
+  - Niina Sandholm
+  - Joanne B. Cole
+  - Wei-Min Chen
+  - Darrell Andrews
+  - Marcus G. Pezzolesi
+  - Paul M. McKeigue
+  - Linda T. Hiraki
+  - Chengxiang Qiu
+  - Viji Nair
+  - Chen Di Liao
+  - Jing Jing Cao
+  - Erkka Valo
+  - Suna Onengut-Gumuscu
+  - Adam M. Smiles
+  - Stuart J. McGurnaghan
+  - Jani K. Haukka
+  - Valma Harjutsalo
+  - Eoin P. Brennan
+  - Natalie van Zuydam
+  - Emma Ahlqvist
+  - Ross Doyle
+  - Tarunveer S. Ahluwalia
+  - Maria Lajer
+  - Maria F. Hughes
+  - Jihwan Park
+  - Jan Skupien
+  - Athina Spiliopoulou
+  - Andrew Liu
+  - Rajasree Menon
+  - Carine M. Boustany-Kari
+  - Hyun M. Kang
+  - Robert G. Nelson
+  - Ronald Klein
+  - Barbara E. Klein
+  - Kristine E. Lee
+  - Xiaoyu Gao
+  - Michael Mauer
+  - Silvia Maestroni
+  - Maria Luiza Caramori
+  - Ian H. de Boer
+  - Rachel G. Miller
+  - Jingchuan Guo
+  - Andrew P. Boright
+  - David Tregouet
+  - Beata Gyorgy
+  - Janet K. Snell-Bergeon
+  - David M. Maahs
+  - Shelley B. Bull
+  - Angelo J. Canty
+  - Colin N.A. Palmer
+  - Lars Stechemesser
+  - Bernhard Paulweber
+  - Raimund Weitgasser
+  - Jelizaveta Sokolovska
+  - "Vita Rov\u012Bte"
+  - "Valdis P\u012Br\u0101gs"
+  - Edita Prakapiene
+  - Lina Radzeviciene
+  - Rasa Verkauskiene
+  - Nicolae Mircea Panduru
+  - Leif C. Groop
+  - Mark I. McCarthy
+  - Harvest F. Gu
+  - "Anna M\xF6llsten"
+  - Henrik Falhammar
+  - Kerstin Brismar
+  - Finian Martin
+  - Peter Rossing
+  - Tina Costacou
+  - Gianpaolo Zerbini
+  - Michel Marre
+  - Samy Hadjadj
+  - Amy J. McKnight
+  - Carol Forsblom
+  - Gareth McKay
+  - Catherine Godson
+  - A. Peter Maxwell
+  - Matthias Kretzler
+  - Katalin Susztak
+  - Helen M. Colhoun
+  - Andrzej Krolewski
+  - Andrew D. Paterson
+  - Per-Henrik Groop
+  - Stephen S. Rich
+  - Joel N. Hirschhorn
+  - Jose C. Florez
+  - ' '
+  publisher: Journal of the American Society of Nephrology
+  date: '2019-09-19'
+  link: https://doi.org/gh89cd
+  image: https://jasn.asnjournals.org/content/jnephrol/30/10/2000/F1.large.jpg?width=800&height=600&carousel=1
+  tags:
+  - GWAS
+  - Diabetic Kidney Disease
+  extra-links:
+  - type: data
+    text: Summary Statistics
+    link: http://www.type2diabetesgenetics.org/informational/data
+  _cache: 76b96c2a14ccccec6ac1a28f3d0a9d7d1055bb058c3cc61f7987f0eb27e6dac3
+- id: doi:10.1038/s41581-020-0278-5
+  title: Genetics of diabetes mellitus and diabetes complications
+  authors:
+  - Joanne B. Cole
+  - Jose C. Florez
+  publisher: Nature Reviews Nephrology
+  date: '2020-05-12'
+  link: https://doi.org/gjptbf
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41581-020-0278-5/MediaObjects/41581_2020_278_Fig1_HTML.png?as=webp
+  tags:
+  - Review
+  - Diabetic Kidney Disease
+  _cache: 92d40e3a5491a8877b9011845c499865e07e6d28f481a194bc498f158ed9ff02
+- id: doi:10.1038/s41467-020-15193-0
+  title: Comprehensive genomic analysis of dietary habits in UK Biobank identifies
+    hundreds of genetic associations
+  authors:
+  - Joanne B. Cole
+  - Jose C. Florez
+  - Joel N. Hirschhorn
+  publisher: Nature Communications
+  date: '2020-03-19'
+  link: https://doi.org/ggpn69
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-020-15193-0/MediaObjects/41467_2020_15193_Fig1_HTML.png?as=webp
+  tags:
+  - GWAS
+  - Dietary Intake
+  extra-links:
+  - type: data
+    text: Summary Statistics
+    link: https://www.kp4cd.org/dataset_downloads/t2d
+  _cache: 716adb3498eca04080bd2bd500f6fba0026752159366b484d56cdf774a78bd6c
+- id: doi:10.1038/s41366-020-0603-x
+  title: Integrating untargeted metabolomics, genetically informed causal inference,
+    and pathway enrichment to define the obesity metabolome
+  authors:
+  - Yu-Han H. Hsu
+  - Christina M. Astley
+  - Joanne B. Cole
+  - Sailaja Vedantam
+  - Josep M. Mercader
+  - Andres Metspalu
+  - Krista Fischer
+  - Kristen Fortney
+  - Eric K. Morgen
+  - Clicerio Gonzalez
+  - Maria E. Gonzalez
+  - Tonu Esko
+  - Joel N. Hirschhorn
+  publisher: International Journal of Obesity
+  date: '2020-05-28'
+  link: https://doi.org/gq4f7x
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41366-020-0603-x/MediaObjects/41366_2020_603_Fig3_HTML.png?as=webp
+  tags:
+  - Software
+  - Metabolomics
+  - Obesity
+  extra-links:
+  - type: source
+    text: Software
+    link: https://github.com/yuhanhsu/PAIRUP-MS
+  _cache: 45c0f74a2f9e908ee247c2f561281b2d8ece74fb9af85604069a761807c41b24
+- id: doi:10.1038/s41591-020-0893-5
+  title: The effect of LRRK2 loss-of-function variants in humans
+  authors:
+  - Nicola Whiffin
+  - Irina M. Armean
+  - Aaron Kleinman
+  - Jamie L. Marshall
+  - Eric V. Minikel
+  - Julia K. Goodrich
+  - Nicholas M. Quaife
+  - Joanne B. Cole
+  - Qingbo Wang
+  - Konrad J. Karczewski
+  - Beryl B. Cummings
+  - Laurent Francioli
+  - Kristen Laricchia
+  - Anna Guan
+  - Babak Alipanahi
+  - Peter Morrison
+  - Marco A. S. Baptista
+  - Kalpana M. Merchant
+  - Irina M. Armean
+  - Eric Banks
+  - Louis Bergelson
+  - Kristian Cibulskis
+  - Ryan L. Collins
+  - Kristen M. Connolly
+  - Miguel Covarrubias
+  - Beryl Cummings
+  - Mark J. Daly
+  - Stacey Donnelly
+  - Yossi Farjoun
+  - Steven Ferriera
+  - Stacey Gabriel
+  - Laura D. Gauthier
+  - Jeff Gentry
+  - Namrata Gupta
+  - Thibault Jeandet
+  - Diane Kaplan
+  - Kristen M. Laricchia
+  - Christopher Llanwarne
+  - Ruchi Munshi
+  - Benjamin M. Neale
+  - Sam Novod
+  - "Anne H. O\u2019Donnell-Luria"
+  - Nikelle Petrillo
+  - Timothy Poterba
+  - David Roazen
+  - Valentin Ruano-Rubio
+  - Andrea Saltzman
+  - Kaitlin E. Samocha
+  - Molly Schleicher
+  - Cotton Seed
+  - Matthew Solomonson
+  - Jose Soto
+  - Grace Tiao
+  - Kathleen Tibbetts
+  - Charlotte Tolonen
+  - Christopher Vittal
+  - Gordon Wade
+  - Arcturus Wang
+  - Nicholas A. Watts
+  - Ben Weisburd
+  - Carlos A. Aguilar-Salinas
+  - Tariq Ahmad
+  - Christine M. Albert
+  - Diego Ardissino
+  - Gil Atzmon
+  - John Barnard
+  - Laurent Beaugerie
+  - Emelia J. Benjamin
+  - Michael Boehnke
+  - Lori L. Bonnycastle
+  - Erwin P. Bottinger
+  - Donald W. Bowden
+  - Matthew J. Bown
+  - John C. Chambers
+  - Juliana C. Chan
+  - Daniel Chasman
+  - Judy Cho
+  - Mina K. Chung
+  - Bruce Cohen
+  - Adolfo Correa
+  - Dana Dabelea
+  - Dawood Darbar
+  - Ravindranath Duggirala
+  - "Jos\xE9e Dupuis"
+  - Patrick T. Ellinor
+  - Roberto Elosua
+  - Jeanette Erdmann
+  - "Martti F\xE4rkkil\xE4"
+  - Jose Florez
+  - Andre Franke
+  - Gad Getz
+  - Benjamin Glaser
+  - Stephen J. Glatt
+  - David Goldstein
+  - Clicerio Gonzalez
+  - Leif Groop
+  - Christopher Haiman
+  - Craig Hanis
+  - Matthew Harms
+  - Mikko Hiltunen
+  - Matti M. Holi
+  - Christina M. Hultman
+  - Mikko Kallela
+  - Jaakko Kaprio
+  - Sekar Kathiresan
+  - Bong-Jo Kim
+  - Young Jin Kim
+  - George Kirov
+  - Jaspal Kooner
+  - Seppo Koskinen
+  - Harlan M. Krumholz
+  - Subra Kugathasan
+  - Soo Heon Kwak
+  - Markku Laakso
+  - "Terho Lehtim\xE4ki"
+  - Ruth J. F. Loos
+  - Steven A. Lubitz
+  - Ronald C. W. Ma
+  - Daniel G. MacArthur
+  - Jaume Marrugat
+  - Kari M. Mattila
+  - Steven McCarroll
+  - Mark I. McCarthy
+  - Dermot McGovern
+  - Ruth McPherson
+  - James B. Meigs
+  - Olle Melander
+  - Andres Metspalu
+  - Peter M. Nilsson
+  - "Michael C. O\u2019Donovan"
+  - Dost Ongur
+  - Lorena Orozco
+  - Michael J. Owen
+  - Colin N. A. Palmer
+  - Aarno Palotie
+  - Kyong Soo Park
+  - Carlos Pato
+  - Ann E. Pulver
+  - Nazneen Rahman
+  - Anne M. Remes
+  - John D. Riou
+  - Samuli Ripatti
+  - Dan M. Roden
+  - Danish Saleheen
+  - Veikko Salomaa
+  - Nilesh J. Samani
+  - Jeremiah Scharf
+  - Heribert Schunkert
+  - Moore B. Shoemaker
+  - Pamela Sklar
+  - Hilkka Soininen
+  - Harry Sokol
+  - Tim Spector
+  - Patrick F. Sullivan
+  - Jaana Suvisaari
+  - E. Shyong Tai
+  - Yik Ying Teo
+  - Tuomi Tiinamaija
+  - Ming Tsuang
+  - Dan Turner
+  - Teresa Tusie-Luna
+  - Erkki Vartiainen
+  - Marquis P. Vawter
+  - James S. Ware
+  - Hugh Watkins
+  - Rinse K. Weersma
+  - Maija Wessman
+  - James G. Wilson
+  - Ramnik J. Xavier
+  - James S. Ware
+  - Aki S. Havulinna
+  - Bozenna Iliadou
+  - Jung-Jin Lee
+  - Girish N. Nadkarni
+  - Cole Whiteman
+  - Michelle Agee
+  - Adam Auton
+  - Robert K. Bell
+  - Katarzyna Bryc
+  - Sarah L. Elson
+  - Pierre Fontanillas
+  - Nicholas A. Furlotte
+  - Barry Hicks
+  - David A. Hinds
+  - Karen E. Huber
+  - Ethan M. Jewett
+  - Yunxuan Jiang
+  - Keng-Han Lin
+  - Nadia K. Litterman
+  - Matthew H. McIntyre
+  - Kimberly F. McManus
+  - Joanna L. Mountain
+  - Elizabeth S. Noblin
+  - Carrie A. M. Northover
+  - Steven J. Pitts
+  - G. David Poznik
+  - J. Fah Sathirapongsasuti
+  - Janie F. Shelton
+  - Suyash Shringarpure
+  - Chao Tian
+  - Joyce Y. Tung
+  - Vladimir Vacic
+  - Xin Wang
+  - Catherine H. Wilson
+  - Mark Daly
+  - "T\xF5nu Esko"
+  - Christina Hultman
+  - Ruth J. F. Loos
+  - Lili Milani
+  - Aarno Palotie
+  - Carlos Pato
+  - Michele Pato
+  - Danish Saleheen
+  - Patrick F. Sullivan
+  - "Jessica Alf\xF6ldi"
+  - Paul Cannon
+  - Daniel G. MacArthur
+  - ' '
+  - ' '
+  - ' '
+  publisher: Nature Medicine
+  date: '2020-05-27'
+  link: https://doi.org/ggztxb
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41591-020-0893-5/MediaObjects/41591_2020_893_Fig2_HTML.png?as=webp
+  tags:
+  - Variant-to-Function (V2F)
+  - "Parkinson\u2019s Disease"
+  _cache: dfabe598ae8a985f851e93a37a47bf128c3be0003df6f308e0bf388823abf554
+- id: doi:10.1038/s41467-021-23556-4
+  title: Determinants of penetrance and variable expressivity in monogenic metabolic
+    conditions across 77,184 exomes
+  authors:
+  - Julia K. Goodrich
+  - Moriel Singer-Berk
+  - Rachel Son
+  - Abigail Sveden
+  - Jordan Wood
+  - Eleina England
+  - Joanne B. Cole
+  - Ben Weisburd
+  - Nick Watts
+  - Lizz Caulkins
+  - Peter Dornbos
+  - Ryan Koesterer
+  - Zachary Zappala
+  - Haichen Zhang
+  - Kristin A. Maloney
+  - Andy Dahl
+  - Carlos A. Aguilar-Salinas
+  - Gil Atzmon
+  - Francisco Barajas-Olmos
+  - Nir Barzilai
+  - John Blangero
+  - Eric Boerwinkle
+  - Lori L. Bonnycastle
+  - Erwin Bottinger
+  - Donald W. Bowden
+  - Federico Centeno-Cruz
+  - John C. Chambers
+  - Nathalie Chami
+  - Edmund Chan
+  - Juliana Chan
+  - Ching-Yu Cheng
+  - Yoon Shin Cho
+  - Cecilia Contreras-Cubas
+  - "Emilio C\xF3rdova"
+  - Adolfo Correa
+  - Ralph A. DeFronzo
+  - Ravindranath Duggirala
+  - "Jos\xE9e Dupuis"
+  - Ma Eugenia Garay-Sevilla
+  - "Humberto Garc\xEDa-Ortiz"
+  - Christian Gieger
+  - Benjamin Glaser
+  - "Clicerio Gonz\xE1lez-Villalpando"
+  - Ma Elena Gonzalez
+  - Niels Grarup
+  - Leif Groop
+  - Myron Gross
+  - Christopher Haiman
+  - Sohee Han
+  - Craig L. Hanis
+  - Torben Hansen
+  - Nancy L. Heard-Costa
+  - Brian E. Henderson
+  - Juan Manuel Malacara Hernandez
+  - Mi Yeong Hwang
+  - Sergio Islas-Andrade
+  - "Marit E. J\xF8rgensen"
+  - Hyun Min Kang
+  - Bong-Jo Kim
+  - Young Jin Kim
+  - Heikki A. Koistinen
+  - Jaspal Singh Kooner
+  - Johanna Kuusisto
+  - Soo-Heon Kwak
+  - Markku Laakso
+  - Leslie Lange
+  - Jong-Young Lee
+  - Juyoung Lee
+  - Donna M. Lehman
+  - Allan Linneberg
+  - Jianjun Liu
+  - Ruth J. F. Loos
+  - Valeriya Lyssenko
+  - Ronald C. W. Ma
+  - "Ang\xE9lica Mart\xEDnez-Hern\xE1ndez"
+  - James B. Meigs
+  - Thomas Meitinger
+  - Elvia Mendoza-Caamal
+  - Karen L. Mohlke
+  - Andrew D. Morris
+  - Alanna C. Morrison
+  - Maggie C. Y. Ng
+  - Peter M. Nilsson
+  - "Christopher J. O\u2019Donnell"
+  - Lorena Orozco
+  - Colin N. A. Palmer
+  - Kyong Soo Park
+  - Wendy S. Post
+  - Oluf Pedersen
+  - Michael Preuss
+  - Bruce M. Psaty
+  - Alexander P. Reiner
+  - Cristina Revilla-Monsalve
+  - Stephen S. Rich
+  - Jerome I. Rotter
+  - Danish Saleheen
+  - Claudia Schurmann
+  - Xueling Sim
+  - Rob Sladek
+  - Kerrin S. Small
+  - Wing Yee So
+  - Timothy D. Spector
+  - Konstantin Strauch
+  - Tim M. Strom
+  - E. Shyong Tai
+  - Claudia H. T. Tam
+  - Yik Ying Teo
+  - Farook Thameem
+  - Brian Tomlinson
+  - Russell P. Tracy
+  - Tiinamaija Tuomi
+  - Jaakko Tuomilehto
+  - "Teresa Tusi\xE9-Luna"
+  - Rob M. van Dam
+  - Ramachandran S. Vasan
+  - James G. Wilson
+  - Daniel R. Witte
+  - Tien-Yin Wong
+  - "No\xEBl P. Burtt"
+  - Noah Zaitlen
+  - Mark I. McCarthy
+  - Michael Boehnke
+  - Toni I. Pollin
+  - Jason Flannick
+  - Josep M. Mercader
+  - "Anne O\u2019Donnell-Luria"
+  - Samantha Baxter
+  - Jose C. Florez
+  - Daniel G. MacArthur
+  - Miriam S. Udler
+  - ' '
+  publisher: Nature Communications
+  date: '2021-06-09'
+  link: https://doi.org/gkhf26
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-021-23556-4/MediaObjects/41467_2021_23556_Fig3_HTML.png?as=webp
+  tags:
+  - Penetrance
+  - Polygenic Scores
+  - Monogenic Diabetes
+  _cache: 3578b2a5585ff5f5fcc048e330cdcd2f83902966e0a0dd17151e500e98379095
+- id: doi:10.1038/s41467-021-21952-4
+  title: The impact of non-additive genetic associations on age-related complex diseases
+  authors:
+  - "Marta Guindo-Mart\xEDnez"
+  - ' '
+  - Ramon Amela
+  - "Silvia Bon\xE0s-Guarch"
+  - "Montserrat Puiggr\xF2s"
+  - Cecilia Salvoro
+  - Irene Miguel-Escalada
+  - Caitlin E. Carey
+  - Joanne B. Cole
+  - "Sina R\xFCeger"
+  - Elizabeth Atkinson
+  - Aaron Leong
+  - Friman Sanchez
+  - Cristian Ramon-Cortes
+  - Jorge Ejarque
+  - Duncan S. Palmer
+  - Mitja Kurki
+  - Krishna Aragam
+  - Jose C. Florez
+  - Rosa M. Badia
+  - Josep M. Mercader
+  - David Torrents
+  publisher: Nature Communications
+  date: '2021-04-23'
+  link: https://doi.org/gq4f7v
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-021-21952-4/MediaObjects/41467_2021_21952_Fig3_HTML.png?as=webp
+  tags:
+  - Software
+  - GWAS
+  - Recessive
+  extra-links:
+  - type: source
+    text: Software
+    link: https://gitlab.bsc.es/computational-genomics/guidance
+  _cache: d4848efe1a4cee41ed95d610ce29d318e74096dd213935055adae3ee3ff940ef
+- id: doi:10.1371/journal.pmed.1003553
+  title: 'Cardiometabolic risk factors for COVID-19 susceptibility and severity: A
+    Mendelian randomization analysis'
+  authors:
+  - Aaron Leong
+  - Joanne B. Cole
+  - Laura N. Brenner
+  - James B. Meigs
+  - Jose C. Florez
+  - Josep M. Mercader
+  publisher: PLOS Medicine
+  date: '2021-03-04'
+  link: https://doi.org/gkmrzg
+  image: https://journals.plos.org/resource/img/logo-plos.png
+  tags:
+  - Mendelian Randomization
+  - COVID-19
+  - Obesity
+  _cache: 358cab276d263375f6e183b2878658ff4212348a189fd70d531acc334167402a
+- id: doi:10.1186/s13148-021-01081-x
+  title: 'Assessment of differentially methylated loci in individuals with end-stage
+    kidney disease attributed to diabetic kidney disease: an exploratory study'
+  authors:
+  - L. J. Smyth
+  - J. Kilner
+  - V. Nair
+  - H. Liu
+  - E. Brennan
+  - K. Kerr
+  - N. Sandholm
+  - J. Cole
+  - "E. Dahlstr\xF6m"
+  - A. Syreeni
+  - R. M. Salem
+  - R. G. Nelson
+  - H. C. Looker
+  - C. Wooster
+  - K. Anderson
+  - G. J. McKay
+  - F. Kee
+  - I. Young
+  - D. Andrews
+  - C. Forsblom
+  - J. N. Hirschhorn
+  - C. Godson
+  - P. H. Groop
+  - A. P. Maxwell
+  - K. Susztak
+  - M. Kretzler
+  - J. C. Florez
+  - A. J. McKnight
+  publisher: Clinical Epigenetics
+  date: '2021-05-01'
+  link: https://doi.org/gq4f8c
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13148-021-01081-x/MediaObjects/13148_2021_1081_Fig1_HTML.png?as=webp
+  tags:
+  - DNA Methylation
+  - Diabetic Kidney Disease
+  _cache: 0fbfe54663b7936dcab52bb9898df1ff4e57a6037f46ac94da7cf24d14b86837
+- id: doi:10.1186/s13075-021-02444-8
+  title: 'The comparative effect of exposure to various risk factors on the risk of
+    hyperuricaemia: diet has a weak causal effect'
+  authors:
+  - Ruth K. G. Topless
+  - Tanya J. Major
+  - Jose C. Florez
+  - Joel N. Hirschhorn
+  - Murray Cadzow
+  - Nicola Dalbeth
+  - Lisa K. Stamp
+  - Philip L. Wilcox
+  - Richard J. Reynolds
+  - Joanne B. Cole
+  - Tony R. Merriman
+  publisher: Arthritis Research &amp; Therapy
+  date: '2021-03-04'
+  link: https://doi.org/gmdpqk
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13075-021-02444-8/MediaObjects/13075_2021_2444_Fig2_HTML.png?as=webp
+  tags:
+  - Mendelian Randomization
+  - Hyperuricemia
+  - Dietary Intake
+  _cache: 5f9d15389988e57e2e2c520c1eee6a3ef413309359612e0a0f4c0cf6746275c5
+- id: doi:10.1093/hmg/ddab109
+  title: "Genome-wide gene\u2013diet interaction analysis in the UK Biobank identifies\
+    \ novel effects on hemoglobin A1c"
+  authors:
+  - Kenneth E Westerman
+  - Jenkai Miao
+  - Daniel I Chasman
+  - Jose C Florez
+  - Han Chen
+  - Alisa K Manning
+  - Joanne B Cole
+  publisher: Human Molecular Genetics
+  date: '2021-04-16'
+  link: https://doi.org/gq4h2m
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8411984/bin/ddab109f3.jpg
+  tags:
+  - Gene-Environment Interactions
+  - Type 2 Diabetes
+  - Dietary Intake
+  _cache: 555c0a5f66c961be110941d63295e3f6135197768c9d0fb2547677de06009ef5
+- id: doi:10.1186/s12920-021-00978-z
+  title: Genome-wide copy number variations in a large cohort of bantu African children
+  authors:
+  - Feyza Yilmaz
+  - Megan Null
+  - David Astling
+  - Hung-Chun Yu
+  - Joanne Cole
+  - Stephanie A. Santorico
+  - Benedikt Hallgrimsson
+  - Mange Manyama
+  - Richard A. Spritz
+  - Audrey E. Hendricks
+  - Tamim H. Shaikh
+  publisher: BMC Medical Genomics
+  date: '2021-05-17'
+  link: https://doi.org/gq4f8d
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12920-021-00978-z/MediaObjects/12920_2021_978_Fig3_HTML.png?as=webp
+  tags:
+  - Structural Variation
+  - Penetrance
+  _cache: e3d019120f290187e137d3dc91bdd05800db125d2e2270ea009e95f107160553
+- id: doi:10.3389/fgene.2022.997266
+  title: 'Editorial: Recent advances in nutrigenomics: Making strides towards precision
+    nutrition'
+  authors:
+  - Joanne B. Cole
+  - Rosita Gabbianelli
+  publisher: Frontiers in Genetics
+  date: '2022-09-20'
+  link: https://doi.org/gq4f8f
+  image: https://d2csxpduxe849s.cloudfront.net/media/E32629C6-9347-4F84-81FEAEF7BFA342B3/12AFEC62-10F2-4A9B-900C8422E4B53D54/thul-D176A038-2FDA-438D-B9A7E98CF3926BBE.png
+  tags:
+  - Editorial
+  - Nutrigenomics
+  _cache: 900fb67fab7206209290065c415be1337b49ed4af945e3fc9cc7b6e9360894de
+- id: doi:10.2337/dc21-1395
+  title: Type 2 Diabetes Partitioned Polygenic Scores Associate With Disease Outcomes
+    in 454,193 Individuals Across 13 Cohorts
+  authors:
+  - Daniel DiCorpo
+  - Jessica LeClair
+  - Joanne B. Cole
+  - "Chlo\xE9 Sarnowski"
+  - Fariba Ahmadizar
+  - Lawrence F. Bielak
+  - Anneke Blokstra
+  - Erwin P. Bottinger
+  - Layal Chaker
+  - Yii-Der I. Chen
+  - Ye Chen
+  - Paul S. de Vries
+  - Tariq Faquih
+  - Mohsen Ghanbari
+  - Valborg Gudmundsdottir
+  - Xiuqing Guo
+  - Natalie R. Hasbani
+  - Dorina Ibi
+  - M. Arfan Ikram
+  - Maryam Kavousi
+  - Hampton L. Leonard
+  - Aaron Leong
+  - Josep M. Mercader
+  - Alanna C. Morrison
+  - Girish N. Nadkarni
+  - Mike A. Nalls
+  - Raymond Noordam
+  - Michael Preuss
+  - Jennifer A. Smith
+  - Stella Trompet
+  - Petra Vissink
+  - Jie Yao
+  - Wei Zhao
+  - Eric Boerwinkle
+  - Mark O. Goodarzi
+  - Vilmundur Gudnason
+  - J. Wouter Jukema
+  - Sharon L.R. Kardia
+  - Ruth J.F. Loos
+  - Ching-Ti Liu
+  - Alisa K. Manning
+  - Dennis Mook-Kanamori
+  - James S. Pankow
+  - H. Susan J. Picavet
+  - Naveed Sattar
+  - Eleanor M. Simonsick
+  - W.M. Monique Verschuren
+  - Ko Willems van Dijk
+  - Jose C. Florez
+  - Jerome I. Rotter
+  - James B. Meigs
+  - "Jos\xE9e Dupuis"
+  - Miriam S. Udler
+  publisher: Diabetes Care
+  date: '2022-01-27'
+  link: https://doi.org/gq4f8g
+  image: https://ada.silverchair-cdn.com/ada/content_public/journal/care/45/3/10.2337_dc21-1395/4/m_dc211395f1.png?Expires=1669277275&Signature=cZgj2n1yFSjFQBhh4zZJ6A-LKf9LZDRvskchz6br9CHAjgvjg-so2iwvsHpzJfQPU6Buwa~h1-OcGkv5N80NZmc~wopJioRFJ8QPQXP4o9Wl1J30pG8-OK1DyROFWWLzAy6kqXNL7tiEm2LsCihc7tWVE7FVbSifAkdmRj86R~xOEgStUySKM~BpZslbvc8g9mzIfeBUZ~k-l-MVciAEIAT4zl2TbtuRtX24zeVlXLU0zl05zA6OaH0oO5bzYNLCNUsifhj0UR~MkFvU9n~IOIZb4yrNh7fRCTpMAILuYbpYPxXSxtdrYGZbOWgoh8UPzmjOLhwk1UqabTsfxYiuQA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  tags:
+  - Genetic Subtypes
+  - Polygenic Scores
+  - Type 2 Diabetes
+  _cache: b3e35e54f7918dacf7e8efbd74ed17137063339d09000984fc88ed6770515cf1
+- id: doi:10.1016/j.xhgg.2021.100082
+  title: Genome-wide analysis of copy number variants and normal facial variation
+    in a large cohort of Bantu Africans
+  authors:
+  - Megan Null
+  - Feyza Yilmaz
+  - David Astling
+  - Hung-Chun Yu
+  - Joanne B. Cole
+  - "Benedikt Hallgr\xEDmsson"
+  - Stephanie A. Santorico
+  - Richard A. Spritz
+  - Tamim H. Shaikh
+  - Audrey E. Hendricks
+  publisher: Human Genetics and Genomics Advances
+  date: '2022-01-01'
+  link: https://doi.org/gq4f8h
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2666247721000634-gr3.jpg
+  tags:
+  - CNV GWAS
+  - Structural Variation
+  - Facial Shape
+  _cache: a69eab16237a5e842fa158e0ae316fa84e147862cb9debad38a210e9eb1cc8f5
+- id: doi:10.2337/db21-0545
+  title: Recessive Genome-Wide Meta-analysis Illuminates Genetic Architecture of Type
+    2 Diabetes
+  authors:
+  - "Mark J. O\u2019Connor"
+  - Philip Schroeder
+  - Alicia Huerta-Chagoya
+  - "Paula Cort\xE9s-S\xE1nchez"
+  - "Silv\xEDa Bon\xE0s-Guarch"
+  - "Marta Guindo-Mart\xEDnez"
+  - Joanne B. Cole
+  - Varinderpal Kaur
+  - David Torrents
+  - Kumar Veerapen
+  - Niels Grarup
+  - Mitja Kurki
+  - Carsten F. Rundsten
+  - Oluf Pedersen
+  - Ivan Brandslund
+  - Allan Linneberg
+  - Torben Hansen
+  - Aaron Leong
+  - Jose C. Florez
+  - Josep M. Mercader
+  publisher: Diabetes
+  date: '2021-12-03'
+  link: https://doi.org/gq4f8j
+  image: https://ada.silverchair-cdn.com/ada/content_public/journal/diabetes/71/3/10.2337_db21-0545/4/m_db210545f1.png?Expires=1668890139&Signature=dp-A~emp~u7eHppLpmufBtBijhQUfRPoP~2UfQ5g~m8zCZGElrq6X-v2rLN11ToG9isOgn9UrveoAENt-6AWkrBV~UKc3YD1UyseoOiUBaeUm4A1cpyVLMLJK~ugpJfShLTS~Oe1ss-Gw1dZQfxg2M1inLBrdJ31B1owN2M3rUUF1xcaTmprHjkyViu3SlF7Lssym-7WQkPAW1Jdg7Bqi4kXct5POu21sTOkfmKYzc5aw0bAnbje5OSgNABySiMcA3GkKW25QlCPbtGVNmsSDWRs~Yd9swihISJRmjkNP9Ztuu-NQMjbKrmL9~Z7uWOWlXPId2B~f6fz5kktVI56Uw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  tags:
+  - GWAS
+  - Recessive
+  - Type 2 Diabetes
+  _cache: c96ba805cf9b80c82211fcee2e49593623e8229e04de1c3f6bec527b850d44e3
+- id: doi:10.1007/s00125-022-05735-0
+  title: Genome-wide meta-analysis and omics integration identifies novel genes associated
+    with diabetic kidney disease
+  authors:
+  - Niina Sandholm
+  - Joanne B. Cole
+  - Viji Nair
+  - Xin Sheng
+  - Hongbo Liu
+  - Emma Ahlqvist
+  - Natalie van Zuydam
+  - "Emma H. Dahlstr\xF6m"
+  - Damian Fermin
+  - Laura J. Smyth
+  - Rany M. Salem
+  - Carol Forsblom
+  - Erkka Valo
+  - Valma Harjutsalo
+  - Eoin P. Brennan
+  - Gareth J. McKay
+  - Darrell Andrews
+  - Ross Doyle
+  - Helen C. Looker
+  - Robert G. Nelson
+  - Colin Palmer
+  - Amy Jayne McKnight
+  - Catherine Godson
+  - Alexander P. Maxwell
+  - Leif Groop
+  - Mark I. McCarthy
+  - Matthias Kretzler
+  - Katalin Susztak
+  - Joel N. Hirschhorn
+  - Jose C. Florez
+  - Per-Henrik Groop
+  - ' '
+  publisher: Diabetologia
+  date: '2022-06-28'
+  link: https://doi.org/gq4fzd
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00125-022-05735-0/MediaObjects/125_2022_5735_Figa_HTML.png?as=webp
+  tags:
+  - GWAS
+  - Multi-omics
+  - Diabetic Kidney Disease
+  _cache: cc61af230d61dfdc841129d25b28d9a4276d7e273cfa9fd2cf67c2c82d15745b
+- id: doi:10.1038/s41586-022-05067-4
+  title: Post-translational control of beige fat biogenesis by PRDM16 stabilization
+  authors:
+  - Qiang Wang
+  - Huixia Li
+  - Kazuki Tajima
+  - Anthony R. P. Verkerke
+  - Zachary H. Taxin
+  - Zhishuai Hou
+  - Joanne B. Cole
+  - Fei Li
+  - Jake Wong
+  - Ichitaro Abe
+  - Rachana N. Pradhan
+  - Tadashi Yamamuro
+  - Takeshi Yoneshiro
+  - Joel N. Hirschhorn
+  - Shingo Kajimura
+  publisher: Nature
+  date: '2022-08-17'
+  link: https://doi.org/gqnxmq
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41586-022-05067-4/MediaObjects/41586_2022_5067_Fig5_HTML.png?as=webp
+  tags:
+  - Functional Characterization
+  _cache: 176922c4b3f3fa2378130660cf4c36f62fa72bf2ab4c0cb8b338a91627a0576e
+- id: doi:10.1038/s41467-022-31625-5
+  title: Variance-quantitative trait loci enable systematic discovery of gene-environment
+    interactions for cardiometabolic serum biomarkers
+  authors:
+  - Kenneth E. Westerman
+  - Timothy D. Majarian
+  - Franco Giulianini
+  - Dong-Keun Jang
+  - Jenkai Miao
+  - Jose C. Florez
+  - Han Chen
+  - Daniel I. Chasman
+  - Miriam S. Udler
+  - Alisa K. Manning
+  - Joanne B. Cole
+  publisher: Nature Communications
+  date: '2022-07-09'
+  link: https://doi.org/gq4f8k
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-022-31625-5/MediaObjects/41467_2022_31625_Fig3_HTML.png?as=webp
+  tags:
+  - Method
+  - Gene-Environment Interactions
+  - Biomarkers
+  extra-links:
+  - type: source
+    text: Software
+    link: https://github.com/kwesterman/vqtl-gxe
+  - type: data
+    text: Data
+    link: https://hugeamp.org/research.html?pageid=UKB-vQTL-GxE
+  _cache: 4b6071cf3d88892856786876a5ae06efdeedb260d6eaa9fb2c5b4975458a83d6
+- id: doi:10.1038/s41588-022-01200-1
+  title: A combined polygenic score of 21,293 rare and 22 common variants improves
+    diabetes diagnosis based on hemoglobin A1C levels
+  authors:
+  - Peter Dornbos
+  - Ryan Koesterer
+  - Andrew Ruttenburg
+  - Trang Nguyen
+  - Joanne B. Cole
+  - Aaron Leong
+  - James B. Meigs
+  - Jose C. Florez
+  - Jerome I. Rotter
+  - Miriam S. Udler
+  - Jason Flannick
+  - ' '
+  publisher: Nature Genetics
+  date: '2022-10-24'
+  link: https://doi.org/gq4f7s
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-022-01200-1/MediaObjects/41588_2022_1200_Fig3_HTML.png?as=webp
+  tags:
+  - Polygenic Scores
+  - Type 2 Diabetes
+  _cache: c53952e80cfa9aaeb88d52491f3e70c5bbe5e9b7d70ae4707ff73c20bd6c04da

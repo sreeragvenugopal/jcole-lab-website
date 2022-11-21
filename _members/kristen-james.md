@@ -5,6 +5,7 @@ aliases:
   - Kristen L James
 image: images/team/kristen_james.jpeg
 role: postdoc
+description: Postdoc
 links:
   orcid: 0000-0002-3704-3560
   email: krijames@ucdavis.edu

@@ -1,8 +1,8 @@
 ---
 name: Kristen James
-aliases:
-  - Kristen James
-  - Kristen L James
+#aliases:
+#  - Kristen James
+#  - Kristen L James
 image: images/team/kristen-james_GitHub.jpeg
 role: postdoc
 description: Postdoc

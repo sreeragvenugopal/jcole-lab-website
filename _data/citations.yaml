@@ -1260,3 +1260,28 @@
   - Polygenic Scores
   - Type 2 Diabetes
   _cache: c53952e80cfa9aaeb88d52491f3e70c5bbe5e9b7d70ae4707ff73c20bd6c04da
+- id: doi:10.1093/eurheartj/ehac446
+  title: Dietary metabolic signatures and cardiometabolic risk
+  authors:
+  - Ravi V Shah
+  - Lyn M Steffen
+  - Matthew Nayor
+  - Jared P Reis
+  - David R Jacobs
+  - Norrina B Allen
+  - Donald Lloyd-Jones
+  - Katie Meyer
+  - Joanne Cole
+  - Paolo Piaggi
+  - Ramachandran S Vasan
+  - Clary B Clish
+  - Venkatesh L Murthy
+  publisher: European Heart Journal
+  date: '2022-11-25'
+  link: https://doi.org/grcwrr
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/eurheartj/PAP/10.1093_eurheartj_ehac446/2/m_ehac446ga1.jpeg?Expires=1672859842&Signature=pgZwroey4ojmTaxknvk41D-nohiZ0M5zdRjG9px1BhGkrieU9Hl~-U7bMOX1PvtWn7fG0pHAf8mDxu0jpDun9KpMhjylUQURJnomZt5Pnlh8SP4xECNzt~Eg3FQ9kM0hfFEkySUjXsbwmO2z5aOwOOTdBUL2btJu4ylkeh-Dki3w4gdILjr5pqFTvtitmu~SjipYXpDO4mban8EA4KZzq29Jnft9LASiBWfoci0FBja6N9ZSEwfP0fGv7znxn2244xAkQJoAcmfJLyaiQaci3mvUfzApEPcv9KVES5p4JpYYVytxqluJh3HBKH2cGthtDymVOVT8dCzCo0vUwHn5pw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  tags:
+  - Metabolomics
+  - Machine Learning
+  - Dietary Intake
+  _cache: e977a65f045149b9db37073634e9aea768ed5c81b7e9a8f11354f30fcb13b32e

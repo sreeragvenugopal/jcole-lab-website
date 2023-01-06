@@ -15,7 +15,7 @@ We are a computational group at the [University of Colorado School of Medicine](
 # Highlights
 
 {% capture text %}
-How do our genes influence our dietary intake? What are the underlying environmental and biological mechanisms? Which aspects of dietary intake causally influence disease? How can we extract more or new information from dietary assessments?
+How do our genes influence our dietary intake? What are the underlying environmental and biological mechanisms? Which aspects of dietary intake causally influence disease? How can we extract more or new information from dietary assessments? Can genetics play a role in Precision Nutrition?
 
 {%
   include link.html

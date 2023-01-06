@@ -1279,12 +1279,12 @@
   publisher: European Heart Journal
   date: '2022-11-25'
   link: https://doi.org/grcwrr
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/eurheartj/PAP/10.1093_eurheartj_ehac446/2/ehac446ga1.jpeg?Expires=1676049756&Signature=z9Suic-579gwrJpIerrrQLShFUYz0vdb5BWOG-iz2OUUl1gLBOUHfrSknFscHC5nFX-IJPPYMiMtVWxKYYWpjLtLZ9Nk-6-fxzH7DvzNtLNFZPlI5eschNlEchfiFfM-ROnYEvsmd~mnT9LlQm5adSzBj2gHt~4NQ8u-pAg080BZ19gQF4UC3s~tS7NArJBNnzIRnGSaOtNgyAJETw3OirYGFjsIFLMGglIOIxu1QpyCuGp8J6-c9Jjo3RNDxiPYHwi~tVNJWQUcFbj3RXZppTT5M3iKAbY8861Y4vKQCXoMyn0w2KiDqBWO-Wu-60yDlcmyttkXFBMtY81XcFNgwQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/eurheartj/PAP/10.1093_eurheartj_ehac446/2/m_ehac446f2.jpeg?Expires=1675237466&Signature=wnpzbwQOlmTwSDgklDt-SQvq-KmAPfRPmAghHIGePWaYMq3YWRXisZiX4bMUFX33bS~An2bzkGHgi-S-imKz729GYYi47ADXzC5vrdMh2KKmZsOdlwIjlwYqeF9lfEXiFPTGPORCo0oXgCNxZ~PzUJWzeRWYaYEBR0CULXjVXYs3-GXKU13JewgjaEWGZXhQ7z9kT2z7KYPa2pJ9fv7WIpZbzlhFZDFcjXxD2sos283Sutmmyv~rFE9tWYomYnD5nhZMh~583pqEUDr6bG~Fw52H1NlfqML929jaq3Q0s-Qy6cKzGY6zBk5r7Lu8J~2ayvcHyPg8Fn4~KYDo5HWHkA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   tags:
   - Metabolomics
   - Machine Learning
   - Dietary Intake
-  _cache: 5b2ab1b7052dcd82573f66090d8566324a027da2aec9b1afa4ff57298b725f07
+  _cache: ade6433129a91c8bcd64b7507bba3b62c8ed496e3496c1c8d6fad8417e1b81ac
 - id: doi:10.1038/s41467-022-34963-6
   title: Epigenome-wide meta-analysis identifies DNA methylation biomarkers associated
     with diabetic kidney disease

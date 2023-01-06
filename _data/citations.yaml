@@ -1285,3 +1285,93 @@
   - Machine Learning
   - Dietary Intake
   _cache: e977a65f045149b9db37073634e9aea768ed5c81b7e9a8f11354f30fcb13b32e
+- id: doi:10.1038/s41467-022-34963-6
+  title: Epigenome-wide meta-analysis identifies DNA methylation biomarkers associated
+    with diabetic kidney disease
+  authors:
+  - Laura J. Smyth
+  - "Emma H. Dahlstr\xF6m"
+  - Anna Syreeni
+  - Katie Kerr
+  - Jill Kilner
+  - Ross Doyle
+  - Eoin Brennan
+  - Viji Nair
+  - Damian Fermin
+  - Robert G. Nelson
+  - Helen C. Looker
+  - Christopher Wooster
+  - Darrell Andrews
+  - Kerry Anderson
+  - Gareth J. McKay
+  - Joanne B. Cole
+  - Rany M. Salem
+  - Peter J. Conlon
+  - Matthias Kretzler
+  - Joel N. Hirschhorn
+  - Denise Sadlier
+  - Catherine Godson
+  - Jose C. Florez
+  - Carol Forsblom
+  - Alexander P. Maxwell
+  - Per-Henrik Groop
+  - Niina Sandholm
+  - Amy Jayne McKnight
+  - ' '
+  publisher: Nature Communications
+  date: '2022-12-22'
+  link: https://doi.org/grk7fv
+  image: https://www.nature.com/articles/s41467-022-34963-6/figures/3
+  tags:
+  - EWAS
+  - Diabetic Kidney Disease
+  _cache: 57aa48574e84f7de548a54d648192418a5ea813cec3acffca13775c25b3b683f
+- id: doi:10.1007/s00125-022-05848-6
+  title: High-throughput genetic clustering of type 2 diabetes loci reveals heterogeneous
+    mechanistic pathways of metabolic disease
+  authors:
+  - Hyunkyung Kim
+  - Kenneth E. Westerman
+  - Kirk Smith
+  - Joshua Chiou
+  - Joanne B. Cole
+  - Timothy Majarian
+  - Marcin von Grotthuss
+  - Soo Heon Kwak
+  - Jaegil Kim
+  - Josep M. Mercader
+  - Jose C. Florez
+  - Kyle Gaulton
+  - Alisa K. Manning
+  - Miriam S. Udler
+  publisher: Diabetologia
+  date: '2022-12-20'
+  link: https://doi.org/grk7fw
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00125-022-05848-6/MediaObjects/125_2022_5848_Figa_HTML.png?as=webp
+  tags:
+  - Software
+  - Genetic Subtypes
+  - Type 2 Diabetes
+  extra-links:
+  - type: source
+    text: Software
+    link: https://github.com/gwas-partitioning/bnmf-clustering
+  _cache: b0bf5c53773c26618136a09688223e8f6982559fcc78368a080c8915cc3ac13e
+- id: doi:10.3389/fgene.2022.1070511
+  title: Genetic heritability as a tool to evaluate the precision of 24-hour recall
+    dietary questionnaire variables in UK Biobank
+  authors:
+  - Joanne B. Cole
+  - Kenneth E. Westerman
+  - Alisa K. Manning
+  - Jose C. Florez
+  - Joel N. Hirschhorn
+  publisher: Frontiers in Genetics
+  date: '2023-01-04'
+  link: https://doi.org/grk7fx
+  image: https://www.frontiersin.org/files/Articles/1070511/fgene-13-1070511-HTML-r1/image_m/fgene-13-1070511-g001.jpg
+  tags:
+  - Method
+  - Heritability
+  - Dietary Intake
+  _cache: e97028bcffd23cb8d6604ccdae9977a5f36565931a51d662323c543a1a256edd

@@ -1347,7 +1347,7 @@
   publisher: Diabetologia
   date: '2022-12-20'
   link: https://doi.org/grk7fw
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00125-022-05848-6/MediaObjects/125_2022_5848_Figa_HTML.png?as=webp
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00125-022-05848-6/MediaObjects/125_2022_5848_Fig2_HTML.png?as=webp
   tags:
   - Software
   - Genetic Subtypes
@@ -1356,7 +1356,7 @@
   - type: source
     text: Software
     link: https://github.com/gwas-partitioning/bnmf-clustering
-  _cache: b0bf5c53773c26618136a09688223e8f6982559fcc78368a080c8915cc3ac13e
+  _cache: 13b48fb49c3c8083a437619fc0a777347f4caf4923cd32e6d381bae2e72333d5
 - id: doi:10.3389/fgene.2022.1070511
   title: Genetic heritability as a tool to evaluate the precision of 24-hour recall
     dietary questionnaire variables in UK Biobank

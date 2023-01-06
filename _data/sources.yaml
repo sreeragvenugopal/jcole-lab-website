@@ -248,3 +248,27 @@
     - Metabolomics
     - Machine Learning
     - Dietary Intake
+
+- id: doi:10.1038/s41467-022-34963-6
+  image: https://www.nature.com/articles/s41467-022-34963-6/figures/3
+  tags:
+    - EWAS
+    - Diabetic Kidney Disease
+
+- id: doi:10.1007/s00125-022-05848-6
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00125-022-05848-6/MediaObjects/125_2022_5848_Figa_HTML.png?as=webp
+  tags:
+    - Software
+    - Genetic Subtypes
+    - Type 2 Diabetes
+  extra-links:
+    - type: source
+      text: Software
+      link: https://github.com/gwas-partitioning/bnmf-clustering
+      
+- id: doi:10.3389/fgene.2022.1070511
+  image: https://www.frontiersin.org/files/Articles/1070511/fgene-13-1070511-HTML-r1/image_m/fgene-13-1070511-g001.jpg
+  tags:
+    - Method
+    - Heritability
+    - Dietary Intake

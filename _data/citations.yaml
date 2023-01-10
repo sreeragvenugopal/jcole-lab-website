@@ -156,11 +156,11 @@
   publisher: eLS
   date: '2017-09-15'
   link: https://doi.org/gq4f72
-  image: https://onlinelibrary.wiley.com/doi/book/10.1002/047001590X
+  image: https://onlinelibrary.wiley.com/cms/asset/c4b56503-724b-4d97-95c8-6c8e2cb2fb62/047001590x.cover.jpg
   tags:
   - Review
   - Facial Shape
-  _cache: 6ef90d372cf257eb2912248c50d942f885e956f2ea97c3f29960a18667679858
+  _cache: 5701134fcab0f6254df0bf320c587675c284467c37686843ffabe02e61f59d2f
 - id: doi:doi:10.1111/joa.12576
   title: Rapid automated landmarking for morphometric analysis of three-dimensional
     facial scans

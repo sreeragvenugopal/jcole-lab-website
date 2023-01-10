@@ -90,7 +90,7 @@
       link: https://github.com/gwas-partitioning/bnmf-clustering
 
 - id: doi:10.1681/ASN.2019030218
-  image: https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=6779358_ASN.2019030218absf1.jpg
+  image: https://www.ncbi.nlm.nih.gov/corecgi/tileshop/tileshop.fcgi?p=PMC3&id=71931&s=93&r=1&c=3
   tags:
     - GWAS
     - Diabetic Kidney Disease

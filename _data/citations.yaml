@@ -1321,11 +1321,11 @@
   publisher: Nature Communications
   date: '2022-12-22'
   link: https://doi.org/grk7fv
-  image: https://www.nature.com/articles/s41467-022-34963-6/figures/3
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-022-34963-6/MediaObjects/41467_2022_34963_Fig3_HTML.png?as=webp
   tags:
   - EWAS
   - Diabetic Kidney Disease
-  _cache: 57aa48574e84f7de548a54d648192418a5ea813cec3acffca13775c25b3b683f
+  _cache: 9e5ca8c1ab63ce4e9ccbc8a699cfceba02e6186b1f207280ab561ea6207b2464
 - id: doi:10.1007/s00125-022-05848-6
   title: High-throughput genetic clustering of type 2 diabetes loci reveals heterogeneous
     mechanistic pathways of metabolic disease

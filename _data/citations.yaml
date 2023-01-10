@@ -390,7 +390,7 @@
   publisher: Journal of the American Society of Nephrology
   date: '2019-09-19'
   link: https://doi.org/gh89cd
-  image: https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=6779358_ASN.2019030218absf1.jpg
+  image: https://www.ncbi.nlm.nih.gov/corecgi/tileshop/tileshop.fcgi?p=PMC3&id=71931&s=93&r=1&c=3
   tags:
   - GWAS
   - Diabetic Kidney Disease
@@ -398,7 +398,7 @@
   - type: data
     text: Summary Statistics
     link: http://www.type2diabetesgenetics.org/informational/data
-  _cache: ee2c3a41883d5a92e2ac3621f9352689e8ae4e1031bab88e22e072a3ca6e70d8
+  _cache: 3fe6626e2593ec8654107f629256347ccaba8f4169eef12f781b9b5b37283468
 - id: doi:10.1038/s41581-020-0278-5
   title: Genetics of diabetes mellitus and diabetes complications
   authors:

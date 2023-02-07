@@ -90,7 +90,7 @@
       link: https://github.com/gwas-partitioning/bnmf-clustering
 
 - id: doi:10.1681/ASN.2019030218
-  image: https://www.ncbi.nlm.nih.gov/corecgi/tileshop/tileshop.fcgi?p=PMC3&id=71931&s=93&r=1&c=3
+  image: https://www.ncbi.nlm.nih.gov/corecgi/tileshop/tileshop.fcgi?p=PMC3&id=71944&s=93&r=1&c=2
   tags:
     - GWAS
     - Diabetic Kidney Disease
@@ -243,7 +243,7 @@
     - Type 2 Diabetes
 
 - id: doi:10.1093/eurheartj/ehac446
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/eurheartj/PAP/10.1093_eurheartj_ehac446/2/m_ehac446f2.jpeg?Expires=1675237466&Signature=wnpzbwQOlmTwSDgklDt-SQvq-KmAPfRPmAghHIGePWaYMq3YWRXisZiX4bMUFX33bS~An2bzkGHgi-S-imKz729GYYi47ADXzC5vrdMh2KKmZsOdlwIjlwYqeF9lfEXiFPTGPORCo0oXgCNxZ~PzUJWzeRWYaYEBR0CULXjVXYs3-GXKU13JewgjaEWGZXhQ7z9kT2z7KYPa2pJ9fv7WIpZbzlhFZDFcjXxD2sos283Sutmmyv~rFE9tWYomYnD5nhZMh~583pqEUDr6bG~Fw52H1NlfqML929jaq3Q0s-Qy6cKzGY6zBk5r7Lu8J~2ayvcHyPg8Fn4~KYDo5HWHkA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: https://academic.oup.com/view-large/figure/382817594/ehac446ga1.tif
   tags:
     - Metabolomics
     - Machine Learning

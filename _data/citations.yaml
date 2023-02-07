@@ -390,7 +390,7 @@
   publisher: Journal of the American Society of Nephrology
   date: '2019-09-19'
   link: https://doi.org/gh89cd
-  image: https://www.ncbi.nlm.nih.gov/corecgi/tileshop/tileshop.fcgi?p=PMC3&id=71931&s=93&r=1&c=3
+  image: https://www.ncbi.nlm.nih.gov/corecgi/tileshop/tileshop.fcgi?p=PMC3&id=71944&s=93&r=1&c=2
   tags:
   - GWAS
   - Diabetic Kidney Disease
@@ -398,7 +398,7 @@
   - type: data
     text: Summary Statistics
     link: http://www.type2diabetesgenetics.org/informational/data
-  _cache: 3fe6626e2593ec8654107f629256347ccaba8f4169eef12f781b9b5b37283468
+  _cache: 8ec3a067e2811fa5d8c1d3f3a6d60079fb1a8aff69f8dfd970634a55245c4cb6
 - id: doi:10.1038/s41581-020-0278-5
   title: Genetics of diabetes mellitus and diabetes complications
   authors:
@@ -1279,12 +1279,12 @@
   publisher: European Heart Journal
   date: '2022-11-25'
   link: https://doi.org/grcwrr
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/eurheartj/PAP/10.1093_eurheartj_ehac446/2/m_ehac446f2.jpeg?Expires=1675237466&Signature=wnpzbwQOlmTwSDgklDt-SQvq-KmAPfRPmAghHIGePWaYMq3YWRXisZiX4bMUFX33bS~An2bzkGHgi-S-imKz729GYYi47ADXzC5vrdMh2KKmZsOdlwIjlwYqeF9lfEXiFPTGPORCo0oXgCNxZ~PzUJWzeRWYaYEBR0CULXjVXYs3-GXKU13JewgjaEWGZXhQ7z9kT2z7KYPa2pJ9fv7WIpZbzlhFZDFcjXxD2sos283Sutmmyv~rFE9tWYomYnD5nhZMh~583pqEUDr6bG~Fw52H1NlfqML929jaq3Q0s-Qy6cKzGY6zBk5r7Lu8J~2ayvcHyPg8Fn4~KYDo5HWHkA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: https://academic.oup.com/view-large/figure/382817594/ehac446ga1.tif
   tags:
   - Metabolomics
   - Machine Learning
   - Dietary Intake
-  _cache: ade6433129a91c8bcd64b7507bba3b62c8ed496e3496c1c8d6fad8417e1b81ac
+  _cache: 77d7087c4a7ebde3d1202b5df6d27e55fb77fa6e7577d24f4675099f97c66ce8
 - id: doi:10.1038/s41467-022-34963-6
   title: Epigenome-wide meta-analysis identifies DNA methylation biomarkers associated
     with diabetic kidney disease

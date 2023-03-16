@@ -1375,3 +1375,28 @@
   - Heritability
   - Dietary Intake
   _cache: e97028bcffd23cb8d6604ccdae9977a5f36565931a51d662323c543a1a256edd
+- id: doi:10.2337/dc22-1954
+  title: Association and Interaction of Genetics and Area-Level Socioeconomic Factors
+    on the Prevalence of Type 2 Diabetes and Obesity
+  authors:
+  - Sara J. Cromer
+  - Chirag M. Lakhani
+  - Josep M. Mercader
+  - Timothy D. Majarian
+  - Philip Schroeder
+  - Joanne B. Cole
+  - Jose C. Florez
+  - Chirag J. Patel
+  - Alisa K. Manning
+  - Sherri-Ann M. Burnett-Bowie
+  - Jordi Merino
+  - Miriam S. Udler
+  publisher: Diabetes Care
+  date: '2023-02-14'
+  link: https://doi.org/grwfhp
+  image: https://ada.silverchair-cdn.com/ada/content_public/journal/care/pap/10.2337_dc22-1954/3/dc221954gf0ga.png?Expires=1681999913&Signature=1I0QVKsCSIgM9czxB6P13SSBulEz5zWG0d3ebgg7lzfqXgdaddO-M7OabErI-lgrVWHqzuq5nesOCVIJ-AXiuLWALdinUOoNR7Vk07rRZ48MWtetECmXN6irn~~7SCM4jNvlKPvKYDNyBpDN-KowL9LBhVy9Pd~vRdgZAMtSteAcPr-C3t0b8~Y4WA8ljfgjHIWIllbGtcHWf9DNf~93J2WFFbdpW0GVvcYWn5xKqAgfZ1-SP1ui5Gz09IpTvN0GLWjm2u04dx0P9mQLnV0P~xkxlaC8L9G-sg8SJId4iDA0hUQN~ReGFRKo-aFMMkFGVUCxt2C5J5L6ilrWeKOq5w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  tags:
+  - Polygenic Scores
+  - Type 2 Diabetes
+  - Socioeconomic Status
+  _cache: 2024fc35fd3c2b5b5566ef57172cd29f125b4f0dcb9d7b4fc8862b266e9848dc

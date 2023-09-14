@@ -14,9 +14,9 @@ undergrad:
   icon: fas fa-user-graduate
   text: Undergraduate Student
 
-programmer:
+pra:
   icon: fas fa-code
-  text: Programmer
+  text: PRA
 
 mascot:
   icon: fas fa-dog

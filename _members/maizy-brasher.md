@@ -1,8 +1,8 @@
 ---
 name: Maizy Brasher
 image: images/team/maizy_brasher_headshot.jpg
-description: intermediate information science professional/professional research assistant
-role: intermediate information science professional/professional research assistant
+description: PRA
+role: pra
 links:
   orcid: 0000-0002-4020-6551
   email: maizy.brasher@cuanschutz.edu

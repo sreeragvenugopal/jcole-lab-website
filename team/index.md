@@ -52,4 +52,9 @@ Our work is made possible by funding from several organizations.
   link2="https://www.niddk.nih.gov/"
   tooltip2="National Institute of Diabetes and Digestive and Kidney Diseases"
 
+  image3="images/funding/lfcwhr_h_clr_rgb copy.jpg"
+  link2="https://medschool.cuanschutz.edu/center-for-womens-health-research"
+  tooltip2="Ludeman Family Center for Women's Health Research"
+
+
 %}

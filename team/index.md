@@ -53,8 +53,8 @@ Our work is made possible by funding from several organizations.
   tooltip2="National Institute of Diabetes and Digestive and Kidney Diseases"
 
   image3="images/funding/lfcwhr_h_clr_rgb copy.jpg"
-  link2="https://medschool.cuanschutz.edu/center-for-womens-health-research"
-  tooltip2="Ludeman Family Center for Women's Health Research"
+  link3="https://medschool.cuanschutz.edu/center-for-womens-health-research"
+  tooltip3="Ludeman Family Center for Women's Health Research"
 
 
 %}

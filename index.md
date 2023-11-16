@@ -51,7 +51,7 @@ nutrition, epidemiology, and/or metabolism? Come join our team.
 
 {%
   include feature.html
-  image="images/lab-photos/ASHG_2022.jpeg"
+  image="images/lab-photos/ColeLab_2023.jpeg"
   link="team"
   title="Our Team"
   text=text

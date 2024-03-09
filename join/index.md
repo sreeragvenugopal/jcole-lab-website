@@ -8,12 +8,8 @@ We are a fully computational group that works closely with experimentalists and 
 As such, and depending on level, we require a background or interest in computational work.
 We aim to foster a diverse environment to enhance innovation and provide opportunities to all. 
 
-Current job postings:  
-Postdoctoral Fellow Ad @ [CU Careers](https://cu.taleo.net/careersection/jobdetail.ftl?job=27606&lang=en#.Y1L9slAH9k0)   
+<!--- Current job postings: Postdoctoral Fellow Ad @ [CU Careers](https://cu.taleo.net/careersection/jobdetail.ftl?job=27606&lang=en#.Y1L9slAH9k0) --->
 
+Prospective PhD students can join the lab via the [Human Medical Genetics and Genomics Program](https://www.cuanschutz.edu/graduate-programs/human-medical-genetics-and-genomics/home) 
 
-Prospective graduate students can join the lab via the [Human Medical Genetics and Genomics Program](https://www.cuanschutz.edu/graduate-programs/human-medical-genetics-and-genomics/home) 
-
-For questions about the above ads or to inquire about additional positions, please reach out to joanne.cole@cuanschutz.edu.
-
-
+We currently do not have any posted job openings, but please reach out to Joanne (joanne.cole@cuanschutz.edu) if interested in joining the team.

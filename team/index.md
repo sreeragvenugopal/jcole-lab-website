@@ -22,7 +22,7 @@ nav:
 
 ## The Cole Lab is hiring!
 {:.center}
-Come join us as we launch our lab
+Come join us as we grow the lab
 {:.center}
 
 {%

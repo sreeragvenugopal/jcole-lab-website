@@ -2,7 +2,7 @@
 name: Alex Unangst
 #aliases:
 # - Alex Unangst
-image: images/team/courtney_giannini_headshot.jpeg
+image: images/team/
 role: undergrad
 description: Undergrad
 links:

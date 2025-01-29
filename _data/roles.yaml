@@ -18,6 +18,10 @@ pra:
   icon: fas fa-code
   text: PRA
 
+gra:
+  icon: fas fa-code
+  text: GRA
+
 mascot:
   icon: fas fa-dog
   text: Mascot

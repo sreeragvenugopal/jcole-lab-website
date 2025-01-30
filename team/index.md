@@ -12,7 +12,8 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: pi, group: " %}
 {% include list.html data="members" component="portrait" filters="role: postdoc, group: " %}
 {% include list.html data="members" component="portrait" filters="role: phd, group: " %}
-{% include list.html data="members" component="portrait" filters="role: undergrad, group: " %}
+{% include list.html data="members" component="portrait" filters="role: undergraduate student, group: " %}
+{% include list.html data="members" component="portrait" filters="role: graduate student, group: " %}
 {% include list.html data="members" component="portrait" filters="role: pra, group: " %}
 {% include list.html data="members" component="portrait" filters="role: mascot, group: " %}
 
@@ -55,6 +56,9 @@ Our work is made possible by funding from several organizations.
   image3="images/funding/lfcwhr_h_clr_rgb copy.jpg"
   link3="https://medschool.cuanschutz.edu/center-for-womens-health-research"
   tooltip3="Ludeman Family Center for Women's Health Research"
-
+  
+  image4="images/funding/NIGMS.jpg"
+  link3="https://medschool.cuanschutz.edu/center-for-womens-health-research"
+  tooltip2="National Institute of General Medical Sciences"
 
 %}

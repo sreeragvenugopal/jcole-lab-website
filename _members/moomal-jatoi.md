@@ -2,8 +2,8 @@
 name: Moomal Jatoi
 
 image: images/team/mj_headshot.jpg
-role: GRA
-description: Graduate Research Assistant
+role: Graduate Student
+description: Graduate Student
 links:
   email: moomal.jatoi@cuanschutz.edu
 

@@ -10,7 +10,7 @@ phd student:
   icon: fas fa-graduation-cap
   text: PhD Student
 
-undergrad student:
+undergraduate student:
   icon: fas fa-user-graduate
   text: Undergraduate Student
 
@@ -19,7 +19,7 @@ analyst:
   text: Analyst
 
 graduate student:
-  icon: fas fa-code
+  icon: fas fa-user-graduate
   text: Graduate Student
 
 mascot:

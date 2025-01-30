@@ -14,9 +14,9 @@ undergrad student:
   icon: fas fa-user-graduate
   text: Undergraduate Student
 
-pra:
+analyst:
   icon: fas fa-code
-  text: PRA
+  text: Analyst
 
 graduate student:
   icon: fas fa-code

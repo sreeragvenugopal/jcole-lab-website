@@ -14,7 +14,7 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: phd, group: " %}
 {% include list.html data="members" component="portrait" filters="role: undergraduate student, group: " %}
 {% include list.html data="members" component="portrait" filters="role: graduate student, group: " %}
-{% include list.html data="members" component="portrait" filters="role: pra, group: " %}
+{% include list.html data="members" component="portrait" filters="role: analyst, group: " %}
 {% include list.html data="members" component="portrait" filters="role: mascot, group: " %}
 
 {:.center}

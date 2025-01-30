@@ -279,3 +279,24 @@
     - Polygenic Scores
     - Type 2 Diabetes
     - Socioeconomic Status
+
+- id: doi:10.1007/s00125-023-05912-9
+  image: https://link.springer.com/article/10.1007/s00125-023-05912-9/figures/3
+  tags:
+    - GWAS
+    - Polygenic Scores
+    - Type 2 Diabetes
+
+- id: doi:10.1038/s41588-024-01947-9
+  image: https://www.nature.com/articles/s41588-024-01947-9/figures/1
+  tags:
+    - GWAS
+    - Polygenic Scores
+    - Type 2 Diabetes
+    
+- id: doi:10.1038/10.1038/s41467-024-54839-1
+  image: https://www.nature.com/articles/s41467-024-54839-1/figures/2
+  tags:
+    - GWAS
+    - Facial Shape
+  

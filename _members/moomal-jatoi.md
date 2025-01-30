@@ -1,6 +1,5 @@
 ---
 name: Moomal Jatoi
-
 image: images/team/mj_headshot.jpg
 role: Graduate Student
 description: Graduate Student

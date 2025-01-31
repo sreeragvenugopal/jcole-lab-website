@@ -57,7 +57,7 @@ Our work is made possible by funding from several organizations.
   link3="https://medschool.cuanschutz.edu/center-for-womens-health-research"
   tooltip3="Ludeman Family Center for Women's Health Research"
   
-  image4="images/funding/NIGMS.jpg"
+  image4="images/funding/NIGMS_v2.jpg"
   link3="https://medschool.cuanschutz.edu/center-for-womens-health-research"
   tooltip2="National Institute of General Medical Sciences"
 

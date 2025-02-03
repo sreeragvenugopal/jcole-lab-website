@@ -20,6 +20,7 @@ auto-cite:
     - name: sources
       input:
         - ../_data/sources.yaml
+        - ../_data/orcid.yaml
   output: ../_data/citations.yaml
 
 # default front matter parameters for markdown files

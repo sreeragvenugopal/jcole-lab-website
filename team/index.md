@@ -21,7 +21,7 @@ nav:
 
 {% include section.html dark=true %}
 
-## Join the Cole Lab!
+<!-- ## Join the Cole Lab! -->
 {:.center}
 <!-- Come join us as we grow the lab -->
 {:.center}

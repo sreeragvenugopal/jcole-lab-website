@@ -1400,3 +1400,152 @@
   - Type 2 Diabetes
   - Socioeconomic Status
   _cache: 2024fc35fd3c2b5b5566ef57172cd29f125b4f0dcb9d7b4fc8862b266e9848dc
+- id: doi:10.1007/s00125-023-05912-9
+  title: The power of TOPMed imputation for the discovery of Latino-enriched rare
+    variants associated with type 2 diabetes
+  authors:
+  - Alicia Huerta-Chagoya
+  - Philip Schroeder
+  - Ravi Mandla
+  - Aaron J. Deutsch
+  - Wanying Zhu
+  - Lauren Petty
+  - Xiaoyan Yi
+  - Joanne B. Cole
+  - Miriam S. Udler
+  - Peter Dornbos
+  - Bianca Porneala
+  - Daniel DiCorpo
+  - Ching-Ti Liu
+  - Josephine H. Li
+  - "Lukasz Szczerbi\u0144ski"
+  - Varinderpal Kaur
+  - Joohyun Kim
+  - Yingchang Lu
+  - Alicia Martin
+  - Decio L. Eizirik
+  - Piero Marchetti
+  - Lorella Marselli
+  - Ling Chen
+  - Shylaja Srinivasan
+  - Jennifer Todd
+  - Jason Flannick
+  - Rose Gubitosi-Klug
+  - Lynne Levitsky
+  - Rachana Shah
+  - Megan Kelsey
+  - Brian Burke
+  - Dana M. Dabelea
+  - Jasmin Divers
+  - Santica Marcovina
+  - Lauren Stalbow
+  - Ruth J. F. Loos
+  - Burcu F. Darst
+  - Charles Kooperberg
+  - Laura M. Raffield
+  - Christopher Haiman
+  - Quan Sun
+  - Joseph B. McCormick
+  - Susan P. Fisher-Hoch
+  - "Maria L. Ordo\xF1ez"
+  - James Meigs
+  - Leslie J. Baier
+  - "Clicerio Gonz\xE1lez-Villalpando"
+  - "Maria Elena Gonz\xE1lez-Villalpando"
+  - Lorena Orozco
+  - "Lourdes Garc\xEDa-Garc\xEDa"
+  - "Andr\xE9s Moreno-Estrada"
+  - ' '
+  - Carlos A. Aguilar-Salinas
+  - "Teresa Tusi\xE9"
+  - "Jos\xE9e Dupuis"
+  - Maggie C. Y. Ng
+  - Alisa Manning
+  - Heather M. Highland
+  - Miriam Cnop
+  - Robert Hanson
+  - Jennifer Below
+  - Jose C. Florez
+  - Aaron Leong
+  - Josep M. Mercader
+  publisher: Diabetologia
+  date: '2023-05-06'
+  link: https://doi.org/g84q36
+  image: https://link.springer.com/article/10.1007/s00125-023-05912-9/figures/3
+  tags:
+  - GWAS
+  - Polygenic Scores
+  - Type 2 Diabetes
+  _cache: dad87c2a827d07e610307d0be962b6b6fb6a015694028f52e6e40565bc787523
+- id: doi:10.1038/s41588-024-01947-9
+  title: Rare variant analyses in 51,256 type 2 diabetes cases and 370,487 controls
+    reveal the pathogenicity spectrum of monogenic diabetes genes
+  authors:
+  - Alicia Huerta-Chagoya
+  - Philip Schroeder
+  - Ravi Mandla
+  - Jiang Li
+  - Lowri Morris
+  - Maheak Vora
+  - Ahmed Alkanaq
+  - Dorka Nagy
+  - Lukasz Szczerbinski
+  - Jesper G. S. Madsen
+  - "Silvia Bon\xE0s-Guarch"
+  - Fanny Mollandin
+  - Joanne B. Cole
+  - Bianca Porneala
+  - Kenneth Westerman
+  - Josephine H. Li
+  - Toni I. Pollin
+  - Jose C. Florez
+  - Anna L. Gloyn
+  - David J. Carey
+  - "In\xEAs Cebola"
+  - Uyenlinh L. Mirshahi
+  - Alisa K. Manning
+  - Aaron Leong
+  - Miriam Udler
+  - Josep M. Mercader
+  publisher: Nature Genetics
+  date: '2024-10-08'
+  link: https://doi.org/g84q37
+  image: https://www.nature.com/articles/s41588-024-01947-9/figures/1
+  tags:
+  - GWAS
+  - Polygenic Scores
+  - Type 2 Diabetes
+  _cache: 8b8174a2174eb5efc5eb9bd118ab0bfcadbda4b1762c4922a1ca1c7cff7f1388
+- id: doi:10.1038/s41467-024-54839-1
+  title: Syndrome-informed phenotyping identifies a polygenic background for achondroplasia-like
+    facial variation in the general population
+  authors:
+  - Michiel Vanneste
+  - Hanne Hoskens
+  - Seppe Goovaerts
+  - Harold Matthews
+  - Jay Devine
+  - Jose D. Aponte
+  - Joanne Cole
+  - Mark Shriver
+  - Mary L. Marazita
+  - Seth M. Weinberg
+  - Susan Walsh
+  - Stephen Richmond
+  - Ophir D. Klein
+  - Richard A. Spritz
+  - Hilde Peeters
+  - "Benedikt Hallgr\xEDmsson"
+  - Peter Claes
+  publisher: Nature Communications
+  date: '2024-12-02'
+  link: https://doi.org/g84q4c
+  image: https://www.nature.com/articles/s41467-024-54839-1/figures/2
+  tags:
+  - GWAS
+  - Facial Shape
+  _cache: 41ead265f43dcbe83ed84824ec8a203a2ab4ce1a88d75b296d8357d210ac3fdb
+- orcid: 0000-0001-9520-2788
+  member: joanne-cole
+  _cache: 15a78c0c7f27cf1e1d6d12a76bf1992b2c6080c92017a8069d3efc35b8de1845
+  date: ''

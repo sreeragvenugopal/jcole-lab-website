@@ -281,21 +281,21 @@
     - Socioeconomic Status
 
 - id: doi:10.1007/s00125-023-05912-9
-  image: https://link.springer.com/article/10.1007/s00125-023-05912-9/figures/3
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs00125-023-05912-9/MediaObjects/125_2023_5912_Fig3_HTML.png
   tags:
     - GWAS
     - Polygenic Scores
     - Type 2 Diabetes
 
 - id: doi:10.1038/s41588-024-01947-9
-  image: https://www.nature.com/articles/s41588-024-01947-9/figures/1
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-024-01947-9/MediaObjects/41588_2024_1947_Fig1_HTML.png
   tags:
     - GWAS
     - Polygenic Scores
     - Type 2 Diabetes
     
 - id: doi:10.1038/s41467-024-54839-1
-  image: https://www.nature.com/articles/s41467-024-54839-1/figures/2
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-024-54839-1/MediaObjects/41467_2024_54839_Fig1_HTML.png
   tags:
     - GWAS
     - Facial Shape

@@ -57,7 +57,11 @@ Our work is made possible by funding from several organizations.
   link3="https://medschool.cuanschutz.edu/center-for-womens-health-research"
   tooltip3="Ludeman Family Center for Women's Health Research"
   
-  image4="images/funding/NIGMS_v2.jpg"
+  image4="images/funding/TRSP.jpg"
+  link3="https://medschool.cuanschutz.edu/program-to-advance-physician-scientists-translational-research/physician-scientist-initiatives/Early-faculty-TRSP"
+  tooltip3="Translational Research Scholars Program"
+  
+  image5="images/funding/NIGMS_v2.jpg"
   link3="https://medschool.cuanschutz.edu/center-for-womens-health-research"
   tooltip2="National Institute of General Medical Sciences"
 

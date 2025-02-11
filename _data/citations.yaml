@@ -1471,12 +1471,12 @@
   publisher: Diabetologia
   date: '2023-05-06'
   link: https://doi.org/g84q36
-  image: https://link.springer.com/article/10.1007/s00125-023-05912-9/figures/3
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs00125-023-05912-9/MediaObjects/125_2023_5912_Fig3_HTML.png
   tags:
   - GWAS
   - Polygenic Scores
   - Type 2 Diabetes
-  _cache: dad87c2a827d07e610307d0be962b6b6fb6a015694028f52e6e40565bc787523
+  _cache: 5256fa18c9d0b5572aa4277eca0612e6012ca0294f03e7fcb6e9d58aa1f0931c
 - id: doi:10.1038/s41588-024-01947-9
   title: Rare variant analyses in 51,256 type 2 diabetes cases and 370,487 controls
     reveal the pathogenicity spectrum of monogenic diabetes genes
@@ -1510,12 +1510,12 @@
   publisher: Nature Genetics
   date: '2024-10-08'
   link: https://doi.org/g84q37
-  image: https://www.nature.com/articles/s41588-024-01947-9/figures/1
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-024-01947-9/MediaObjects/41588_2024_1947_Fig1_HTML.png
   tags:
   - GWAS
   - Polygenic Scores
   - Type 2 Diabetes
-  _cache: 8b8174a2174eb5efc5eb9bd118ab0bfcadbda4b1762c4922a1ca1c7cff7f1388
+  _cache: c09f0a24f5f416bad2f6e66efd9516df1ff4cdca50b3243712f228caa19a1d97
 - id: doi:10.1038/s41467-024-54839-1
   title: Syndrome-informed phenotyping identifies a polygenic background for achondroplasia-like
     facial variation in the general population
@@ -1540,11 +1540,11 @@
   publisher: Nature Communications
   date: '2024-12-02'
   link: https://doi.org/g84q4c
-  image: https://www.nature.com/articles/s41467-024-54839-1/figures/2
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-024-54839-1/MediaObjects/41467_2024_54839_Fig1_HTML.png
   tags:
   - GWAS
   - Facial Shape
-  _cache: 41ead265f43dcbe83ed84824ec8a203a2ab4ce1a88d75b296d8357d210ac3fdb
+  _cache: 127c7ccc9d0edcf480523a170acd25aa3b341abeb067f410b02b56d934645608
 - orcid: 0000-0001-9520-2788
   joanne-cole: true
   _cache: d4afc65971f64a7e48cae7c34c5845bf4ac8da5c0e148b9a882271f4043ba5d9

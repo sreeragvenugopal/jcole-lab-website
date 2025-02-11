@@ -1,8 +1,8 @@
 ---
 name: Sreerag Venugopalan
 image: images/team/sreerag_headshot.jpg
-description: Professional Research Assistant
-role: PRA
+description: PRA
+role: pra
 links:
   orcid: 
   email: sreerag.venugopalan@cuanschutz.edu

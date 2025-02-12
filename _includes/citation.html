@@ -25,7 +25,7 @@
   {%- assign id = citation.id | default: "" -%}
   {%- assign link = citation.link | default: "" -%}
   {%- assign image = citation.image | default: "" -%}
-  {%- if rich or image != "" -%}
+  {%- if rich or image == "" -%}
     <div class="citation_image">
       <a href="{{ link }}">
         <img

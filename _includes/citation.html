@@ -55,8 +55,8 @@
       {{ authors | join: ", " }}
     </div>
 
-    {%- assign publisher = citation.publisher | default: "[no publisher info]" -%}
-    {%- assign date = citation.date | default: "[no date info]" -%}
+    {%- assign publisher = citation.publisher | default: emptyarray -%}
+    {%- assign date = citation.date | default: emptyarray -%}
     <div class="citation_details">
       {{ publisher }}&nbsp; · &nbsp;{{ date | date: "%d %b %Y" }}
     </div>

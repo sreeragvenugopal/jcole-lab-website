@@ -29,7 +29,7 @@
     <div class="citation_image">
       <a href="{{ link }}">
         <img
-          src="{{ image | emptyarray }}"
+          src="{{ image | relative_url }}"
           onerror="this.src = '{{ placeholder }}'; this.onerror = null;"
           data-tooltip="{{ id }}"
           loading="lazy"

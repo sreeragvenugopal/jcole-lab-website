@@ -10,14 +10,13 @@
       {%- break -%}
     {%- endif -%}
   {%- endfor -%}
-{%- else -%}
-  {%- assign citation = include -%}
 {%- endif -%}
 
-{%- assign rich = false -%}
-{%- if include.style == "rich" -%}
-  {%- assign rich = true -%}
-{%- endif -%}
+{%- if citation -%}  <!-- Only render if citation is valid -->
+  {%- assign rich = false -%}
+  {%- if include.style == "rich" -%}
+    {%- assign rich = true -%}
+  {%- endif -%}
 
 {%- assign placeholder = "images/placeholder.svg" | relative_url -%}
 

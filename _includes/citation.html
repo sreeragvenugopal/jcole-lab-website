@@ -11,7 +11,7 @@
     {%- endif -%}
   {%- endfor -%}
 {%- else -%}
-  {%- assign citation = include -%}
+  {%- assign citation = include | default: emptyarray -%}
 {%- endif -%}
 
 {%- assign rich = false -%}

@@ -19,7 +19,7 @@
   {%- assign rich = true -%}
 {%- endif -%}
 
-{%- assign placeholder = "images/placeholder.svg" | relative_url -%}
+{%- assign placeholder = "images/placeholder.svg" | default: emptyarray -%}
 
 <div class="citation" data-style="{{ include.style }}">
   {%- assign id = citation.id | default: "" -%}

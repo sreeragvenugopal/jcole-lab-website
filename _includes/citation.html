@@ -11,7 +11,7 @@
     {%- endif -%}
   {%- endfor -%}
 {%- else -%}
-  {%- assign citation = nil -%}
+  {%- assign citation = include -%}
 {%- endif -%}
 
 {%- assign rich = false -%}
@@ -21,7 +21,7 @@
 
 {%- assign placeholder = "images/placeholder.svg" | relative_url -%}
 
-{%- if citation != nil -%}
+{%- if citations != include -%}
   <div class="citation" data-style="{{ include.style }}">
     {%- assign id = citation.id | default: "" -%}
     {%- assign link = citation.link | default: "" -%}

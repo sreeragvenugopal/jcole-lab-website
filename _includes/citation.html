@@ -14,6 +14,7 @@
   {%- assign citation = include -%}
 {%- endif -%}
 
+{%- if citaiton -%}
 {%- assign rich = false -%}
 {%- if include.style == "rich" -%}
   {%- assign rich = true -%}
@@ -80,3 +81,4 @@
     {%- endif -%}
   </div>
 </div>
+{%- endif -%}

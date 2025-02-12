@@ -10,8 +10,10 @@
       {%- break -%}
     {%- endif -%}
   {%- endfor -%}
+{% comment %}
 {%- else -%}
   {%- assign citation = include -%}
+{% endcomment %}
 {%- endif -%}
 
 {%- assign rich = false -%}

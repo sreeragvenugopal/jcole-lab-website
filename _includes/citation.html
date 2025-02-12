@@ -21,7 +21,7 @@
 
 {%- assign placeholder = "images/placeholder.svg" | relative_url -%}
 
-{%- if citations != include -%}
+{%- if citation != include -%}
   <div class="citation" data-style="{{ include.style }}">
     {%- assign id = citation.id | default: "" -%}
     {%- assign link = citation.link | default: "" -%}

@@ -2,15 +2,17 @@
 {%- assign output = site.auto-cite.output | default: "citations" | split: "/" | last | split: "." | pop | join: "" -%}
 {%- assign citations = site.data[output] | default: emptyarray -%} 
 
-{% if include.lookup %}
-  {% assign citation = site.data.citations
-    | where_exp: "citation",
-      "citation.id == include.lookup or citation.title contains include.lookup"
-    | first
-  %}
-{% else %}
-  {% assign citation = include %}
-{% endif %}
+{%- assign citation = nil -%}
+{%- if include.lookup -%}
+  {%- for c in citations -%}
+    {%- if c.id == include.lookup or c.title contains include.lookup -%}
+      {%- assign citation = c -%}
+      {%- break -%}
+    {%- endif -%}
+  {%- endfor -%}
+{%- else -%}
+ {%- assign citation = include -%}
+{%- endif -%}
 
 {%- assign rich = false -%}
 {%- if include.style == "rich" -%}
